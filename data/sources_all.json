@@ -1,0 +1,4602 @@
+[
+ {
+  "no": "1",
+  "cat": "A1",
+  "name": "中国国际大学生创新大赛",
+  "kind": "official",
+  "label": "全国大学生创业服务网（大赛官网）",
+  "url": "https://cy.ncss.cn/"
+ },
+ {
+  "no": "1",
+  "cat": "A1",
+  "name": "中国国际大学生创新大赛",
+  "kind": "host_page",
+  "label": "教育部关于举办中国国际大学生创新大赛（2026）的通知",
+  "url": "http://www.moe.gov.cn/srcsite/A08/s5672/202607/t20260731_1445670.html"
+ },
+ {
+  "no": "2",
+  "cat": "A1",
+  "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+  "kind": "official",
+  "label": "第十九届“挑战杯”全国大学生课外学术科技作品竞赛官网",
+  "url": "https://2025.tiaozhanbei.net/"
+ },
+ {
+  "no": "2",
+  "cat": "A1",
+  "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+  "kind": "host_page",
+  "label": "南京大学新闻网（第十九届决赛承办高校）",
+  "url": "https://www.nju.edu.cn/info/1056/445691.htm"
+ },
+ {
+  "no": "3",
+  "cat": "A1",
+  "name": "“挑战杯”中国大学生创业计划竞赛",
+  "kind": "official",
+  "label": "第十五届“挑战杯”中国大学生创业计划竞赛官网",
+  "url": "https://2026.tiaozhanbei.net/"
+ },
+ {
+  "no": "3",
+  "cat": "A1",
+  "name": "“挑战杯”中国大学生创业计划竞赛",
+  "kind": "host_page",
+  "label": "关于举办第十五届“挑战杯”中国大学生创业计划竞赛的通知",
+  "url": "https://2026.tiaozhanbei.net/d51/article/727/"
+ },
+ {
+  "no": "4",
+  "cat": "A2",
+  "name": "全国大学生创新创业训练计划年会展示",
+  "kind": "official",
+  "label": "全国大学生创新年会官网",
+  "url": "https://www.gjcxcy.cn/"
+ },
+ {
+  "no": "4",
+  "cat": "A2",
+  "name": "全国大学生创新创业训练计划年会展示",
+  "kind": "host_page",
+  "label": "南京大学本科生院（第十八届全国大学生创新年会）",
+  "url": "https://jw.nju.edu.cn/34/38/c24774a799800/page.htm"
+ },
+ {
+  "no": "5",
+  "cat": "A2",
+  "name": "“挑战杯”全国大学生课外学术科技作品竞赛（专项赛）",
+  "kind": "official",
+  "label": "第十九届“挑战杯”“人工智能+”专项赛赛事页",
+  "url": "https://2025.tiaozhanbei.net/d49/ai_plus"
+ },
+ {
+  "no": "5",
+  "cat": "A2",
+  "name": "“挑战杯”全国大学生课外学术科技作品竞赛（专项赛）",
+  "kind": "host_page",
+  "label": "第十九届“挑战杯”通知公告",
+  "url": "https://2025.tiaozhanbei.net/d49/competion_notice"
+ },
+ {
+  "no": "6",
+  "cat": "A2",
+  "name": "“挑战杯”中国大学生创业计划竞赛（专项赛）",
+  "kind": "official",
+  "label": "第十五届“挑战杯”东北振兴产业升级专项赛",
+  "url": "https://2026.tiaozhanbei.net/d51/dbzx"
+ },
+ {
+  "no": "6",
+  "cat": "A2",
+  "name": "“挑战杯”中国大学生创业计划竞赛（专项赛）",
+  "kind": "host_page",
+  "label": "第十五届“挑战杯”通知公告",
+  "url": "https://2026.tiaozhanbei.net/d51/competion_notice"
+ },
+ {
+  "no": "7",
+  "cat": "A2",
+  "name": "全国大学生职业生涯规划大赛",
+  "kind": "official",
+  "label": "全国大学生职业规划大赛平台（官网）",
+  "url": "https://zgs.chsi.com.cn/home"
+ },
+ {
+  "no": "7",
+  "cat": "A2",
+  "name": "全国大学生职业生涯规划大赛",
+  "kind": "host_page",
+  "label": "教育部关于举办第三届全国大学生职业规划大赛的通知",
+  "url": "http://www.moe.gov.cn/srcsite/A15/s7063/202510/t20251021_1417550.html"
+ },
+ {
+  "no": "8",
+  "cat": "A2",
+  "name": "中国大学生工程实践与创新能力大赛",
+  "kind": "official",
+  "label": "中国大学生工程实践与创新能力大赛官网",
+  "url": "http://www.gcxl.edu.cn/"
+ },
+ {
+  "no": "8",
+  "cat": "A2",
+  "name": "中国大学生工程实践与创新能力大赛",
+  "kind": "host_page",
+  "label": "吉林大学工程训练中心（全国总决赛新闻）",
+  "url": "https://gcxl.jlu.edu.cn/info/1021/1268.htm"
+ },
+ {
+  "no": "9",
+  "cat": "A2",
+  "name": "全国大学生金相技能大赛",
+  "kind": "official",
+  "label": "大学生金相技能大赛官网",
+  "url": "https://www.jxds.tech/"
+ },
+ {
+  "no": "9",
+  "cat": "A2",
+  "name": "全国大学生金相技能大赛",
+  "kind": "host_page",
+  "label": "大学生金相技能大赛通知公告",
+  "url": "https://www.jxds.tech/tongzhi"
+ },
+ {
+  "no": "10",
+  "cat": "A2",
+  "name": "中国研究生“双碳”创新与创意大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛官网",
+  "url": "https://cpipc.acge.org.cn/"
+ },
+ {
+  "no": "10",
+  "cat": "A2",
+  "name": "中国研究生“双碳”创新与创意大赛",
+  "kind": "host_page",
+  "label": "清华大学碳中和研究院（第五届大赛开启报名）",
+  "url": "https://www.icon.tsinghua.edu.cn/info/1080/2272.htm"
+ },
+ {
+  "no": "11",
+  "cat": "A2",
+  "name": "全国大学生节能减排社会实践与科技竞赛",
+  "kind": "official",
+  "label": "全国大学生节能减排社会实践与科技竞赛官网",
+  "url": "https://www.jienengjianpai.org/"
+ },
+ {
+  "no": "11",
+  "cat": "A2",
+  "name": "全国大学生节能减排社会实践与科技竞赛",
+  "kind": "host_page",
+  "label": "“大工能动杯”第十九届决赛通知",
+  "url": "https://www.jienengjianpai.org/sys-nd/417.html"
+ },
+ {
+  "no": "12",
+  "cat": "A2",
+  "name": "全国大学生数学建模竞赛",
+  "kind": "official",
+  "label": "全国大学生数学建模竞赛官网",
+  "url": "https://www.mcm.edu.cn/"
+ },
+ {
+  "no": "12",
+  "cat": "A2",
+  "name": "全国大学生数学建模竞赛",
+  "kind": "host_page",
+  "label": "全国大学生数学建模竞赛云南赛区组织工作通知",
+  "url": "https://www.cmathc.org.cn/mcm/sqdt/522.html"
+ },
+ {
+  "no": "13",
+  "cat": "A2",
+  "name": "中国研究生数学建模竞赛",
+  "kind": "official",
+  "label": "中国研究生数学建模竞赛官网",
+  "url": "https://www.cmathc.org.cn/"
+ },
+ {
+  "no": "13",
+  "cat": "A2",
+  "name": "中国研究生数学建模竞赛",
+  "kind": "host_page",
+  "label": "第二十三届中国研究生数学建模竞赛参赛通知",
+  "url": "https://www.cmathc.org.cn/cpmcm/news/471.html"
+ },
+ {
+  "no": "14",
+  "cat": "A2",
+  "name": "中国研究生电子设计竞赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛官网",
+  "url": "https://cpipc.acge.org.cn/"
+ },
+ {
+  "no": "14",
+  "cat": "A2",
+  "name": "中国研究生电子设计竞赛",
+  "kind": "host_page",
+  "label": "中国民用航空飞行学院（第二十一届研电赛西南赛区评审通知）",
+  "url": "https://www.cafuc.edu.cn/jwcx/info/1021/1791.htm"
+ },
+ {
+  "no": "15",
+  "cat": "A2",
+  "name": "全国大学生电子设计竞赛",
+  "kind": "official",
+  "label": "全国大学生电子设计竞赛官网（组委会秘书处·西安交通大学）",
+  "url": "http://nuedc.xjtu.edu.cn/"
+ },
+ {
+  "no": "15",
+  "cat": "A2",
+  "name": "全国大学生电子设计竞赛",
+  "kind": "official",
+  "label": "全国大学生电子设计竞赛培训网",
+  "url": "https://www.nuedc-training.com.cn/"
+ },
+ {
+  "no": "15",
+  "cat": "A2",
+  "name": "全国大学生电子设计竞赛",
+  "kind": "host_page",
+  "label": "全国大学生电子设计竞赛组委会通知公告",
+  "url": "http://nuedc.xjtu.edu.cn/index/index/lists/catid/6.html"
+ },
+ {
+  "no": "16",
+  "cat": "A2",
+  "name": "全国大学生机械创新设计大赛",
+  "kind": "official",
+  "label": "全国大学生机械创新设计大赛官网",
+  "url": "https://umic.moocollege.com/home/homepage"
+ },
+ {
+  "no": "16",
+  "cat": "A2",
+  "name": "全国大学生机械创新设计大赛",
+  "kind": "host_page",
+  "label": "第十二届全国大学生机械创新设计大赛（承办高校哈尔滨工业大学）",
+  "url": "http://12umic.hit.edu.cn/"
+ },
+ {
+  "no": "17",
+  "cat": "A2",
+  "name": "中国研究生能源装备创新设计大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛·能源装备创新设计大赛",
+  "url": "https://cpipc.acge.org.cn/cw/hp/7"
+ },
+ {
+  "no": "17",
+  "cat": "A2",
+  "name": "中国研究生能源装备创新设计大赛",
+  "kind": "host_page",
+  "label": "长江大学将承办第十三届能源装备创新设计大赛（承办单位新闻）",
+  "url": "https://news.yangtzeu.edu.cn/info/1003/37616.htm"
+ },
+ {
+  "no": "18",
+  "cat": "A2",
+  "name": "中国研究生智慧城市技术与创意设计大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛·智慧城市技术与创意设计大赛",
+  "url": "https://cpipc.acge.org.cn/cw/hp/1"
+ },
+ {
+  "no": "18",
+  "cat": "A2",
+  "name": "中国研究生智慧城市技术与创意设计大赛",
+  "kind": "host_page",
+  "label": "第十二届智慧城市大赛参赛邀请函（承办单位哈尔滨工业大学）",
+  "url": "https://today.hit.edu.cn/article/2026/08/28/130993"
+ },
+ {
+  "no": "18",
+  "cat": "A2",
+  "name": "中国研究生智慧城市技术与创意设计大赛",
+  "kind": "host_page",
+  "label": "第十二届智慧城市大赛参赛邀请函（北京理工大学研究生院）",
+  "url": "https://grd.bit.edu.cn/pygz/cxpy/tzgg_cxpy/564246339f5e40d68d95111861dccfc3.htm"
+ },
+ {
+  "no": "19",
+  "cat": "A2",
+  "name": "全国大学生结构设计竞赛",
+  "kind": "official",
+  "label": "全国大学生结构设计竞赛官网",
+  "url": "http://www.structurecontest.com/"
+ },
+ {
+  "no": "19",
+  "cat": "A2",
+  "name": "全国大学生结构设计竞赛",
+  "kind": "host_page",
+  "label": "安徽省教育厅关于举办2026年第九届安徽省大学生结构设计竞赛的通知",
+  "url": "https://jyt.ah.gov.cn/content/article/40789425"
+ },
+ {
+  "no": "20",
+  "cat": "A2",
+  "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+  "kind": "official",
+  "label": "全国大学生电子商务“创新、创意及创业”挑战赛官网",
+  "url": "https://www.3chuang.net/"
+ },
+ {
+  "no": "20",
+  "cat": "A2",
+  "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+  "kind": "host_page",
+  "label": "安徽省教育厅关于举办第十六届三创赛安徽赛区选拔赛的通知",
+  "url": "https://jyt.ah.gov.cn/tsdw/gdjyc/dxsxkhjnjs/40790593.html"
+ },
+ {
+  "no": "21",
+  "cat": "A2",
+  "name": "全国大学生智能汽车竞赛",
+  "kind": "official",
+  "label": "全国大学生智能汽车竞赛官网",
+  "url": "http://www.smartcarrace.com/"
+ },
+ {
+  "no": "21",
+  "cat": "A2",
+  "name": "全国大学生智能汽车竞赛",
+  "kind": "host_page",
+  "label": "中国自动化学会·全国大学生智能汽车竞赛",
+  "url": "https://www.caa.org.cn/Content/260.html"
+ },
+ {
+  "no": "22",
+  "cat": "A2",
+  "name": "全国大学生物流设计大赛",
+  "kind": "official",
+  "label": "中国物流与采购联合会竞赛平台（大学生物流设计大赛官方平台）",
+  "url": "http://dspt.clppx.org.cn/"
+ },
+ {
+  "no": "22",
+  "cat": "A2",
+  "name": "全国大学生物流设计大赛",
+  "kind": "host_page",
+  "label": "中国物流与采购联合会竞赛平台-新闻公告（官方通知发布页）",
+  "url": "http://dspt.clppx.org.cn/index/mainNewsList"
+ },
+ {
+  "no": "23",
+  "cat": "A2",
+  "name": "全国大学生医学创新大赛暨“一带一路”国际竞赛",
+  "kind": "official",
+  "label": "高校学生竞赛网（全国大学生医学创新大赛官网）",
+  "url": "http://www.jcyxds.com/"
+ },
+ {
+  "no": "24",
+  "cat": "A2",
+  "name": "全国大学生广告艺术大赛",
+  "kind": "official",
+  "label": "全国大学生广告艺术大赛官网",
+  "url": "https://www.sun-ada.net/"
+ },
+ {
+  "no": "24",
+  "cat": "A2",
+  "name": "全国大学生广告艺术大赛",
+  "kind": "host_page",
+  "label": "大广赛官网-参赛通知（官方通知发布页）",
+  "url": "https://www.sun-ada.net/home/about_intrs3.html"
+ },
+ {
+  "no": "25",
+  "cat": "A2",
+  "name": "中国研究生“美丽中国”创新设计大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛官网",
+  "url": "https://cpipc.acge.org.cn/"
+ },
+ {
+  "no": "25",
+  "cat": "A2",
+  "name": "中国研究生“美丽中国”创新设计大赛",
+  "kind": "host_page",
+  "label": "“美丽中国”创新设计大赛主题赛事页",
+  "url": "https://cpipc.acge.org.cn/cw/hp/2c908018876ef068018774a9501a03fe"
+ },
+ {
+  "no": "26",
+  "cat": "A2",
+  "name": "ACM-ICPC国际大学生程序设计竞赛",
+  "kind": "official",
+  "label": "ICPC国际大学生程序设计竞赛官网",
+  "url": "https://icpc.global/"
+ },
+ {
+  "no": "26",
+  "cat": "A2",
+  "name": "ACM-ICPC国际大学生程序设计竞赛",
+  "kind": "official",
+  "label": "ICPC北京总部（北京大学）",
+  "url": "https://icpc.pku.edu.cn/"
+ },
+ {
+  "no": "26",
+  "cat": "A2",
+  "name": "ACM-ICPC国际大学生程序设计竞赛",
+  "kind": "host_page",
+  "label": "ICPC北京总部-公告（官方通知发布页）",
+  "url": "https://icpc.pku.edu.cn/tzgg/index.htm"
+ },
+ {
+  "no": "27",
+  "cat": "A2",
+  "name": "全国大学生化工设计竞赛",
+  "kind": "official",
+  "label": "全国大学生化工设计竞赛官网（浙江大学化工学院承办）",
+  "url": "http://iche.zju.edu.cn/"
+ },
+ {
+  "no": "27",
+  "cat": "A2",
+  "name": "全国大学生化工设计竞赛",
+  "kind": "host_page",
+  "label": "全国大学生化工设计竞赛-赛事通知",
+  "url": "https://iche.zju.edu.cn/index.php/sstz.html"
+ },
+ {
+  "no": "28",
+  "cat": "A2",
+  "name": "全国大学生生命科学竞赛（CULSC）－生命科学竞赛、生命科学创新创业大赛",
+  "kind": "official",
+  "label": "全国大学生生命科学竞赛官网",
+  "url": "https://culsc.cn/"
+ },
+ {
+  "no": "28",
+  "cat": "A2",
+  "name": "全国大学生生命科学竞赛（CULSC）－生命科学竞赛、生命科学创新创业大赛",
+  "kind": "host_page",
+  "label": "全国大学生生命科学竞赛-赛事通知专栏",
+  "url": "https://culsc.cn/#/Edunotice?id=4"
+ },
+ {
+  "no": "29",
+  "cat": "B1",
+  "name": "中美青年创客大赛",
+  "kind": "official",
+  "label": "中美青年创客大赛官网",
+  "url": "https://chinaus-maker.cscse.edu.cn/"
+ },
+ {
+  "no": "29",
+  "cat": "B1",
+  "name": "中美青年创客大赛",
+  "kind": "host_page",
+  "label": "中美青年创客大赛武汉赛区官方页面",
+  "url": "https://chinaus-maker.cscse.edu.cn/chinaus-maker/dsxw90/sqxw97/wh/index.html"
+ },
+ {
+  "no": "29",
+  "cat": "B1",
+  "name": "中美青年创客大赛",
+  "kind": "host_page",
+  "label": "2026上海赛区报名通知（上海理工大学创新创业学院）",
+  "url": "https://cxcy.usst.edu.cn/2026/0512/c16859a361408/page.htm"
+ },
+ {
+  "no": "30",
+  "cat": "B1",
+  "name": "中国研究生国际中文教育案例大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛·国际中文教育案例大赛赛事主页",
+  "url": "https://cpipc.acge.org.cn/cw/hp/2c9080158e2ad864018e5fa55a450c49"
+ },
+ {
+  "no": "30",
+  "cat": "B1",
+  "name": "中国研究生国际中文教育案例大赛",
+  "kind": "host_page",
+  "label": "第二届总决赛承办单位华东师范大学官方新闻",
+  "url": "https://www.ecnu.edu.cn/info/1094/70632.htm"
+ },
+ {
+  "no": "31",
+  "cat": "B1",
+  "name": "睿抗机器人开发者大赛（RAICOM）",
+  "kind": "official",
+  "label": "睿抗（RAICOM）大赛官网",
+  "url": "https://www.raicom.com.cn/"
+ },
+ {
+  "no": "31",
+  "cat": "B1",
+  "name": "睿抗机器人开发者大赛（RAICOM）",
+  "kind": "host_page",
+  "label": "2026睿抗全国总决赛（第二阶段）通知",
+  "url": "https://www.raicom.com.cn/content.html?cid=1834"
+ },
+ {
+  "no": "31",
+  "cat": "B1",
+  "name": "睿抗机器人开发者大赛（RAICOM）",
+  "kind": "host_page",
+  "label": "武汉科技大学创新创业学院参赛通知",
+  "url": "http://cxcy.wust.edu.cn/info/1371/12322.htm"
+ },
+ {
+  "no": "32",
+  "cat": "B1",
+  "name": "中国机器人及人工智能大赛",
+  "kind": "official",
+  "label": "中国机器人及人工智能大赛官网",
+  "url": "https://www.caairobot.com/"
+ },
+ {
+  "no": "32",
+  "cat": "B1",
+  "name": "中国机器人及人工智能大赛",
+  "kind": "host_page",
+  "label": "第二十八届全国决赛（合肥）通知",
+  "url": "https://www.caairobot.com/post/notification-finalhefei-craic2026/"
+ },
+ {
+  "no": "32",
+  "cat": "B1",
+  "name": "中国机器人及人工智能大赛",
+  "kind": "host_page",
+  "label": "大赛通知公告页",
+  "url": "https://www.caairobot.com/tag/notification/"
+ },
+ {
+  "no": "33",
+  "cat": "B1",
+  "name": "全国大学生化工实验大赛",
+  "kind": "official",
+  "label": "中国化工教育协会·全国大学生化工实验大赛竞赛官网",
+  "url": "http://www.cteic.com/higherEducationShow-4517.html"
+ },
+ {
+  "no": "33",
+  "cat": "B1",
+  "name": "全国大学生化工实验大赛",
+  "kind": "host_page",
+  "label": "第九届全国总决赛承办单位郑州大学官方新闻",
+  "url": "https://www.zzu.edu.cn/info/1217/88811.htm"
+ },
+ {
+  "no": "34",
+  "cat": "B1",
+  "name": "全国大学生化学实验创新设计大赛",
+  "kind": "official",
+  "label": "全国大学生化学实验创新设计竞赛网（南京大学）",
+  "url": "https://cid.nju.edu.cn/"
+ },
+ {
+  "no": "34",
+  "cat": "B1",
+  "name": "全国大学生化学实验创新设计大赛",
+  "kind": "host_page",
+  "label": "第五届总决赛承办单位兰州大学官方新闻",
+  "url": "https://chemec.lzu.edu.cn/col_xwdt1/202509/257F036868CE08531B9F974C7A55B30D.htm"
+ },
+ {
+  "no": "34",
+  "cat": "B1",
+  "name": "全国大学生化学实验创新设计大赛",
+  "kind": "host_page",
+  "label": "竞赛网总决赛通知页",
+  "url": "https://cid.nju.edu.cn/redirectActionxwgl/detail/290"
+ },
+ {
+  "no": "35",
+  "cat": "B1",
+  "name": "湖北省大学生生物实验技能竞赛",
+  "kind": "host_page",
+  "label": "武汉工程大学创新创业学院·关于组织参加湖北省大学生生物实验技能竞赛（2025）的通知（附2025完整方案，含承办高校与赛制）",
+  "url": "http://ie.wit.edu.cn/info/1010/3299.htm"
+ },
+ {
+  "no": "35",
+  "cat": "B1",
+  "name": "湖北省大学生生物实验技能竞赛",
+  "kind": "host_page",
+  "label": "武汉华夏理工学院生物与制药工程学院·关于举办湖北省大学生生物实验技能竞赛（2026）校内选拔赛的通知（转述2026省赛安排）",
+  "url": "https://www.whhxit.edu.cn/swzy/info/1012/85171.htm"
+ },
+ {
+  "no": "35",
+  "cat": "B1",
+  "name": "湖北省大学生生物实验技能竞赛",
+  "kind": "host_page",
+  "label": "承办单位湖北工业大学生命科学与健康工程学院官方新闻（2026年湖北省大学生生物实验技能竞赛微生物单项赛）",
+  "url": "https://life.hbut.edu.cn/info/1051/6456.htm"
+ },
+ {
+  "no": "36",
+  "cat": "B1",
+  "name": "全国大学生地质技能竞赛",
+  "kind": "official",
+  "label": "中国地质学会官网（竞赛主办单位）",
+  "url": "https://www.geosociety.org.cn/"
+ },
+ {
+  "no": "36",
+  "cat": "B1",
+  "name": "全国大学生地质技能竞赛",
+  "kind": "host_page",
+  "label": "西南石油大学第八届全国大学生地质技能竞赛初赛及决赛队员选拔通知（第八届承办高校）",
+  "url": "https://www.swpu.edu.cn/dky/info/1012/38301.htm"
+ },
+ {
+  "no": "37",
+  "cat": "B1",
+  "name": "中国研究生乡村振兴科技强农+创新大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛官网（赛事主办方）",
+  "url": "https://cpipc.acge.org.cn/"
+ },
+ {
+  "no": "37",
+  "cat": "B1",
+  "name": "中国研究生乡村振兴科技强农+创新大赛",
+  "kind": "official",
+  "label": "乡村振兴科技强农+创新大赛赛事主页",
+  "url": "https://cpipc.acge.org.cn/cw/hp/2c90800c7a132603017a1395f2c105f9"
+ },
+ {
+  "no": "37",
+  "cat": "B1",
+  "name": "中国研究生乡村振兴科技强农+创新大赛",
+  "kind": "host_page",
+  "label": "中国学位与研究生教育学会大赛通知与赛程发布页",
+  "url": "https://cpipc.acge.org.cn/pw/notice/list/1"
+ },
+ {
+  "no": "38",
+  "cat": "B1",
+  "name": "全国大学生物理实验竞赛",
+  "kind": "official",
+  "label": "全国大学生物理实验竞赛（创新）官方网站（摩课云竞赛平台）",
+  "url": "http://wlsycx.moocollege.com/"
+ },
+ {
+  "no": "38",
+  "cat": "B1",
+  "name": "全国大学生物理实验竞赛",
+  "kind": "host_page",
+  "label": "哈尔滨工业大学第十二届全国大学生物理实验竞赛（创新）报名通知（承办高校）",
+  "url": "http://today.hit.edu.cn/article/2026/03/10/127956"
+ },
+ {
+  "no": "39",
+  "cat": "B1",
+  "name": "全国大学生光电设计竞赛",
+  "kind": "official",
+  "label": "全国大学生光电设计竞赛官方网站（中国光学学会主办）",
+  "url": "http://gd.moocollege.com/"
+ },
+ {
+  "no": "39",
+  "cat": "B1",
+  "name": "全国大学生光电设计竞赛",
+  "kind": "host_page",
+  "label": "长春理工大学光电工程学院——第十四届全国大学生光电设计竞赛全国总决赛（承办高校）",
+  "url": "https://gd.cust.edu.cn/gddt/3be802dcaa16499abd8b51f5667c7cf8.htm"
+ },
+ {
+  "no": "40",
+  "cat": "B1",
+  "name": "全国周培源大学生力学竞赛",
+  "kind": "official",
+  "label": "全国周培源大学生力学竞赛官方网站（中国力学学会主办）",
+  "url": "http://zpy.cstam.org.cn/"
+ },
+ {
+  "no": "40",
+  "cat": "B1",
+  "name": "全国周培源大学生力学竞赛",
+  "kind": "host_page",
+  "label": "中国力学学会关于举办第十五届全国周培源大学生力学竞赛的通知",
+  "url": "https://www.cstam.org.cn/188/202503/21103.html"
+ },
+ {
+  "no": "41",
+  "cat": "B1",
+  "name": "全国大学生统计建模大赛",
+  "kind": "official",
+  "label": "全国大学生统计建模大赛官网（中国统计教育学会主办）",
+  "url": "http://tjjmds.ai-learning.net/"
+ },
+ {
+  "no": "41",
+  "cat": "B1",
+  "name": "全国大学生统计建模大赛",
+  "kind": "host_page",
+  "label": "内蒙古财经大学统计数学学院——第十二届全国大学生统计建模大赛国赛现场评审会（国赛承办高校）",
+  "url": "https://www.imufe.edu.cn/tjysxxy/info/1093/3646.htm"
+ },
+ {
+  "no": "42",
+  "cat": "B1",
+  "name": "全国大学生市场调查与分析大赛",
+  "kind": "official",
+  "label": "中国商业统计学会官网（大赛主办单位）",
+  "url": "http://www.china-cssc.org/"
+ },
+ {
+  "no": "42",
+  "cat": "B1",
+  "name": "全国大学生市场调查与分析大赛",
+  "kind": "host_page",
+  "label": "全国大学生市场调查与分析大赛大赛专题（总决赛通知发布页）",
+  "url": "http://www.china-cssc.org/list-60-1.html"
+ },
+ {
+  "no": "43",
+  "cat": "B1",
+  "name": "全国大学生数学竞赛（决赛）",
+  "kind": "official",
+  "label": "中国数学会·全国大学生数学竞赛",
+  "url": "https://www.cms.org.cn/Home/comp/comp/cid/16.html"
+ },
+ {
+  "no": "43",
+  "cat": "B1",
+  "name": "全国大学生数学竞赛（决赛）",
+  "kind": "official",
+  "label": "大学生数学竞赛网",
+  "url": "https://www.cmathc.org.cn/"
+ },
+ {
+  "no": "43",
+  "cat": "B1",
+  "name": "全国大学生数学竞赛（决赛）",
+  "kind": "host_page",
+  "label": "湖北省数学学会·第十八届湖北赛区竞赛通知",
+  "url": "https://www.cmathc.org.cn/sqtz/632.html"
+ },
+ {
+  "no": "43",
+  "cat": "B1",
+  "name": "全国大学生数学竞赛（决赛）",
+  "kind": "host_page",
+  "label": "四川大学·我校承办第十七届全国大学生数学竞赛决赛",
+  "url": "https://newspaper.scu.edu.cn/info/2123/5038.htm"
+ },
+ {
+  "no": "44",
+  "cat": "B1",
+  "name": "两岸新锐设计竞赛“华灿奖”",
+  "kind": "official",
+  "label": "中国高等教育学会·“两岸新锐设计竞赛·华灿奖”专题页（通知称2026年10月19日起正式开放）",
+  "url": "https://www.cahe.edu.cn/site/term/908.html"
+ },
+ {
+  "no": "44",
+  "cat": "B1",
+  "name": "两岸新锐设计竞赛“华灿奖”",
+  "kind": "official",
+  "label": "中国高等教育学会·关于举办2026新锐设计竞赛·华灿奖的通知（主办方常年发布赛事通知的学会通知栏目页）",
+  "url": "https://www.cahe.edu.cn/site/content/19817.html"
+ },
+ {
+  "no": "44",
+  "cat": "B1",
+  "name": "两岸新锐设计竞赛“华灿奖”",
+  "kind": "official",
+  "label": "华灿奖原官网（系统升级维护中，2026-10-19起改由学会专题页开放）",
+  "url": "https://www.huacanjiang.com/"
+ },
+ {
+  "no": "44",
+  "cat": "B1",
+  "name": "两岸新锐设计竞赛“华灿奖”",
+  "kind": "official",
+  "label": "中国高等教育学会·新锐设计竞赛华灿奖专题",
+  "url": "https://www.cahe.edu.cn/site/term/906.html"
+ },
+ {
+  "no": "44",
+  "cat": "B1",
+  "name": "两岸新锐设计竞赛“华灿奖”",
+  "kind": "host_page",
+  "label": "河北工程技术学院教务处·第十届河北省两岸新锐设计竞赛·华灿奖报名通知（河北赛区组织通知页）",
+  "url": "https://jwc.hebuet.edu.cn/info/1049/9983.htm"
+ },
+ {
+  "no": "44",
+  "cat": "B1",
+  "name": "两岸新锐设计竞赛“华灿奖”",
+  "kind": "host_page",
+  "label": "重庆交通大学·关于举办第十届两岸新锐设计竞赛-华灿奖的通知（赛区/高校组织通知页）",
+  "url": "http://midc.cqjtu.edu.cn/info/1015/6261.htm"
+ },
+ {
+  "no": "44",
+  "cat": "B1",
+  "name": "两岸新锐设计竞赛“华灿奖”",
+  "kind": "host_page",
+  "label": "中国高等教育学会·关于举办2026新锐设计竞赛·华灿奖的通知",
+  "url": "https://www.cahe.edu.cn/site/content/19817.html"
+ },
+ {
+  "no": "45",
+  "cat": "B1",
+  "name": "米兰设计周-中国高校设计学科师生优秀作品展",
+  "kind": "official",
+  "label": "米兰设计周-中国高校设计学科师生优秀作品展官网",
+  "url": "https://milan-aap.org.cn/"
+ },
+ {
+  "no": "46",
+  "cat": "B1",
+  "name": "未来设计师·全国高校数字艺术设计大赛",
+  "kind": "official",
+  "label": "未来设计师·全国高校数字艺术设计大赛官网",
+  "url": "https://www.ncda.org.cn/"
+ },
+ {
+  "no": "46",
+  "cat": "B1",
+  "name": "未来设计师·全国高校数字艺术设计大赛",
+  "kind": "host_page",
+  "label": "河南大学·全国高校数字艺术设计大赛河南赛区工作会议",
+  "url": "http://w2022.henu.edu.cn/info/1083/113746.htm"
+ },
+ {
+  "no": "47",
+  "cat": "B1",
+  "name": "中国好创意暨全国数字艺术设计大赛",
+  "kind": "official",
+  "label": "中国好创意暨全国数字艺术设计大赛官网",
+  "url": "https://www.cdec.org.cn/"
+ },
+ {
+  "no": "47",
+  "cat": "B1",
+  "name": "中国好创意暨全国数字艺术设计大赛",
+  "kind": "host_page",
+  "label": "大连交通大学·第20届中国好创意辽宁赛区参赛简章",
+  "url": "http://art.djtu.edu.cn/28/528.html"
+ },
+ {
+  "no": "48",
+  "cat": "B1",
+  "name": "全国大学生工业设计大赛",
+  "kind": "official",
+  "label": "全国大学生工业设计大赛官网",
+  "url": "http://www.cuidc.net/"
+ },
+ {
+  "no": "48",
+  "cat": "B1",
+  "name": "全国大学生工业设计大赛",
+  "kind": "host_page",
+  "label": "安徽省教育厅·2026年全国大学生工业设计大赛（安徽赛区）通知",
+  "url": "https://jyt.ah.gov.cn/content/article/40794882"
+ },
+ {
+  "no": "48",
+  "cat": "B1",
+  "name": "全国大学生工业设计大赛",
+  "kind": "host_page",
+  "label": "长春工业大学·第八届全国大学生工业设计大赛吉林赛区通知",
+  "url": "https://www.ccut.edu.cn/sjjsw/info/1037/1496.htm"
+ },
+ {
+  "no": "49",
+  "cat": "B1",
+  "name": "中国研究生文化中国两创大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛·文化中国两创大赛",
+  "url": "https://cpipc.acge.org.cn/cw/hp/2c9080178e896671018e97ce7525018b"
+ },
+ {
+  "no": "49",
+  "cat": "B1",
+  "name": "中国研究生文化中国两创大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛官网",
+  "url": "https://cpipc.acge.org.cn/"
+ },
+ {
+  "no": "49",
+  "cat": "B1",
+  "name": "中国研究生文化中国两创大赛",
+  "kind": "host_page",
+  "label": "山西大学·第三届中国研究生文化中国两创大赛接旗",
+  "url": "http://xkjsbgs.sxu.edu.cn/gzdt/0fb00c55efda4216b79275a77173dbd9.htm"
+ },
+ {
+  "no": "49",
+  "cat": "B1",
+  "name": "中国研究生文化中国两创大赛",
+  "kind": "host_page",
+  "label": "北京理工大学研究生院·第三届文化中国两创大赛参赛邀请函",
+  "url": "https://grd.bit.edu.cn/pygz/cxpy/tzgg_cxpy/63ddb4a81a854eff9b4823613de5fa5b.htm"
+ },
+ {
+  "no": "50",
+  "cat": "B1",
+  "name": "中国大学生医学技术技能大赛",
+  "kind": "official",
+  "label": "全国医学教育发展中心（大赛组织与官方发布）",
+  "url": "https://medu.bjmu.edu.cn/"
+ },
+ {
+  "no": "50",
+  "cat": "B1",
+  "name": "中国大学生医学技术技能大赛",
+  "kind": "host_page",
+  "label": "大赛重要通知发布页（全国医学教育发展中心）",
+  "url": "https://medu.bjmu.edu.cn/cms/show.action?code=publish_4af037e16e264f60016eaa7dea970ef5&siteid=100001&channelid=0000000059"
+ },
+ {
+  "no": "51",
+  "cat": "B1",
+  "name": "中国大学生计算机设计大赛",
+  "kind": "official",
+  "label": "中国大学生计算机设计大赛官网",
+  "url": "https://jsjds.blcu.edu.cn/"
+ },
+ {
+  "no": "51",
+  "cat": "B1",
+  "name": "中国大学生计算机设计大赛",
+  "kind": "host_page",
+  "label": "东北师范大学承办2026年国家级决赛",
+  "url": "https://jwc.nenu.edu.cn/info/1665/14214.htm"
+ },
+ {
+  "no": "52",
+  "cat": "B1",
+  "name": "中国高校计算机大赛－大数据挑战赛、团体程序设计天梯赛、移动应用创新赛、网络技术挑战赛、人工智能创意赛",
+  "kind": "official",
+  "label": "中国高校计算机大赛（C4）官网",
+  "url": "http://www.c4best.cn/"
+ },
+ {
+  "no": "52",
+  "cat": "B1",
+  "name": "中国高校计算机大赛－大数据挑战赛、团体程序设计天梯赛、移动应用创新赛、网络技术挑战赛、人工智能创意赛",
+  "kind": "official",
+  "label": "团体程序设计天梯赛官网",
+  "url": "https://gplt.patest.cn/"
+ },
+ {
+  "no": "52",
+  "cat": "B1",
+  "name": "中国高校计算机大赛－大数据挑战赛、团体程序设计天梯赛、移动应用创新赛、网络技术挑战赛、人工智能创意赛",
+  "kind": "host_page",
+  "label": "网络技术挑战赛官网（赛项官方页面）",
+  "url": "http://net.c4best.cn/"
+ },
+ {
+  "no": "52",
+  "cat": "B1",
+  "name": "中国高校计算机大赛－大数据挑战赛、团体程序设计天梯赛、移动应用创新赛、网络技术挑战赛、人工智能创意赛",
+  "kind": "host_page",
+  "label": "大数据挑战赛官网（清华承办赛项主页）",
+  "url": "https://nercbds.tsinghua.edu.cn/bdc/szsm.html"
+ },
+ {
+  "no": "53",
+  "cat": "B1",
+  "name": "蓝桥杯全国软件和信息技术专业人才大赛",
+  "kind": "official",
+  "label": "蓝桥杯大赛官网",
+  "url": "https://dasai.lanqiao.cn/"
+ },
+ {
+  "no": "54",
+  "cat": "B1",
+  "name": "全国大学生信息安全竞赛",
+  "kind": "official",
+  "label": "全国大学生信息安全竞赛官方网站",
+  "url": "http://www.ciscn.cn/"
+ },
+ {
+  "no": "54",
+  "cat": "B1",
+  "name": "全国大学生信息安全竞赛",
+  "kind": "host_page",
+  "label": "2026年作品赛通知（哈工大网络空间安全学院承办）",
+  "url": "http://cybersec.xjtu.edu.cn/info/1017/2188.htm"
+ },
+ {
+  "no": "55",
+  "cat": "B1",
+  "name": "“中国软件杯”大学生软件设计大赛",
+  "kind": "official",
+  "label": "中国软件杯大赛官网",
+  "url": "https://www.cnsoftbei.com/"
+ },
+ {
+  "no": "55",
+  "cat": "B1",
+  "name": "“中国软件杯”大学生软件设计大赛",
+  "kind": "host_page",
+  "label": "第十五届大赛全国总决赛通知",
+  "url": "https://www.cnsoftbei.com/content-1-1357-1.html"
+ },
+ {
+  "no": "56",
+  "cat": "B1",
+  "name": "华为ICT大赛",
+  "kind": "official",
+  "label": "华为ICT大赛官网（华为ICT学院赛事页）",
+  "url": "https://e.huawei.com/cn/talent/ict-academy/#/ict-contest"
+ },
+ {
+  "no": "56",
+  "cat": "B1",
+  "name": "华为ICT大赛",
+  "kind": "host_page",
+  "label": "兰州理工大学承办第十届大赛甘肃省实践赛",
+  "url": "https://www.lut.edu.cn/info/1154/121228.htm"
+ },
+ {
+  "no": "57",
+  "cat": "B1",
+  "name": "iCAN大学生创新创业大赛",
+  "kind": "official",
+  "label": "iCAN大赛官方网站",
+  "url": "http://www.g-ican.com/"
+ },
+ {
+  "no": "57",
+  "cat": "B1",
+  "name": "iCAN大学生创新创业大赛",
+  "kind": "host_page",
+  "label": "iCAN大赛官网通知公告页",
+  "url": "http://www.g-ican.com/notice"
+ },
+ {
+  "no": "58",
+  "cat": "B1",
+  "name": "百度之星·程序设计大赛",
+  "kind": "official",
+  "label": "百度之星程序设计大赛官网",
+  "url": "https://star.baidu.com/"
+ },
+ {
+  "no": "59",
+  "cat": "B1",
+  "name": "全国大学生计算机系统能力大赛",
+  "kind": "official",
+  "label": "全国大学生计算机系统能力大赛官网",
+  "url": "https://www.nscscc.com/"
+ },
+ {
+  "no": "59",
+  "cat": "B1",
+  "name": "全国大学生计算机系统能力大赛",
+  "kind": "host_page",
+  "label": "西北工业大学计算机学院：全国总决赛在西工大举办",
+  "url": "https://jsj.nwpu.edu.cn/info/1598/30095.htm"
+ },
+ {
+  "no": "60",
+  "cat": "B1",
+  "name": "全国大学生物联网设计竞赛",
+  "kind": "official",
+  "label": "全国大学生物联网设计竞赛官网",
+  "url": "https://iot.sjtu.edu.cn/"
+ },
+ {
+  "no": "60",
+  "cat": "B1",
+  "name": "全国大学生物联网设计竞赛",
+  "kind": "host_page",
+  "label": "竞赛组委会官方通知页（上海交通大学）",
+  "url": "https://iot.sjtu.edu.cn/news.aspx?info_lb=34&flag=2"
+ },
+ {
+  "no": "61",
+  "cat": "B1",
+  "name": "全国大学生信息安全与对抗技术竞赛",
+  "kind": "official",
+  "label": "信息安全与对抗技术竞赛（ISCC）官网",
+  "url": "https://www.isclab.org.cn/"
+ },
+ {
+  "no": "61",
+  "cat": "B1",
+  "name": "全国大学生信息安全与对抗技术竞赛",
+  "kind": "host_page",
+  "label": "北京理工大学信息系统及安全对抗实验中心ISCC栏目",
+  "url": "https://www.isclab.org.cn/category/iscc/"
+ },
+ {
+  "no": "62",
+  "cat": "B1",
+  "name": "中国研究生网络安全创新大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛平台·网络安全创新大赛专题",
+  "url": "https://cpipc.acge.org.cn/cw/hp/2c90800c8093eef401809d33b36f0652"
+ },
+ {
+  "no": "62",
+  "cat": "B1",
+  "name": "中国研究生网络安全创新大赛",
+  "kind": "host_page",
+  "label": "哈尔滨工业大学：中国研究生网络安全创新大赛报名通知",
+  "url": "http://today.hit.edu.cn/article/2025/08/07/123544"
+ },
+ {
+  "no": "63",
+  "cat": "B1",
+  "name": "中国研究生人工智能创新大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛平台·人工智能创新大赛专题",
+  "url": "https://cpipc.acge.org.cn/cw/hp/2c9088a5696cbf370169a3f8101510bd"
+ },
+ {
+  "no": "63",
+  "cat": "B1",
+  "name": "中国研究生人工智能创新大赛",
+  "kind": "host_page",
+  "label": "山东大学研究生之家：第二届山东大学研究生人工智能创新大赛通知（承办第八届）",
+  "url": "https://ygb.sdu.edu.cn/info/1011/20571.htm"
+ },
+ {
+  "no": "64",
+  "cat": "B1",
+  "name": "中国研究生操作系统开源创新大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛官网",
+  "url": "https://cpipc.acge.org.cn/"
+ },
+ {
+  "no": "64",
+  "cat": "B1",
+  "name": "中国研究生操作系统开源创新大赛",
+  "kind": "official",
+  "label": "第三届中国研究生操作系统开源创新大赛官网",
+  "url": "https://cpipc.acge.org.cn/cw/hp/2c9080178c7c917b018d1b1a0af61cd6"
+ },
+ {
+  "no": "64",
+  "cat": "B1",
+  "name": "中国研究生操作系统开源创新大赛",
+  "kind": "host_page",
+  "label": "第三届大赛参赛通知（上海交通大学研究生院）",
+  "url": "https://gs.sjtu.edu.cn/post/detail/Z3MzNzI5"
+ },
+ {
+  "no": "65",
+  "cat": "B1",
+  "name": "中国大学生服务外包创新创业大赛",
+  "kind": "official",
+  "label": "中国大学生服务外包创新创业大赛官网",
+  "url": "https://www.fwwb.org.cn/"
+ },
+ {
+  "no": "65",
+  "cat": "B1",
+  "name": "中国大学生服务外包创新创业大赛",
+  "kind": "host_page",
+  "label": "第十七届大赛全国赛决赛（江南大学）",
+  "url": "https://ai.jiangnan.edu.cn/info/1036/2521.htm"
+ },
+ {
+  "no": "66",
+  "cat": "B1",
+  "name": "全国大学生集成电路创新创业大赛",
+  "kind": "official",
+  "label": "全国大学生集成电路创新创业大赛官网",
+  "url": "https://univ.ciciec.com/"
+ },
+ {
+  "no": "66",
+  "cat": "B1",
+  "name": "全国大学生集成电路创新创业大赛",
+  "kind": "host_page",
+  "label": "第十届集创赛分赛区决赛通知",
+  "url": "https://univ.ciciec.com/nd.jsp?id=1081&fromMid=1047"
+ },
+ {
+  "no": "66",
+  "cat": "B1",
+  "name": "全国大学生集成电路创新创业大赛",
+  "kind": "host_page",
+  "label": "2026年第十届大赛通知（四川大学教务处）",
+  "url": "https://jwc.scu.edu.cn/info/1043/10448.htm"
+ },
+ {
+  "no": "67",
+  "cat": "B1",
+  "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+  "kind": "official",
+  "label": "中信科移动通信技术股份有限公司官网·新闻资讯（主办单位发布历届“大唐杯/信科赛”赛事新闻与通知的栏目页）",
+  "url": "https://www.cictmobile.com/news/important_1.html"
+ },
+ {
+  "no": "67",
+  "cat": "B1",
+  "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+  "kind": "official",
+  "label": "中国通信企业协会官网·技能竞赛栏目（主办单位一级学会/行业协会赛事发布栏目）",
+  "url": "https://www.cace.org.cn/News/Newslist?key=aae98e4020073ee5e3450f3e50a877d2"
+ },
+ {
+  "no": "67",
+  "cat": "B1",
+  "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+  "kind": "official",
+  "label": "工业和信息化部人才交流中心官网·通知公告栏目（主办单位赛事及行业通知发布栏目）",
+  "url": "https://www.miitec.cn/xwzx/tzgg/index.html"
+ },
+ {
+  "no": "67",
+  "cat": "B1",
+  "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+  "kind": "host_page",
+  "label": "武汉科技大学·第十三届“信科赛”全国总决赛在黄家湖校区落幕（第十三届总决赛承办高校官方发布页）",
+  "url": "https://www.wust.edu.cn/info/1521/473682.htm"
+ },
+ {
+  "no": "67",
+  "cat": "B1",
+  "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+  "kind": "host_page",
+  "label": "第十三届大赛报名通知（中国石油大学（华东））",
+  "url": "https://ocean.upc.edu.cn/2025/1223/c15099a480914/page.htm"
+ },
+ {
+  "no": "67",
+  "cat": "B1",
+  "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+  "kind": "host_page",
+  "label": "2026年第十三届大赛报名通知（北京石油化工学院信息工程学院）",
+  "url": "https://www.bipt.edu.cn/pub/xinxi/xwdt/b2eec69601f24bbc8a66150bb38e5618.htm"
+ },
+ {
+  "no": "67",
+  "cat": "B1",
+  "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+  "kind": "host_page",
+  "label": "关于报名参加全国大学生新一代信息通信科技大赛的通知（哈尔滨工业大学）",
+  "url": "http://today.hit.edu.cn/article/2025/12/26/127003"
+ },
+ {
+  "no": "68",
+  "cat": "B1",
+  "name": "全国大学生嵌入式芯片与系统设计大赛",
+  "kind": "official",
+  "label": "全国大学生嵌入式芯片与系统设计竞赛官网",
+  "url": "http://www.socchina.net/"
+ },
+ {
+  "no": "68",
+  "cat": "B1",
+  "name": "全国大学生嵌入式芯片与系统设计大赛",
+  "kind": "host_page",
+  "label": "第九届（2026）大赛芯片应用赛道通知（四川大学教务处）",
+  "url": "https://jwc.scu.edu.cn/info/1069/10506.htm"
+ },
+ {
+  "no": "69",
+  "cat": "B1",
+  "name": "中国研究生创“芯”大赛",
+  "kind": "official",
+  "label": "中国研究生创“芯”大赛官网",
+  "url": "https://cpipc.acge.org.cn/cw/hp/10"
+ },
+ {
+  "no": "69",
+  "cat": "B1",
+  "name": "中国研究生创“芯”大赛",
+  "kind": "host_page",
+  "label": "第九届全国总决赛（南方科技大学承办）",
+  "url": "https://newshub.sustech.edu.cn/html/202608/47813.html"
+ },
+ {
+  "no": "69",
+  "cat": "B1",
+  "name": "中国研究生创“芯”大赛",
+  "kind": "host_page",
+  "label": "第九届大赛参赛通知（北京理工大学研究生院）",
+  "url": "https://grd.bit.edu.cn/pygz/cxpy/tzgg_cxpy/45e65a2a15544b7d888e9de3bdd2eadb.htm"
+ },
+ {
+  "no": "70",
+  "cat": "B1",
+  "name": "“西门子杯”中国智能制造挑战赛",
+  "kind": "official",
+  "label": "“西门子杯”中国智能制造挑战赛官网",
+  "url": "http://www.siemenscup-cimc.org.cn/"
+ },
+ {
+  "no": "70",
+  "cat": "B1",
+  "name": "“西门子杯”中国智能制造挑战赛",
+  "kind": "host_page",
+  "label": "CIMC官方新闻通知（2026年第二十届通知）",
+  "url": "http://www.siemenscup-cimc.org.cn/notice/NoticeDetail?id=2431"
+ },
+ {
+  "no": "71",
+  "cat": "B1",
+  "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+  "kind": "official",
+  "label": "中国自动化学会机器人竞赛与培训部（中国机器人大赛暨RoboCup机器人世界杯中国赛官网）",
+  "url": "https://rcccaa.drct-caa.org.cn/"
+ },
+ {
+  "no": "71",
+  "cat": "B1",
+  "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+  "kind": "official",
+  "label": "中国自动化学会",
+  "url": "https://www.caa.org.cn/"
+ },
+ {
+  "no": "71",
+  "cat": "B1",
+  "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+  "kind": "host_page",
+  "label": "石家庄市人民政府 - 2025中国机器人大赛暨RoboCup机器人世界杯中国赛在石家庄开幕",
+  "url": "https://www.sjz.gov.cn/columns/8e2f0b12-4574-4ced-b339-bcb378d54b2d/202510/18/0d340a63-934a-4465-bf3e-7b5badd33b6c.html"
+ },
+ {
+  "no": "72",
+  "cat": "B1",
+  "name": "全国大学生数字媒体科技作品及创意竞赛",
+  "kind": "official",
+  "label": "数媒竞赛网（全国大学生数字媒体科技作品及创意竞赛官网）",
+  "url": "https://www.cmit.cn/"
+ },
+ {
+  "no": "72",
+  "cat": "B1",
+  "name": "全国大学生数字媒体科技作品及创意竞赛",
+  "kind": "host_page",
+  "label": "数媒竞赛网 - 通知公告",
+  "url": "https://www.cmit.cn/html/tongzhigonggao/list-144-1.html"
+ },
+ {
+  "no": "72",
+  "cat": "B1",
+  "name": "全国大学生数字媒体科技作品及创意竞赛",
+  "kind": "host_page",
+  "label": "中国人工智能学会 - 全国大学生数字媒体科技作品及创意竞赛通知",
+  "url": "https://www.caai.cn/site/content/1859.html"
+ },
+ {
+  "no": "73",
+  "cat": "B1",
+  "name": "全球校园人工智能算法精英大赛",
+  "kind": "official",
+  "label": "全球校园人工智能算法精英大赛官网",
+  "url": "https://www.aicomp.cn/"
+ },
+ {
+  "no": "73",
+  "cat": "B1",
+  "name": "全球校园人工智能算法精英大赛",
+  "kind": "host_page",
+  "label": "江苏省人工智能学会 - 关于举办全球校园人工智能算法精英大赛的通知",
+  "url": "http://www.jsai.org.cn/ainews/notice/4753.html"
+ },
+ {
+  "no": "74",
+  "cat": "B1",
+  "name": "全国大学生机器人大赛-RoboMaster",
+  "kind": "official",
+  "label": "RoboMaster 机甲大师赛官网",
+  "url": "https://www.robomaster.com/zh-CN"
+ },
+ {
+  "no": "74",
+  "cat": "B1",
+  "name": "全国大学生机器人大赛-RoboMaster",
+  "kind": "official",
+  "label": "机甲大师超级对抗赛（RMUC）赛事页",
+  "url": "https://www.robomaster.com/zh-CN/robo/rm"
+ },
+ {
+  "no": "74",
+  "cat": "B1",
+  "name": "全国大学生机器人大赛-RoboMaster",
+  "kind": "host_page",
+  "label": "湖南省教育厅 - 长沙理工大学承办的机甲大师赛热血开赛",
+  "url": "https://jyt.hunan.gov.cn/jyt/sjyt/gxdt/202505/t20250523_33680277.html"
+ },
+ {
+  "no": "75",
+  "cat": "B1",
+  "name": "中国研究生未来飞行器创新大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛管理平台",
+  "url": "https://cpipc.acge.org.cn/"
+ },
+ {
+  "no": "75",
+  "cat": "B1",
+  "name": "中国研究生未来飞行器创新大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛 - 未来飞行器创新大赛主题赛事页",
+  "url": "https://cpipc.acge.org.cn/cw/hp/3"
+ },
+ {
+  "no": "75",
+  "cat": "B1",
+  "name": "中国研究生未来飞行器创新大赛",
+  "kind": "host_page",
+  "label": "西安交通大学研究生院 - 第十二届中国研究生未来飞行器创新大赛参赛邀请函",
+  "url": "https://gs.xjtu.edu.cn/info/1146/11506.htm"
+ },
+ {
+  "no": "76",
+  "cat": "B1",
+  "name": "全国三维数字化创新设计大赛",
+  "kind": "official",
+  "label": "全国3D大赛官网（全国三维数字化创新设计大赛）",
+  "url": "https://3dds.3ddl.net/"
+ },
+ {
+  "no": "76",
+  "cat": "B1",
+  "name": "全国三维数字化创新设计大赛",
+  "kind": "host_page",
+  "label": "全国3D大赛 - 资讯与通知",
+  "url": "https://3dds.3ddl.net/index.php?ctl=Informationlist&met=newsdetails&id=743"
+ },
+ {
+  "no": "76",
+  "cat": "B1",
+  "name": "全国三维数字化创新设计大赛",
+  "kind": "host_page",
+  "label": "上海电力大学 - 关于报名参加2026第19届全国三维数字化创新设计大赛数字化设计与制造大赛的通知",
+  "url": "https://ieetc.shiep.edu.cn/40/41/c6747a278593/page.htm"
+ },
+ {
+  "no": "77",
+  "cat": "B1",
+  "name": "中国大学生机械工程创新创意大赛",
+  "kind": "official",
+  "label": "中国机械工程学会（主办单位）官网",
+  "url": "https://www.cmes.org/"
+ },
+ {
+  "no": "77",
+  "cat": "B1",
+  "name": "中国大学生机械工程创新创意大赛",
+  "kind": "host_page",
+  "label": "中国机械工程学会2026年大赛通知文件",
+  "url": "https://www.cmes.org/cmes/upload/2026/03-18/09-47-4800081058154528.pdf"
+ },
+ {
+  "no": "78",
+  "cat": "B1",
+  "name": "中国高校智能机器人创意大赛",
+  "kind": "official",
+  "label": "大赛官方网站（高校学生竞赛网）",
+  "url": "http://www.robotcontest.cn/"
+ },
+ {
+  "no": "78",
+  "cat": "B1",
+  "name": "中国高校智能机器人创意大赛",
+  "kind": "host_page",
+  "label": "第九届大赛山东赛区预赛通知（山东农业工程学院）",
+  "url": "https://dqgc.sdua.edu.cn/2026/0605/c21090a298240/page.htm"
+ },
+ {
+  "no": "79",
+  "cat": "B1",
+  "name": "国际大学生智能农业装备创新大赛",
+  "kind": "official",
+  "label": "大赛官网（江苏大学）",
+  "url": "https://uiaec.ujs.edu.cn/"
+ },
+ {
+  "no": "79",
+  "cat": "B1",
+  "name": "国际大学生智能农业装备创新大赛",
+  "kind": "host_page",
+  "label": "第十二届大赛通知（江苏大学承办）",
+  "url": "https://uiaec.ujs.edu.cn/news_show.php?id=234"
+ },
+ {
+  "no": "80",
+  "cat": "B1",
+  "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+  "kind": "official",
+  "label": "大赛官网",
+  "url": "http://www.chengtudasai.com/"
+ },
+ {
+  "no": "80",
+  "cat": "B1",
+  "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+  "kind": "host_page",
+  "label": "安徽省教育厅省赛通知",
+  "url": "https://jyt.ah.gov.cn/tsdw/gdjyc/dxsxkhjnjs/40788518.html"
+ },
+ {
+  "no": "81",
+  "cat": "B1",
+  "name": "中国研究生机器人创新设计大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛管理平台赛事页",
+  "url": "https://cpipc.acge.org.cn/cw/hp/2c9088a5696cbf370169a3f8934810be"
+ },
+ {
+  "no": "81",
+  "cat": "B1",
+  "name": "中国研究生机器人创新设计大赛",
+  "kind": "host_page",
+  "label": "大赛通知发布页",
+  "url": "https://cpipc.acge.org.cn/cw/contestNews/detail/2c9088a5696cbf370169a3f8934810be/2c90801798c819160198e9754666100f?page=0"
+ },
+ {
+  "no": "82",
+  "cat": "B1",
+  "name": "全国大学生机器人大赛-RoboCon",
+  "kind": "official",
+  "label": "全国大学生机器人大赛ROBOCON官网",
+  "url": "https://www.robocon.org.cn/"
+ },
+ {
+  "no": "82",
+  "cat": "B1",
+  "name": "全国大学生机器人大赛-RoboCon",
+  "kind": "host_page",
+  "label": "第二十五届大赛比赛通知与报名指南",
+  "url": "https://robocon.org.cn/sys-nd/88.html"
+ },
+ {
+  "no": "82",
+  "cat": "B1",
+  "name": "全国大学生机器人大赛-RoboCon",
+  "kind": "host_page",
+  "label": "承办公示（南京理工大学）",
+  "url": "http://zbpt.njust.edu.cn/qtgg/42833.jhtml"
+ },
+ {
+  "no": "83",
+  "cat": "B1",
+  "name": "中国大学生方程式系列赛事",
+  "kind": "official",
+  "label": "大学生方程式系列赛事官网（FSC）",
+  "url": "http://www.formulastudent.com.cn/"
+ },
+ {
+  "no": "83",
+  "cat": "B1",
+  "name": "中国大学生方程式系列赛事",
+  "kind": "host_page",
+  "label": "2026中国大学生方程式汽车大赛启动公告（中国汽车工程学会）",
+  "url": "https://www.sae-china.org/news/notices/202601/7200.html"
+ },
+ {
+  "no": "84",
+  "cat": "B1",
+  "name": "全国大学生交通运输科技大赛",
+  "kind": "official",
+  "label": "全国大学生交通运输科技大赛官网",
+  "url": "http://www.nactrans.net/"
+ },
+ {
+  "no": "84",
+  "cat": "B1",
+  "name": "全国大学生交通运输科技大赛",
+  "kind": "host_page",
+  "label": "北京建筑大学第21届大赛2号通知实施方案",
+  "url": "https://tumu.bucea.edu.cn/xyxw/0a70a22cd0ff4da6842af9c31e7a7068.htm"
+ },
+ {
+  "no": "85",
+  "cat": "B1",
+  "name": "全国大学生水利创新设计大赛",
+  "kind": "official",
+  "label": "全国大学生水利创新设计大赛官方网站（中国水利教育协会高等教育分会）",
+  "url": "https://sljzw.hhu.edu.cn/fenhui/main.psp"
+ },
+ {
+  "no": "85",
+  "cat": "B1",
+  "name": "全国大学生水利创新设计大赛",
+  "kind": "host_page",
+  "label": "中国水利教育协会关于公布第九届大赛结果的通知",
+  "url": "http://www.cahee.org.cn/2025_07/25_15/content-30595.html"
+ },
+ {
+  "no": "85",
+  "cat": "B1",
+  "name": "全国大学生水利创新设计大赛",
+  "kind": "host_page",
+  "label": "第九届全国大学生水利创新设计大赛赛程通知（河海大学）",
+  "url": "https://sljzw.hhu.edu.cn/_upload/article/files/c9/ae/6e324f0b4fd7963e48ba168b69ee/dc81b72b-9cb3-424b-a325-9fad13f4848c.pdf"
+ },
+ {
+  "no": "86",
+  "cat": "B1",
+  "name": "全国大学生花园设计建造竞赛",
+  "kind": "official",
+  "label": "花园设计建造竞赛官方专题（《风景园林》杂志官网）",
+  "url": "http://www.lalavision.com/hysjjzjs"
+ },
+ {
+  "no": "86",
+  "cat": "B1",
+  "name": "全国大学生花园设计建造竞赛",
+  "kind": "official",
+  "label": "中国风景园林学会（指导单位）",
+  "url": "https://www.chsla.org.cn/"
+ },
+ {
+  "no": "86",
+  "cat": "B1",
+  "name": "全国大学生花园设计建造竞赛",
+  "kind": "host_page",
+  "label": "2026全国大学生花园设计建造竞赛（社区花园赛道）竞赛通知（同济大学承办）",
+  "url": "https://landscape-caup.tongji.edu.cn/c8/f4/c10586a379124/page.htm"
+ },
+ {
+  "no": "87",
+  "cat": "B1",
+  "name": "全国数字建筑创新应用大赛",
+  "kind": "official",
+  "label": "中国建设教育协会",
+  "url": "https://www.ccen.com.cn/"
+ },
+ {
+  "no": "87",
+  "cat": "B1",
+  "name": "全国数字建筑创新应用大赛",
+  "kind": "host_page",
+  "label": "关于举办2026年全国数字建筑创新应用大赛的通知",
+  "url": "https://www.ccen.com.cn/info/1150/5937.htm"
+ },
+ {
+  "no": "88",
+  "cat": "B1",
+  "name": "全国大学生测绘学科创新创业智能大赛",
+  "kind": "official",
+  "label": "中国测绘学会",
+  "url": "https://www.csgpc.org/"
+ },
+ {
+  "no": "88",
+  "cat": "B1",
+  "name": "全国大学生测绘学科创新创业智能大赛",
+  "kind": "official",
+  "label": "教育部高等学校测绘类专业教学指导委员会（两委会）赛事专题",
+  "url": "http://smt.whu.edu.cn/sshd/dxscxcyznds.htm"
+ },
+ {
+  "no": "88",
+  "cat": "B1",
+  "name": "全国大学生测绘学科创新创业智能大赛",
+  "kind": "host_page",
+  "label": "关于举办2026年全国大学生测绘学科创新创业智能大赛的一号通知",
+  "url": "https://www.csgpc.org/detail/27080.html"
+ },
+ {
+  "no": "89",
+  "cat": "B1",
+  "name": "全国大学生结构设计信息技术大赛",
+  "kind": "official",
+  "label": "全国大学生结构设计信息技术大赛官网（广厦教育网）",
+  "url": "http://www.gseducation.com.cn/"
+ },
+ {
+  "no": "89",
+  "cat": "B1",
+  "name": "全国大学生结构设计信息技术大赛",
+  "kind": "host_page",
+  "label": "第八届全国大学生结构设计信息技术大赛一号通知",
+  "url": "http://www.gseducation.com.cn/Home/NewsInfoDetails?id=90"
+ },
+ {
+  "no": "90",
+  "cat": "B1",
+  "name": "中国研究生智能建造创新大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛管理平台",
+  "url": "https://cpipc.acge.org.cn/"
+ },
+ {
+  "no": "90",
+  "cat": "B1",
+  "name": "中国研究生智能建造创新大赛",
+  "kind": "host_page",
+  "label": "2026年中国研究生智能建造创新大赛组委会第一次会议暨第二届大赛启动会（东南大学承办）",
+  "url": "https://civil.seu.edu.cn/2026/0518/c19885a567967/page.htm"
+ },
+ {
+  "no": "91",
+  "cat": "B1",
+  "name": "全国大学生语言文字能力大赛",
+  "kind": "official",
+  "label": "大学生语言文字能力大赛官网",
+  "url": "https://www.yywz.org.cn/"
+ },
+ {
+  "no": "91",
+  "cat": "B1",
+  "name": "全国大学生语言文字能力大赛",
+  "kind": "host_page",
+  "label": "官方报名通知页",
+  "url": "https://www.yywz.org.cn/index/index/newinfo/id/373"
+ },
+ {
+  "no": "92",
+  "cat": "B1",
+  "name": "“工行杯”全国大学生金融科技创新大赛",
+  "kind": "official",
+  "label": "“工行杯”全国大学生金融科技创新大赛官网",
+  "url": "https://www.gonghangbei.com/"
+ },
+ {
+  "no": "92",
+  "cat": "B1",
+  "name": "“工行杯”全国大学生金融科技创新大赛",
+  "kind": "official",
+  "label": "中国工商银行官方网站",
+  "url": "https://www.icbc.com.cn/"
+ },
+ {
+  "no": "92",
+  "cat": "B1",
+  "name": "“工行杯”全国大学生金融科技创新大赛",
+  "kind": "host_page",
+  "label": "中国工商银行·全国大学生金融科技创新大赛开赛",
+  "url": "https://www.gd.icbc.com.cn/icbc/%e5%b7%a5%e8%a1%8c%e9%a3%8e%e8%b2%8c/%e5%b7%a5%e8%a1%8c%e5%bf%ab%e8%ae%af/%e5%85%a8%e5%9b%bd%e5%a4%a7%e5%ad%a6%e7%94%9f%e9%87%91%e8%9e%8d%e7%a7%91%e6%8a%80%e5%88%9b%e6%96%b0%e5%a4%a7%e8%b5%9b%e5%bc%80%e8%b5%9b.htm"
+ },
+ {
+  "no": "93",
+  "cat": "B1",
+  "name": "中华经典诵写讲大赛",
+  "kind": "official",
+  "label": "中华经典诵写讲大赛官网",
+  "url": "https://jdsxj.eduyun.cn/"
+ },
+ {
+  "no": "93",
+  "cat": "B1",
+  "name": "中华经典诵写讲大赛",
+  "kind": "host_page",
+  "label": "教育部 国家语委关于举办第八届中华经典诵写讲大赛的通知",
+  "url": "http://www.moe.gov.cn/srcsite/A18/s3137/202605/t20260528_1437956.html"
+ },
+ {
+  "no": "94",
+  "cat": "B1",
+  "name": "全国大学生能源经济学术创意大赛",
+  "kind": "official",
+  "label": "全国大学生能源经济学术创意大赛官网（能源专业知识服务系统）",
+  "url": "https://energy.qibebt.ac.cn/eneco/"
+ },
+ {
+  "no": "94",
+  "cat": "B1",
+  "name": "全国大学生能源经济学术创意大赛",
+  "kind": "host_page",
+  "label": "安徽财经大学·第十二届大赛总决赛承办报道",
+  "url": "https://tsxy.aufe.edu.cn/2026/0526/c2119a248570/page.htm"
+ },
+ {
+  "no": "95",
+  "cat": "B1",
+  "name": "中国研究生公共管理案例大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛官网·中国研究生公共管理案例大赛",
+  "url": "https://cpipc.acge.org.cn/cw/hp/8"
+ },
+ {
+  "no": "95",
+  "cat": "B1",
+  "name": "中国研究生公共管理案例大赛",
+  "kind": "host_page",
+  "label": "西安交通大学公共政策与管理学院·第十届大赛决赛承办",
+  "url": "http://sppa.xjtu.edu.cn/info/1005/10164.htm"
+ },
+ {
+  "no": "95",
+  "cat": "B1",
+  "name": "中国研究生公共管理案例大赛",
+  "kind": "host_page",
+  "label": "全国公共管理专业学位研究生教育指导委员会",
+  "url": "http://mpajzw.ruc.edu.cn/"
+ },
+ {
+  "no": "96",
+  "cat": "B1",
+  "name": "中国研究生金融科技创新大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛官网·中国研究生金融科技创新大赛",
+  "url": "https://cpipc.acge.org.cn/cw/hp/2c90800c8093eef401809d3501080654"
+ },
+ {
+  "no": "96",
+  "cat": "B1",
+  "name": "中国研究生金融科技创新大赛",
+  "kind": "host_page",
+  "label": "南京大学工程管理学院·大赛报名开启通知（承办单位）",
+  "url": "https://sme.nju.edu.cn/bf/66/c2040a769894/pagem.htm"
+ },
+ {
+  "no": "97",
+  "cat": "B1",
+  "name": "“外研社国才杯”“理解当代中国”全国大学生外语能力大赛",
+  "kind": "official",
+  "label": "大赛官网（“理解当代中国”系列赛事平台）",
+  "url": "https://ucc.fltrp.com/"
+ },
+ {
+  "no": "97",
+  "cat": "B1",
+  "name": "“外研社国才杯”“理解当代中国”全国大学生外语能力大赛",
+  "kind": "host_page",
+  "label": "外语教学与研究出版社·2026大赛正式启动官方通知",
+  "url": "http://www.fltrp.com/c/2026-03-21/541242.shtml"
+ },
+ {
+  "no": "98",
+  "cat": "B1",
+  "name": "“外教社杯”全国高校学生跨文化能力大赛",
+  "kind": "official",
+  "label": "跨文化能力测试中心（外教社官方平台）",
+  "url": "https://ict.sflep.com/"
+ },
+ {
+  "no": "98",
+  "cat": "B1",
+  "name": "“外教社杯”全国高校学生跨文化能力大赛",
+  "kind": "host_page",
+  "label": "跨文化能力测试中心「大赛」栏目",
+  "url": "https://ict.sflep.com/index.php?m=content&c=index&a=lists&catid=15"
+ },
+ {
+  "no": "99",
+  "cat": "B1",
+  "name": "“21世纪杯”全国英语演讲比赛",
+  "kind": "official",
+  "label": "“21世纪杯”全国英语演讲比赛官方网站（中国日报社）",
+  "url": "https://contest.i21st.cn/"
+ },
+ {
+  "no": "99",
+  "cat": "B1",
+  "name": "“21世纪杯”全国英语演讲比赛",
+  "kind": "host_page",
+  "label": "第31届中国日报社“21世纪杯”全国英语演讲比赛官方通知",
+  "url": "https://contest.i21st.cn/college/article/6991.html"
+ },
+ {
+  "no": "100",
+  "cat": "B1",
+  "name": "全国大学生英语竞赛",
+  "kind": "official",
+  "label": "全国大学生英语竞赛（NECCS）官方网站",
+  "url": "http://www.chinaneccs.cn/"
+ },
+ {
+  "no": "100",
+  "cat": "B1",
+  "name": "全国大学生英语竞赛",
+  "kind": "host_page",
+  "label": "英语辅导报社官网（大赛承办单位）",
+  "url": "http://www.ecp.com.cn/"
+ },
+ {
+  "no": "100",
+  "cat": "B1",
+  "name": "全国大学生英语竞赛",
+  "kind": "host_page",
+  "label": "全国大学生英语竞赛简介（官方）",
+  "url": "https://www.chinaneccs.cn/pages/list/list"
+ },
+ {
+  "no": "101",
+  "cat": "B1",
+  "name": "“中译国青杯”国际组织文件翻译大赛",
+  "kind": "official",
+  "label": "“中译国青杯”国际组织文件翻译大赛官网",
+  "url": "https://youthcup.ctpc.com.cn/"
+ },
+ {
+  "no": "101",
+  "cat": "B1",
+  "name": "“中译国青杯”国际组织文件翻译大赛",
+  "kind": "host_page",
+  "label": "中国对外翻译有限公司官网（大赛主办单位）",
+  "url": "https://www.ctpc.com.cn/"
+ },
+ {
+  "no": "102",
+  "cat": "B1",
+  "name": "“外教社•词达人杯”全国大学生英语词汇能力大赛",
+  "kind": "official",
+  "label": "上海外语教育出版社官网（大赛主办单位）",
+  "url": "https://www.sflep.com/"
+ },
+ {
+  "no": "103",
+  "cat": "B1",
+  "name": "全国高校BIM毕业设计创新大赛",
+  "kind": "official",
+  "label": "国际高校BIM毕业设计创新大赛官网",
+  "url": "https://gxbsxs.glodonedu.com/home"
+ },
+ {
+  "no": "103",
+  "cat": "B1",
+  "name": "全国高校BIM毕业设计创新大赛",
+  "kind": "host_page",
+  "label": "中国建设教育协会官网（大赛主办单位）",
+  "url": "https://www.ccen.com.cn/"
+ },
+ {
+  "no": "104",
+  "cat": "B1",
+  "name": "全国高校商业精英挑战赛－品牌策划竞赛、会展专业创新创业实践竞赛、国际贸易竞赛、创新创业竞赛、会计与商业管理案例竞赛",
+  "kind": "official",
+  "label": "中国国际贸易促进委员会商业行业委员会官网（大赛组委会）",
+  "url": "https://www.ccpitcsc.org/"
+ },
+ {
+  "no": "104",
+  "cat": "B1",
+  "name": "全国高校商业精英挑战赛－品牌策划竞赛、会展专业创新创业实践竞赛、国际贸易竞赛、创新创业竞赛、会计与商业管理案例竞赛",
+  "kind": "host_page",
+  "label": "2026年全国高校商业精英挑战赛创新创业竞赛通知",
+  "url": "https://www.ccpitcsc.org/eduxq/4857"
+ },
+ {
+  "no": "104",
+  "cat": "B1",
+  "name": "全国高校商业精英挑战赛－品牌策划竞赛、会展专业创新创业实践竞赛、国际贸易竞赛、创新创业竞赛、会计与商业管理案例竞赛",
+  "kind": "host_page",
+  "label": "2026年全国高校商业精英挑战赛品牌策划竞赛通知",
+  "url": "https://ccpitcsc.org/eduxq/4654"
+ },
+ {
+  "no": "105",
+  "cat": "B1",
+  "name": "“学创杯”全国大学生创业综合模拟大赛",
+  "kind": "official",
+  "label": "学创杯全国大学生创业综合模拟大赛官网",
+  "url": "http://www.xcbds.com/cyds/index"
+ },
+ {
+  "no": "105",
+  "cat": "B1",
+  "name": "“学创杯”全国大学生创业综合模拟大赛",
+  "kind": "host_page",
+  "label": "学创杯官网通知公告栏目",
+  "url": "http://www.xcbds.com/cyds/article/list_view?typeid=13"
+ },
+ {
+  "no": "106",
+  "cat": "B1",
+  "name": "全国本科院校税收风险管控案例大赛",
+  "kind": "official",
+  "label": "全国本科院校税收风险管控案例大赛官方网站（高校学生竞赛网）",
+  "url": "http://ssfkds.moocollege.com"
+ },
+ {
+  "no": "106",
+  "cat": "B1",
+  "name": "全国本科院校税收风险管控案例大赛",
+  "kind": "host_page",
+  "label": "南通大学商学院（江苏省分区赛承办单位）通知",
+  "url": "https://sem.ntu.edu.cn/2026/0918/c11410a299241/page.htm"
+ },
+ {
+  "no": "107",
+  "cat": "B1",
+  "name": "全国企业竞争模拟大赛",
+  "kind": "official",
+  "label": "iBizSim企业竞争模拟系统（大赛官方平台）",
+  "url": "https://www.ibizsim.cn"
+ },
+ {
+  "no": "107",
+  "cat": "B1",
+  "name": "全国企业竞争模拟大赛",
+  "kind": "host_page",
+  "label": "华北理工大学经济管理学院（全国总决赛承办）",
+  "url": "https://jgxy.ncst.edu.cn/col/1691631072207/2026/06/09/1780970628781.html"
+ },
+ {
+  "no": "107",
+  "cat": "B1",
+  "name": "全国企业竞争模拟大赛",
+  "kind": "host_page",
+  "label": "哈尔滨工业大学（黑龙江省赛）通知",
+  "url": "http://today.hit.edu.cn/article/2026/09/04/132278"
+ },
+ {
+  "no": "108",
+  "cat": "B1",
+  "name": "全国高等院校数智化企业经营沙盘大赛",
+  "kind": "official",
+  "label": "中国商业联合会官网（主办单位）",
+  "url": "http://www.cgcc.org.cn"
+ },
+ {
+  "no": "108",
+  "cat": "B1",
+  "name": "全国高等院校数智化企业经营沙盘大赛",
+  "kind": "official",
+  "label": "中国商业联合会大赛通知",
+  "url": "http://www.cgcc.org.cn/jypx/1/50997.html"
+ },
+ {
+  "no": "108",
+  "cat": "B1",
+  "name": "全国高等院校数智化企业经营沙盘大赛",
+  "kind": "host_page",
+  "label": "北京物资学院（北京市赛承办）通知",
+  "url": "http://news.bwu.edu.cn/info/1021/86560.htm"
+ },
+ {
+  "no": "108",
+  "cat": "B1",
+  "name": "全国高等院校数智化企业经营沙盘大赛",
+  "kind": "host_page",
+  "label": "哈尔滨工业大学（深圳）大赛报名通知",
+  "url": "https://ecei.hitsz.edu.cn/info/1014/5186.htm"
+ },
+ {
+  "no": "109",
+  "cat": "B1",
+  "name": "“科云杯”全国大学生财会职业能力大赛",
+  "kind": "official",
+  "label": "中国商业会计学会考评中心（主办单位）官网",
+  "url": "http://www.kjcyryks.cn"
+ },
+ {
+  "no": "109",
+  "cat": "B1",
+  "name": "“科云杯”全国大学生财会职业能力大赛",
+  "kind": "host_page",
+  "label": "江苏师范大学科文学院（江苏省赛承办通知）",
+  "url": "http://kwxyxxgk.jsnu.edu.cn/6a/b6/c13394a420534/page.htm"
+ },
+ {
+  "no": "110",
+  "cat": "B1",
+  "name": "中国研究生工程管理案例大赛",
+  "kind": "official",
+  "label": "清华大学工程管理硕士（MEM）教育中心（全国工程管理教指委）",
+  "url": "http://www.imem.tsinghua.edu.cn"
+ },
+ {
+  "no": "110",
+  "cat": "B1",
+  "name": "中国研究生工程管理案例大赛",
+  "kind": "host_page",
+  "label": "清华大学MEM教育中心大赛通知及参赛指南",
+  "url": "http://www.imem.tsinghua.edu.cn/info/1276/3534.htm"
+ },
+ {
+  "no": "110",
+  "cat": "B1",
+  "name": "中国研究生工程管理案例大赛",
+  "kind": "host_page",
+  "label": "关于暂停举办2026年度大赛的通知",
+  "url": "http://www.imem.tsinghua.edu.cn/info/1276/3756.htm"
+ },
+ {
+  "no": "111",
+  "cat": "B1",
+  "name": "中国研究生企业管理创新大赛",
+  "kind": "official",
+  "label": "中国研究生创新实践系列大赛管理平台",
+  "url": "https://cpipc.acge.org.cn"
+ },
+ {
+  "no": "112",
+  "cat": "B2",
+  "name": "全国高校学生DV作品大赛",
+  "kind": "official",
+  "label": "中国教育技术协会·最新赛事（该赛事主办方赛事发布栏目；“科讯杯—创显杯”全国大学生影视作品大赛由中国教育技术协会与科讯网世界有限公司主办）",
+  "url": "https://www.caet.org.cn/site/term/23.html"
+ },
+ {
+  "no": "112",
+  "cat": "B2",
+  "name": "全国高校学生DV作品大赛",
+  "kind": "host_page",
+  "label": "湘潭大学第八届中国大学生DV文化艺术节作品征集通知",
+  "url": "https://art2025.xtu.edu.cn/info/1043/2046.htm"
+ },
+ {
+  "no": "113",
+  "cat": "B2",
+  "name": "中国青年志愿服务项目大赛",
+  "kind": "official",
+  "label": "中国青年志愿者网",
+  "url": "http://www.zgzyz.org.cn"
+ },
+ {
+  "no": "113",
+  "cat": "B2",
+  "name": "中国青年志愿服务项目大赛",
+  "kind": "host_page",
+  "label": "第八届中国青年志愿服务项目大赛报名通道开启（全国组委会）",
+  "url": "http://www.zgzyz.org.cn/gb/articles/2026-08/25/content_8EZoVsz0.html"
+ },
+ {
+  "no": "114",
+  "cat": "B2",
+  "name": "中国青年志愿服务公益创业赛",
+  "kind": "official",
+  "label": "中国青年志愿者网",
+  "url": "http://www.zgzyz.org.cn"
+ },
+ {
+  "no": "114",
+  "cat": "B2",
+  "name": "中国青年志愿服务公益创业赛",
+  "kind": "host_page",
+  "label": "华南理工大学团委关于组织参加第八届大赛和公益创业赛的通知",
+  "url": "https://www2.scut.edu.cn/youth/2026/0414/c11096a624558/page.htm"
+ },
+ {
+  "no": "115",
+  "cat": "B2",
+  "name": "“创青春”中国青年创新创业大赛",
+  "kind": "official",
+  "label": "第十三届中国青年创青春大赛官网",
+  "url": "https://cqc.yeeol.com"
+ },
+ {
+  "no": "115",
+  "cat": "B2",
+  "name": "“创青春”中国青年创新创业大赛",
+  "kind": "host_page",
+  "label": "中国青年创业就业基金会（承办单位）报名公告",
+  "url": "http://www.yee.org.cn/qywwxdt/202608/t20260811_16809785.htm"
+ },
+ {
+  "no": "116",
+  "cat": "B2",
+  "name": "中非青年创新创业大赛",
+  "kind": "official",
+  "label": "科技部·第四届中非青年创新创业大赛决赛在武汉举行（中非创新合作中心）",
+  "url": "https://www.most.gov.cn/dfkj/hub/zxdt/202512/t20251204_195435.html"
+ },
+ {
+  "no": "116",
+  "cat": "B2",
+  "name": "中非青年创新创业大赛",
+  "kind": "official",
+  "label": "科技部·中非创新合作中心网站正式开通",
+  "url": "https://www.most.gov.cn/dfkj/hub/zxdt/202112/t20211215_178563.html"
+ },
+ {
+  "no": "116",
+  "cat": "B2",
+  "name": "中非青年创新创业大赛",
+  "kind": "host_page",
+  "label": "第四届中非青年创新创业大赛预通知（中国地质大学）",
+  "url": "https://eniec.cug.edu.cn/info/1053/1406.htm"
+ },
+ {
+  "no": "117",
+  "cat": "B2",
+  "name": "全国高校无机非金属材料基础知识大赛",
+  "kind": "official",
+  "label": "中国建筑材料联合会·联合会动态（第四届起主办方“中国建筑材料联合会专家委员会”发布大赛消息的栏目）",
+  "url": "https://www.cbmf.org/xwzx/lhhdt/"
+ },
+ {
+  "no": "117",
+  "cat": "B2",
+  "name": "全国高校无机非金属材料基础知识大赛",
+  "kind": "official",
+  "label": "中国建筑材料联合会·通知公告（主办方文件通知/公示公告栏目，含“文件通知”“公示公告”子栏目）",
+  "url": "https://www.cbmf.org/sy/gg/"
+ },
+ {
+  "no": "117",
+  "cat": "B2",
+  "name": "全国高校无机非金属材料基础知识大赛",
+  "kind": "host_page",
+  "label": "洛阳理工学院·成功举办第四届全国高校无机非金属材料基础知识大赛（2023年承办单位官方页面）",
+  "url": "https://www.lit.edu.cn/llxxztw/info/1004/14991.htm"
+ },
+ {
+  "no": "117",
+  "cat": "B2",
+  "name": "全国高校无机非金属材料基础知识大赛",
+  "kind": "host_page",
+  "label": "第三届全国高校无机非金属材料基础知识大赛通知（南京工业大学）",
+  "url": "https://cly.njtech.edu.cn/info/1056/5470.htm"
+ },
+ {
+  "no": "117",
+  "cat": "B2",
+  "name": "全国高校无机非金属材料基础知识大赛",
+  "kind": "host_page",
+  "label": "洛阳理工学院承办第四届全国高校无机非金属材料基础知识大赛",
+  "url": "https://www.lit.edu.cn/xcb/info/1017/20242.htm"
+ },
+ {
+  "no": "118",
+  "cat": "B2",
+  "name": "“光威杯”中国复合材料大学生科技创新竞赛",
+  "kind": "official",
+  "label": "中国复合材料学会“光威杯”竞赛官网",
+  "url": "https://cmtic.csfcm.org.cn"
+ },
+ {
+  "no": "118",
+  "cat": "B2",
+  "name": "“光威杯”中国复合材料大学生科技创新竞赛",
+  "kind": "host_page",
+  "label": "中国复合材料学会第十届“光威杯”报名通知",
+  "url": "https://www.csfcm.org.cn/site/content/4212.html"
+ },
+ {
+  "no": "119",
+  "cat": "B2",
+  "name": "全国研究生金相实验分析大赛",
+  "kind": "official",
+  "label": "中国体视学学会官网",
+  "url": "https://www.tscss.org.cn/"
+ },
+ {
+  "no": "119",
+  "cat": "B2",
+  "name": "全国研究生金相实验分析大赛",
+  "kind": "official",
+  "label": "中国体视学学会金相与显微分析分会官网",
+  "url": "http://www.tscss-metallography.neu.edu.cn/"
+ },
+ {
+  "no": "119",
+  "cat": "B2",
+  "name": "全国研究生金相实验分析大赛",
+  "kind": "host_page",
+  "label": "首届全国研究生金相实验分析大赛在北京科技大学举行",
+  "url": "https://clsyzx.ustb.edu.cn/zxxw/700099033b3b4829be87aeba9ad70655.htm"
+ },
+ {
+  "no": "120",
+  "cat": "B2",
+  "name": "高校大学生材料综合技能大赛",
+  "kind": "official",
+  "label": "中国体视学学会金相与显微分析分会官网",
+  "url": "http://www.tscss-metallography.neu.edu.cn/"
+ },
+ {
+  "no": "120",
+  "cat": "B2",
+  "name": "高校大学生材料综合技能大赛",
+  "kind": "host_page",
+  "label": "关于恢复第八届金相学会杯高校大学生显微分析大赛暨第六届材料综合技能大赛的通知",
+  "url": "http://www.tscss-metallography.neu.edu.cn/2024/0104/c5909a241769/page.htm"
+ },
+ {
+  "no": "121",
+  "cat": "B2",
+  "name": "高校大学生显微分析大赛",
+  "kind": "official",
+  "label": "中国体视学学会金相与显微分析分会官网",
+  "url": "http://www.tscss-metallography.neu.edu.cn/"
+ },
+ {
+  "no": "121",
+  "cat": "B2",
+  "name": "高校大学生显微分析大赛",
+  "kind": "host_page",
+  "label": "显微分析大赛专栏（东北大学承办）",
+  "url": "http://www.tscss-metallography.neu.edu.cn/5920/list.htm"
+ },
+ {
+  "no": "122",
+  "cat": "B2",
+  "name": "全国大学生标准化奥林匹克竞赛",
+  "kind": "official",
+  "label": "中国标准化协会官网",
+  "url": "https://www.china-cas.org/"
+ },
+ {
+  "no": "122",
+  "cat": "B2",
+  "name": "全国大学生标准化奥林匹克竞赛",
+  "kind": "official",
+  "label": "大学生奥赛介绍",
+  "url": "https://www.china-cas.org/dxsasjs.jhtml"
+ },
+ {
+  "no": "122",
+  "cat": "B2",
+  "name": "全国大学生标准化奥林匹克竞赛",
+  "kind": "host_page",
+  "label": "关于举办2026年全国大学生标准化奥林匹克竞赛的通知",
+  "url": "https://ccpitcsc.org/mcdt/5161.html"
+ },
+ {
+  "no": "123",
+  "cat": "B2",
+  "name": "全国大学生冶金科技竞赛",
+  "kind": "official",
+  "label": "全国大学生冶金科技竞赛官网",
+  "url": "http://www.yjkjjs.com/"
+ },
+ {
+  "no": "123",
+  "cat": "B2",
+  "name": "全国大学生冶金科技竞赛",
+  "kind": "official",
+  "label": "中国金属学会官网",
+  "url": "https://www.csm.org.cn/"
+ },
+ {
+  "no": "123",
+  "cat": "B2",
+  "name": "全国大学生冶金科技竞赛",
+  "kind": "host_page",
+  "label": "第九届全国大学生冶金科技竞赛通知",
+  "url": "http://www.yjkjjs.com/notice/view/id/940.html"
+ },
+ {
+  "no": "124",
+  "cat": "B2",
+  "name": "世界网络炼钢挑战赛",
+  "kind": "official",
+  "label": "steeluniversity官网",
+  "url": "https://steeluniversity.org/zh-hans/"
+ },
+ {
+  "no": "124",
+  "cat": "B2",
+  "name": "世界网络炼钢挑战赛",
+  "kind": "official",
+  "label": "世界钢铁协会官网",
+  "url": "https://worldsteel.org/zh-hans/"
+ },
+ {
+  "no": "124",
+  "cat": "B2",
+  "name": "世界网络炼钢挑战赛",
+  "kind": "host_page",
+  "label": "第21届模拟炼钢挑战赛正式开放注册",
+  "url": "https://worldsteel.org/zh-hans/media/press-releases/2026/steelchallenge-21-registration-open/"
+ },
+ {
+  "no": "125",
+  "cat": "B2",
+  "name": "全国模拟炼钢-轧钢大赛",
+  "kind": "official",
+  "label": "中国金属学会官网",
+  "url": "https://www.csm.org.cn/"
+ },
+ {
+  "no": "125",
+  "cat": "B2",
+  "name": "全国模拟炼钢-轧钢大赛",
+  "kind": "host_page",
+  "label": "关于举办第十一届全国模拟炼钢-轧钢大赛的通知",
+  "url": "https://www.csm.org.cn/col/col6291/art/2025/art_e29bfb492466436b8db8f45ac68b9a79.html"
+ },
+ {
+  "no": "126",
+  "cat": "B2",
+  "name": "全国钢铁材料扫描电镜图像竞赛",
+  "kind": "official",
+  "label": "中国金属学会（主办单位）",
+  "url": "https://www.csm.org.cn/"
+ },
+ {
+  "no": "127",
+  "cat": "B2",
+  "name": "冶金青年创新创意大赛",
+  "kind": "official",
+  "label": "中国金属学会（主办单位）",
+  "url": "https://www.csm.org.cn/"
+ },
+ {
+  "no": "127",
+  "cat": "B2",
+  "name": "冶金青年创新创意大赛",
+  "kind": "host_page",
+  "label": "关于举办第六届冶金青年创新创意大赛的通知",
+  "url": "https://www.csm.org.cn/col/col6291/art/2025/art_19583606c7e446299265ec57fb64165d.html"
+ },
+ {
+  "no": "128",
+  "cat": "B2",
+  "name": "全国“互联网+化学反应工程”课模设计大赛",
+  "kind": "official",
+  "label": "大赛官网（四川大学承办）",
+  "url": "https://i-chemreaeng.scu.edu.cn/"
+ },
+ {
+  "no": "128",
+  "cat": "B2",
+  "name": "全国“互联网+化学反应工程”课模设计大赛",
+  "kind": "official",
+  "label": "中国化工学会赛事专题页",
+  "url": "https://www.ciesc.cn/site/term/31.html"
+ },
+ {
+  "no": "128",
+  "cat": "B2",
+  "name": "全国“互联网+化学反应工程”课模设计大赛",
+  "kind": "host_page",
+  "label": "关于举办2026年第九届大赛的通知（中国化工学会）",
+  "url": "https://www.ciesc.cn/site/content/4702.html"
+ },
+ {
+  "no": "129",
+  "cat": "B2",
+  "name": "全国大学生化学创新实验设计竞赛",
+  "kind": "official",
+  "label": "全国大学生化学实验创新设计竞赛网",
+  "url": "https://cid.nju.edu.cn/"
+ },
+ {
+  "no": "129",
+  "cat": "B2",
+  "name": "全国大学生化学创新实验设计竞赛",
+  "kind": "host_page",
+  "label": "竞赛通知公告",
+  "url": "https://cid.nju.edu.cn/redirectActionNotificationNotice/0"
+ },
+ {
+  "no": "130",
+  "cat": "B2",
+  "name": "中国大学生Chem-E-Car竞赛",
+  "kind": "official",
+  "label": "中国大学生Chem-E-Car竞赛官网",
+  "url": "http://www.chemecar.cn/"
+ },
+ {
+  "no": "130",
+  "cat": "B2",
+  "name": "中国大学生Chem-E-Car竞赛",
+  "kind": "official",
+  "label": "中国化工学会赛事专题页",
+  "url": "https://www.ciesc.cn/site/term/29.html"
+ },
+ {
+  "no": "130",
+  "cat": "B2",
+  "name": "中国大学生Chem-E-Car竞赛",
+  "kind": "host_page",
+  "label": "关于举办2026中国大学生Chem-E-Car竞赛的通知",
+  "url": "https://www.ciesc.cn/site/content/4682.html"
+ },
+ {
+  "no": "131",
+  "cat": "B2",
+  "name": "全国大学生化工安全设计大赛",
+  "kind": "official",
+  "label": "大赛官方网站（华南理工大学化工过程安全中心）",
+  "url": "https://www2.scut.edu.cn/ce119/"
+ },
+ {
+  "no": "131",
+  "cat": "B2",
+  "name": "全国大学生化工安全设计大赛",
+  "kind": "official",
+  "label": "中国化工学会赛事专题页",
+  "url": "https://www.ciesc.cn/site/term/32.html"
+ },
+ {
+  "no": "131",
+  "cat": "B2",
+  "name": "全国大学生化工安全设计大赛",
+  "kind": "host_page",
+  "label": "关于举办2026年度第十三届全国大学生化工安全设计大赛的通知",
+  "url": "https://www.ciesc.cn/site/content/4648.html"
+ },
+ {
+  "no": "132",
+  "cat": "B2",
+  "name": "全国高校化工大学生短视频大赛",
+  "kind": "official",
+  "label": "中国化工学会赛事专题页（全国大学生化工短视频大赛）",
+  "url": "https://www.ciesc.cn/site/term/33.html"
+ },
+ {
+  "no": "132",
+  "cat": "B2",
+  "name": "全国高校化工大学生短视频大赛",
+  "kind": "host_page",
+  "label": "2026年全国大学生化工短视频大赛通知（华侨大学承办）",
+  "url": "https://aacct.hqu.edu.cn/info/1038/2727.htm"
+ },
+ {
+  "no": "132",
+  "cat": "B2",
+  "name": "全国高校化工大学生短视频大赛",
+  "kind": "host_page",
+  "label": "关于举办2026年全国大学生化工短视频大赛的通知（中国化工学会）",
+  "url": "https://www.ciesc.cn/site/content/4627.html"
+ },
+ {
+  "no": "133",
+  "cat": "B2",
+  "name": "国际遗传工程机器设计竞赛（IGEM）",
+  "kind": "official",
+  "label": "iGEM官网",
+  "url": "https://igem.org/"
+ },
+ {
+  "no": "134",
+  "cat": "B2",
+  "name": "湖北省普通高校大学生化学实验技能竞赛",
+  "kind": "official",
+  "label": "湖北省化学化工学会官网",
+  "url": "http://www.hbces.org/"
+ },
+ {
+  "no": "134",
+  "cat": "B2",
+  "name": "湖北省普通高校大学生化学实验技能竞赛",
+  "kind": "host_page",
+  "label": "华中农业大学化学学院第十届竞赛通知",
+  "url": "https://chem.hzau.edu.cn/info/1055/3603.htm"
+ },
+ {
+  "no": "135",
+  "cat": "B2",
+  "name": "全国高等学校采矿工程专业学生实践作品大赛",
+  "kind": "official",
+  "label": "中国矿业大学矿业工程学院·通知公告（教育部高等学校矿业类专业教学指导委员会挂靠单位，年会与大赛通知发布栏目）",
+  "url": "https://cese.cumt.edu.cn/tzgg.htm"
+ },
+ {
+  "no": "135",
+  "cat": "B2",
+  "name": "全国高等学校采矿工程专业学生实践作品大赛",
+  "kind": "host_page",
+  "label": "昆明理工大学·第十一届全国高等学校采矿工程专业学生实践作品大赛（第35届年会4号通知，含报名邮箱 cknh2021mxds@163.com 与QQ群）",
+  "url": "https://cese.cumt.edu.cn/__local/8/3A/6D/49B43F5E1066F0ECC7557476D62_821DD322_76FED.pdf"
+ },
+ {
+  "no": "135",
+  "cat": "B2",
+  "name": "全国高等学校采矿工程专业学生实践作品大赛",
+  "kind": "host_page",
+  "label": "安徽理工大学矿业工程学院·我校成功举办第十四届采矿工程专业学生实践作品大赛（2025年，推荐参加第38届年会）",
+  "url": "https://kygc.aust.edu.cn/info/1227/7710.htm"
+ },
+ {
+  "no": "135",
+  "cat": "B2",
+  "name": "全国高等学校采矿工程专业学生实践作品大赛",
+  "kind": "host_page",
+  "label": "中国矿业大学矿业工程学院第十二届大赛通知",
+  "url": "https://cese.cumt.edu.cn/info/1004/5803.htm"
+ },
+ {
+  "no": "136",
+  "cat": "B2",
+  "name": "全国高等学校矿物加工工程专业学生实践作品大赛",
+  "kind": "official",
+  "label": "中国矿业大学化工学院·通知公告（教育部高等学校矿业类专业教学指导委员会赛事通知发布栏目）",
+  "url": "https://scet.cumt.edu.cn/6509/list.htm"
+ },
+ {
+  "no": "136",
+  "cat": "B2",
+  "name": "全国高等学校矿物加工工程专业学生实践作品大赛",
+  "kind": "official",
+  "label": "中国矿业大学化工学院·矿物加工工程专业学生实践作品大赛校内选拔通知",
+  "url": "https://scet.cumt.edu.cn/21/06/c6509a598278/page.htm"
+ },
+ {
+  "no": "136",
+  "cat": "B2",
+  "name": "全国高等学校矿物加工工程专业学生实践作品大赛",
+  "kind": "host_page",
+  "label": "第十一届全国高等学校矿物加工工程专业学生实践作品大赛第二轮通知（承办单位西安科技大学化学与化工学院）",
+  "url": "https://hgxy.xust.edu.cn/info/1149/7574.htm"
+ },
+ {
+  "no": "136",
+  "cat": "B2",
+  "name": "全国高等学校矿物加工工程专业学生实践作品大赛",
+  "kind": "host_page",
+  "label": "西安科技大学化学与化工学院第十一届大赛通知",
+  "url": "https://hgxy.xust.edu.cn/info/1149/7482.htm"
+ },
+ {
+  "no": "137",
+  "cat": "B2",
+  "name": "全国高校安全科学与工程大学生实践与创新作品大赛",
+  "kind": "official",
+  "label": "公共安全科学技术学会官网",
+  "url": "https://www.publicsafety.org.cn/"
+ },
+ {
+  "no": "137",
+  "cat": "B2",
+  "name": "全国高校安全科学与工程大学生实践与创新作品大赛",
+  "kind": "host_page",
+  "label": "中国石油大学（华东）机电工程学院第十一届组织通知",
+  "url": "https://cmee.upc.edu.cn/2025/0225/c21206a451197/page.htm"
+ },
+ {
+  "no": "138",
+  "cat": "B2",
+  "name": "安全科学与工程类专业技能竞赛",
+  "kind": "official",
+  "label": "中国矿业大学安全工程学院·通知公告（全国高校安全科学与工程学术年会委员会赛事通知发布栏目）",
+  "url": "https://safe.cumt.edu.cn/index/tzgg.htm"
+ },
+ {
+  "no": "138",
+  "cat": "B2",
+  "name": "安全科学与工程类专业技能竞赛",
+  "kind": "host_page",
+  "label": "首届“捷安杯”安全科学与工程类专业技能竞赛西北赛区选拔赛成功举办（承办单位西安科技大学安全科学与工程学院）",
+  "url": "https://aqxy.xust.edu.cn/info/1086/2304.htm"
+ },
+ {
+  "no": "138",
+  "cat": "B2",
+  "name": "安全科学与工程类专业技能竞赛",
+  "kind": "host_page",
+  "label": "首届“捷安杯”安全科学与工程类专业技能竞赛通知（郑州大学）",
+  "url": "https://www5.zzu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1329668006&wbfileid=14784754"
+ },
+ {
+  "no": "138",
+  "cat": "B2",
+  "name": "安全科学与工程类专业技能竞赛",
+  "kind": "host_page",
+  "label": "常州大学新闻网（华东赛区选拔赛承办）",
+  "url": "https://news.cczu.edu.cn/2023/1013/c6620a341574/page.htm"
+ },
+ {
+  "no": "138",
+  "cat": "B2",
+  "name": "安全科学与工程类专业技能竞赛",
+  "kind": "host_page",
+  "label": "郑州大学力学与安全工程学院竞赛通知",
+  "url": "https://www5.zzu.edu.cn/gclx/info/1074/2336.htm"
+ },
+ {
+  "no": "139",
+  "cat": "B2",
+  "name": "大学生低碳循环科技创新大赛",
+  "kind": "official",
+  "label": "大学生低碳科技创新大赛官网",
+  "url": "https://www.cnlcr.com/"
+ },
+ {
+  "no": "139",
+  "cat": "B2",
+  "name": "大学生低碳循环科技创新大赛",
+  "kind": "host_page",
+  "label": "浙江科技大学团委（大赛秘书处设于该校）",
+  "url": "https://tw.zust.edu.cn/info/1054/5988.htm"
+ },
+ {
+  "no": "140",
+  "cat": "B2",
+  "name": "全国大学生环境实践创新设计大赛",
+  "kind": "official",
+  "label": "中山大学环境科学与工程学院·学院新闻（大赛主办单位官网赛事通知与结果发布栏目）",
+  "url": "https://sese.sysu.edu.cn/taxonomy/term/148"
+ },
+ {
+  "no": "140",
+  "cat": "B2",
+  "name": "全国大学生环境实践创新设计大赛",
+  "kind": "host_page",
+  "label": "中山大学环境科学与工程学院（承办单位）赛事新闻",
+  "url": "https://sese.sysu.edu.cn/article/6491"
+ },
+ {
+  "no": "140",
+  "cat": "B2",
+  "name": "全国大学生环境实践创新设计大赛",
+  "kind": "host_page",
+  "label": "中山大学环境科学与工程学院赛事通知",
+  "url": "https://sese.sysu.edu.cn/article/5065"
+ },
+ {
+  "no": "141",
+  "cat": "B2",
+  "name": "“创青春”中国青年碳中和创新创业大赛",
+  "kind": "official",
+  "label": "中国青年创业就业基金会（主办单位）",
+  "url": "http://www.yee.org.cn/"
+ },
+ {
+  "no": "141",
+  "cat": "B2",
+  "name": "“创青春”中国青年碳中和创新创业大赛",
+  "kind": "host_page",
+  "label": "中国石油大学（北京）联合主办全国总决赛新闻",
+  "url": "https://cup.edu.cn/pub/news/sx/746dc3ab69e9432fa7fced97c33a9848.htm"
+ },
+ {
+  "no": "141",
+  "cat": "B2",
+  "name": "“创青春”中国青年碳中和创新创业大赛",
+  "kind": "host_page",
+  "label": "东华大学环境学院大赛报名通知",
+  "url": "https://env.dhu.edu.cn/2026/0413/c19495a374770/page.htm"
+ },
+ {
+  "no": "142",
+  "cat": "B2",
+  "name": "全国大学生数学竞赛",
+  "kind": "official",
+  "label": "大学生数学竞赛网（全国大学生数学竞赛官网）",
+  "url": "https://www.cmathc.org.cn/"
+ },
+ {
+  "no": "142",
+  "cat": "B2",
+  "name": "全国大学生数学竞赛",
+  "kind": "host_page",
+  "label": "大学生数学竞赛网省赛动态（各赛区通知）",
+  "url": "https://www.cmathc.org.cn/saiqu/"
+ },
+ {
+  "no": "142",
+  "cat": "B2",
+  "name": "全国大学生数学竞赛",
+  "kind": "host_page",
+  "label": "哈尔滨工业大学第十八届全国大学生数学竞赛报名通知",
+  "url": "http://today.hit.edu.cn/article/2026/06/11/130539"
+ },
+ {
+  "no": "143",
+  "cat": "B2",
+  "name": "美国国际大学生数学建模竞赛",
+  "kind": "official",
+  "label": "COMAP（美国数学及其应用联合会）官网",
+  "url": "https://www.comap.com/"
+ },
+ {
+  "no": "143",
+  "cat": "B2",
+  "name": "美国国际大学生数学建模竞赛",
+  "kind": "host_page",
+  "label": "COMAP 竞赛官方网站（MCM/ICM）",
+  "url": "https://www.contest.comap.com/undergraduate/contests/"
+ },
+ {
+  "no": "144",
+  "cat": "B2",
+  "name": "MathorCup高校数学建模挑战赛",
+  "kind": "official",
+  "label": "MathorCup高校数学建模挑战赛官网",
+  "url": "https://www.mathorcup.org/"
+ },
+ {
+  "no": "144",
+  "cat": "B2",
+  "name": "MathorCup高校数学建模挑战赛",
+  "kind": "official",
+  "label": "中国优选法统筹法与经济数学研究会（主办学会）",
+  "url": "http://www.scope.org.cn/"
+ },
+ {
+  "no": "145",
+  "cat": "B2",
+  "name": "红点设计大奖赛",
+  "kind": "official",
+  "label": "Red Dot Design Award 官网",
+  "url": "https://www.red-dot.org/"
+ },
+ {
+  "no": "146",
+  "cat": "B2",
+  "name": "全国工艺美术作品展",
+  "kind": "official",
+  "label": "中国美术家协会官网（主办单位）",
+  "url": "https://www.caanet.org.cn/"
+ },
+ {
+  "no": "146",
+  "cat": "B2",
+  "name": "全国工艺美术作品展",
+  "kind": "host_page",
+  "label": "首届全国工艺美术作品展官方报道",
+  "url": "https://www.caanet.org.cn/ACdetail.mx?id=306"
+ },
+ {
+  "no": "146",
+  "cat": "B2",
+  "name": "全国工艺美术作品展",
+  "kind": "host_page",
+  "label": "第二届全国工艺美术作品展展讯（中国工艺美术学会）",
+  "url": "https://www.cnacs.net.cn/20/202108/4108.html"
+ },
+ {
+  "no": "147",
+  "cat": "B2",
+  "name": "IF设计奖",
+  "kind": "official",
+  "label": "iF Design 国际官网",
+  "url": "https://ifdesign.com/en/"
+ },
+ {
+  "no": "147",
+  "cat": "B2",
+  "name": "IF设计奖",
+  "kind": "official",
+  "label": "iF 设计奖中文官网",
+  "url": "https://www.ifdesignasia.com/"
+ },
+ {
+  "no": "148",
+  "cat": "B2",
+  "name": "中国人居环境设计学年奖",
+  "kind": "official",
+  "label": "中国人居环境设计学年奖官网",
+  "url": "http://www.xuenianjiang.com/"
+ },
+ {
+  "no": "148",
+  "cat": "B2",
+  "name": "中国人居环境设计学年奖",
+  "kind": "host_page",
+  "label": "清华大学美术学院（联合主办单位）官方页面",
+  "url": "https://www.tsinghua.edu.cn/info/1180/54447.htm"
+ },
+ {
+  "no": "149",
+  "cat": "B2",
+  "name": "全国美术作品展",
+  "kind": "official",
+  "label": "中国美术家协会（主办单位）",
+  "url": "https://www.caanet.org.cn/"
+ },
+ {
+  "no": "149",
+  "cat": "B2",
+  "name": "全国美术作品展",
+  "kind": "official",
+  "label": "第十四届全国美术作品展览官方网站",
+  "url": "http://14jqgmz.caanet.org.cn/"
+ },
+ {
+  "no": "149",
+  "cat": "B2",
+  "name": "全国美术作品展",
+  "kind": "host_page",
+  "label": "中国美协关于第十四届全国美展各展区初评作品投稿、收件的通知",
+  "url": "https://www.caanet.org.cn/newsdetail.mx?id=9239"
+ },
+ {
+  "no": "150",
+  "cat": "B2",
+  "name": "全国医药院校药学/中药学专业大学生实验技能竞赛",
+  "kind": "official",
+  "label": "中国药科大学药学院（主办方）赛事通知",
+  "url": "http://yxy.cpu.edu.cn/b2/49/c11892a242249/page.htm"
+ },
+ {
+  "no": "150",
+  "cat": "B2",
+  "name": "全国医药院校药学/中药学专业大学生实验技能竞赛",
+  "kind": "official",
+  "label": "中国药科大学官网",
+  "url": "http://www.cpu.edu.cn/"
+ },
+ {
+  "no": "150",
+  "cat": "B2",
+  "name": "全国医药院校药学/中药学专业大学生实验技能竞赛",
+  "kind": "host_page",
+  "label": "安徽医科大学（承办单位）赛事筹备新闻",
+  "url": "https://yxy.ahmu.edu.cn/2026/0424/c10321a199043/page.htm"
+ },
+ {
+  "no": "151",
+  "cat": "B2",
+  "name": "全国大学生生物医学工程创新设计竞赛",
+  "kind": "official",
+  "label": "中国生物医学工程学会（主办单位）",
+  "url": "http://www.csbme.org/"
+ },
+ {
+  "no": "151",
+  "cat": "B2",
+  "name": "全国大学生生物医学工程创新设计竞赛",
+  "kind": "official",
+  "label": "竞赛官方网站",
+  "url": "http://www.bmedesign.cn/"
+ },
+ {
+  "no": "151",
+  "cat": "B2",
+  "name": "全国大学生生物医学工程创新设计竞赛",
+  "kind": "host_page",
+  "label": "海南大学生物医学工程学院（承办单位）",
+  "url": "https://bme.hainanu.edu.cn/"
+ },
+ {
+  "no": "152",
+  "cat": "B2",
+  "name": "合成生物学竞赛·创新赛",
+  "kind": "official",
+  "label": "合成生物学创新赛官方网站",
+  "url": "http://www.synbiochallenges.com/"
+ },
+ {
+  "no": "152",
+  "cat": "B2",
+  "name": "合成生物学竞赛·创新赛",
+  "kind": "host_page",
+  "label": "深圳理工大学合成生物学院（承办方）赛事介绍",
+  "url": "https://synbio.suat-sz.edu.cn/info/1041/1157.htm"
+ },
+ {
+  "no": "153",
+  "cat": "B2",
+  "name": "新时代健康科普作品征集大赛",
+  "kind": "official",
+  "label": "国家卫生健康委关于举办2025年新时代健康科普作品征集活动的通知",
+  "url": "https://www.nhc.gov.cn/xcs/c100123/202505/9007010794b74d32bbd58c3983f1c5d0.shtml"
+ },
+ {
+  "no": "153",
+  "cat": "B2",
+  "name": "新时代健康科普作品征集大赛",
+  "kind": "host_page",
+  "label": "山东省卫生健康委关于举办2026年山东省新时代健康科普作品征集活动的通知",
+  "url": "http://wsjkw.shandong.gov.cn/zwgk/fdzdgknr/tzwj/202606/t20260625_4973571.html"
+ },
+ {
+  "no": "154",
+  "cat": "B2",
+  "name": "全国大学生软件创新大赛",
+  "kind": "official",
+  "label": "全国大学生软件创新大赛官网",
+  "url": "http://www.swcontest.com.cn"
+ },
+ {
+  "no": "154",
+  "cat": "B2",
+  "name": "全国大学生软件创新大赛",
+  "kind": "host_page",
+  "label": "西北工业大学软件学院（第十九届承办单位）",
+  "url": "https://ruanjian.nwpu.edu.cn/info/1010/16996.htm"
+ },
+ {
+  "no": "155",
+  "cat": "B2",
+  "name": "中国大学生智能设计竞赛",
+  "kind": "official",
+  "label": "中国人工智能学会（主办方）",
+  "url": "https://www.caai.cn"
+ },
+ {
+  "no": "156",
+  "cat": "B2",
+  "name": "FIRA机器人世界杯",
+  "kind": "official",
+  "label": "FIRA RoboWorld Cup官网",
+  "url": "https://firaworldcup.org"
+ },
+ {
+  "no": "156",
+  "cat": "B2",
+  "name": "FIRA机器人世界杯",
+  "kind": "host_page",
+  "label": "中国自动化学会机器人竞赛与培训部（中国赛区）",
+  "url": "http://rcccaa.drct-caa.org.cn"
+ },
+ {
+  "no": "157",
+  "cat": "B2",
+  "name": "中国计算机应用技术大赛－金山办公杯WPS办公软件能力大赛",
+  "kind": "official",
+  "label": "CCF中国计算机应用技术大赛专题页（中国计算机学会官网）",
+  "url": "https://ccf.org.cn/cat2026"
+ },
+ {
+  "no": "157",
+  "cat": "B2",
+  "name": "中国计算机应用技术大赛－金山办公杯WPS办公软件能力大赛",
+  "kind": "official",
+  "label": "第七届CCF中国计算机应用技术大赛全国总决赛通知",
+  "url": "https://ccf.org.cn/cat2026/news_d_3018"
+ },
+ {
+  "no": "157",
+  "cat": "B2",
+  "name": "中国计算机应用技术大赛－金山办公杯WPS办公软件能力大赛",
+  "kind": "host_page",
+  "label": "CCF金山办公杯WPS大赛决赛报名通知页",
+  "url": "https://conf.ccf.org.cn/web/html7/detail.html?channelId=915f92e5b3514ad3ad3b7d0d0ffde85c&CmsId=ede665c900b04c95bedcd64136984284&globalId=m1083875547773276160167845766802"
+ },
+ {
+  "no": "158",
+  "cat": "B2",
+  "name": "全国大学生计算机应用能力与信息素养大赛",
+  "kind": "official",
+  "label": "全国大学生计算机应用能力与数字素养大赛官网",
+  "url": "https://www.51ds.org.cn"
+ },
+ {
+  "no": "158",
+  "cat": "B2",
+  "name": "全国大学生计算机应用能力与信息素养大赛",
+  "kind": "host_page",
+  "label": "云南大学本科生院参赛通知页",
+  "url": "https://www.jwc.ynu.edu.cn/info/1009/4159.htm"
+ },
+ {
+  "no": "159",
+  "cat": "B2",
+  "name": "全国大学生软件测试大赛",
+  "kind": "official",
+  "label": "全国大学生软件测试大赛官网",
+  "url": "https://www.mooctest.org"
+ },
+ {
+  "no": "159",
+  "cat": "B2",
+  "name": "全国大学生软件测试大赛",
+  "kind": "host_page",
+  "label": "CCF中国软件大会大赛通知页",
+  "url": "https://chinasoft.ccf.org.cn/2022/notice/ruanjianceshi.html"
+ },
+ {
+  "no": "160",
+  "cat": "B2",
+  "name": "全国大学生“西门子杯”工业自动化挑战赛",
+  "kind": "official",
+  "label": "“西门子杯”中国智能制造挑战赛官网",
+  "url": "https://www.siemenscup-cimc.org.cn"
+ },
+ {
+  "no": "160",
+  "cat": "B2",
+  "name": "全国大学生“西门子杯”工业自动化挑战赛",
+  "kind": "host_page",
+  "label": "北京化工大学（第二十届总决赛承办）",
+  "url": "https://cist.buct.edu.cn/2026/0417/c981a218605/pagem.htm"
+ },
+ {
+  "no": "161",
+  "cat": "B2",
+  "name": "高校电气电子工程创新大赛",
+  "kind": "official",
+  "label": "高校电气电子工程创新大赛平台（中国电工技术学会）",
+  "url": "https://eeeic.ces.org.cn/"
+ },
+ {
+  "no": "161",
+  "cat": "B2",
+  "name": "高校电气电子工程创新大赛",
+  "kind": "host_page",
+  "label": "中国电工技术学会：第五届高校电气电子工程创新大赛决赛通知",
+  "url": "https://ces.org.cn/html/report/26062783-1.htm"
+ },
+ {
+  "no": "162",
+  "cat": "B2",
+  "name": "中国工程机器人大赛暨国际公开赛",
+  "kind": "official",
+  "label": "中国工程机器人大赛暨国际公开赛官网",
+  "url": "http://robotmatch.cn/"
+ },
+ {
+  "no": "162",
+  "cat": "B2",
+  "name": "中国工程机器人大赛暨国际公开赛",
+  "kind": "host_page",
+  "label": "重庆科技大学：2025中国工程机器人大赛暨国际公开赛校内选拔赛通知",
+  "url": "https://jw.cqust.edu.cn/info/1064/1198.htm"
+ },
+ {
+  "no": "163",
+  "cat": "B2",
+  "name": "全国工业工程应用案例大赛",
+  "kind": "official",
+  "label": "清华IE亮剑全国工业工程创新大赛官网",
+  "url": "https://www2.ie.tsinghua.edu.cn/liangjian/competitions"
+ },
+ {
+  "no": "163",
+  "cat": "B2",
+  "name": "全国工业工程应用案例大赛",
+  "kind": "host_page",
+  "label": "清华大学工业工程系：第二十届清华IE亮剑全国工业工程应用案例大赛通知",
+  "url": "https://www.ie.tsinghua.edu.cn/__local/1/B6/39/2689237A39F07EBCA0A2A514797_B348FE4B_3DC08.pdf"
+ },
+ {
+  "no": "164",
+  "cat": "B2",
+  "name": "全国高校智能交通创新与创业大赛",
+  "kind": "official",
+  "label": "全国高校智能交通创新与创业大赛官网",
+  "url": "http://itsnet.cn/"
+ },
+ {
+  "no": "164",
+  "cat": "B2",
+  "name": "全国高校智能交通创新与创业大赛",
+  "kind": "host_page",
+  "label": "第十届全国高校智能交通创新与创业大赛比赛通知",
+  "url": "http://itsnet.cn/cd/185.html"
+ },
+ {
+  "no": "164",
+  "cat": "B2",
+  "name": "全国高校智能交通创新与创业大赛",
+  "kind": "host_page",
+  "label": "重庆交通大学教务处：第九届大赛校内选拔赛通知",
+  "url": "https://jw.cqjtu.edu.cn/info/1173/10033.htm"
+ },
+ {
+  "no": "165",
+  "cat": "B2",
+  "name": "全国供应链大赛",
+  "kind": "official",
+  "label": "中国物流与采购联合会竞赛平台",
+  "url": "http://dspt.clppx.org.cn/"
+ },
+ {
+  "no": "165",
+  "cat": "B2",
+  "name": "全国供应链大赛",
+  "kind": "host_page",
+  "label": "长沙理工大学教务处：第六届全国供应链大赛校内选拔赛通知",
+  "url": "https://www.csust.edu.cn/jwc/info/1173/6806.htm"
+ },
+ {
+  "no": "166",
+  "cat": "B2",
+  "name": "全国大学生可持续建筑设计竞赛",
+  "kind": "host_page",
+  "label": "第十五届“谷雨杯”全国大学生可持续建筑设计竞赛获奖报道（华侨大学建筑学院，参赛高校官方页面）",
+  "url": "https://jzxy.hqu.edu.cn/info/1341/29741.htm"
+ },
+ {
+  "no": "166",
+  "cat": "B2",
+  "name": "全国大学生可持续建筑设计竞赛",
+  "kind": "host_page",
+  "label": "武汉大学城市设计学院官网（第十五届大赛承办单位）",
+  "url": "https://sud.whu.edu.cn/"
+ },
+ {
+  "no": "166",
+  "cat": "B2",
+  "name": "全国大学生可持续建筑设计竞赛",
+  "kind": "host_page",
+  "label": "湖北工业大学教务处：谷雨杯全国大学生可持续建筑设计竞赛介绍",
+  "url": "https://jwc.hbut.edu.cn/info/1141/3538.htm"
+ },
+ {
+  "no": "167",
+  "cat": "B2",
+  "name": "中国制冷空调行业大学生科技竞赛",
+  "kind": "official",
+  "label": "中国制冷空调工业协会",
+  "url": "http://www.chinacraa.org/"
+ },
+ {
+  "no": "167",
+  "cat": "B2",
+  "name": "中国制冷空调行业大学生科技竞赛",
+  "kind": "host_page",
+  "label": "中国制冷空调工业协会：第二十届竞赛决赛名单通知",
+  "url": "http://www.chinacraa.org/m/competition_show.aspx?id=304517"
+ },
+ {
+  "no": "167",
+  "cat": "B2",
+  "name": "中国制冷空调行业大学生科技竞赛",
+  "kind": "host_page",
+  "label": "北京科技大学教务处：第二十届竞赛校内选拔赛通知",
+  "url": "https://jwc.ustb.edu.cn/pub/jwc/tztg/f6138ee414ab4c4fa957672d7d8e7406.htm"
+ },
+ {
+  "no": "168",
+  "cat": "B2",
+  "name": "国际大学生建筑设计竞赛",
+  "kind": "official",
+  "label": "国际建筑师协会（UIA）官网",
+  "url": "https://www.uia-architectes.org/"
+ },
+ {
+  "no": "168",
+  "cat": "B2",
+  "name": "国际大学生建筑设计竞赛",
+  "kind": "official",
+  "label": "UIA-霍普杯国际大学生建筑设计竞赛官网",
+  "url": "https://hypcup.uedmagazine.net/"
+ },
+ {
+  "no": "169",
+  "cat": "B2",
+  "name": "“深水杯”全国大学生给排水科技创新大赛",
+  "kind": "official",
+  "label": "中国城镇供水排水协会（中国水协）官网",
+  "url": "https://cuwa.org.cn/"
+ },
+ {
+  "no": "169",
+  "cat": "B2",
+  "name": "“深水杯”全国大学生给排水科技创新大赛",
+  "kind": "host_page",
+  "label": "中国水协·“深水杯”大赛报道页",
+  "url": "https://cuwa.org.cn/category/hangyeredian/3042.html"
+ },
+ {
+  "no": "169",
+  "cat": "B2",
+  "name": "“深水杯”全国大学生给排水科技创新大赛",
+  "kind": "host_page",
+  "label": "西华大学·第六届“深水杯”大赛通知",
+  "url": "http://xkjs.xhu.edu.cn/_upload/article/files/13/0a/a1a67ae341ad9484f1c4231cbb6a/1900914d-3523-42cf-bc29-9a7b3c7741d8.pdf"
+ },
+ {
+  "no": "170",
+  "cat": "B2",
+  "name": "全国大学生岩土工程竞赛",
+  "kind": "official",
+  "label": "中国土木工程学会土力学及岩土工程分会官网",
+  "url": "http://www.geochina-cces.cn/"
+ },
+ {
+  "no": "170",
+  "cat": "B2",
+  "name": "全国大学生岩土工程竞赛",
+  "kind": "host_page",
+  "label": "浙江大学建筑工程学院·第六届全国大学生岩土工程竞赛报道",
+  "url": "http://www.ccea.zju.edu.cn/2025/0710/c7973a3068900/page.htm"
+ },
+ {
+  "no": "171",
+  "cat": "B2",
+  "name": "全国大学生国土空间规划设计竞赛",
+  "kind": "official",
+  "label": "“未来规划师”全国大学生国土空间规划设计竞赛官网",
+  "url": "https://gtkjghsjjs.guodi.net/planner/#/home"
+ },
+ {
+  "no": "171",
+  "cat": "B2",
+  "name": "全国大学生国土空间规划设计竞赛",
+  "kind": "host_page",
+  "label": "广东省自然资源厅·第五届“广州规划杯”竞赛通知",
+  "url": "https://nr.gd.gov.cn/zwgknew/tzgg/tz/content/post_4653035.html"
+ },
+ {
+  "no": "171",
+  "cat": "B2",
+  "name": "全国大学生国土空间规划设计竞赛",
+  "kind": "host_page",
+  "label": "武汉大学城市设计学院·竞赛介绍",
+  "url": "https://sud.whu.edu.cn/info/2831/46041.htm"
+ },
+ {
+  "no": "172",
+  "cat": "B2",
+  "name": "全国学生“学宪法讲宪法”活动",
+  "kind": "official",
+  "label": "教育部全国青少年普法网",
+  "url": "https://qspfw.moe.gov.cn/"
+ },
+ {
+  "no": "172",
+  "cat": "B2",
+  "name": "全国学生“学宪法讲宪法”活动",
+  "kind": "host_page",
+  "label": "教育部·第十一届全国学生“学宪法 讲宪法”活动通知",
+  "url": "http://www.moe.gov.cn/srcsite/A02/s5913/s5914/202606/t20260612_1440516.html"
+ },
+ {
+  "no": "172",
+  "cat": "B2",
+  "name": "全国学生“学宪法讲宪法”活动",
+  "kind": "host_page",
+  "label": "全国青少年普法网·活动通知专栏",
+  "url": "https://qspfw.moe.gov.cn/html/notice/20260602/24097.html"
+ },
+ {
+  "no": "173",
+  "cat": "B2",
+  "name": "全国社会工作硕士研究生案例大赛",
+  "kind": "official",
+  "label": "第四届“全国MSW研究生案例大赛”官方网站（社会工作专业学位研究生教育院校联席会议主办、全国社会工作专业学位研究生教育指导委员会指导）",
+  "url": "https://mswgcc.mytpr.net/mswgcc/view/home"
+ },
+ {
+  "no": "173",
+  "cat": "B2",
+  "name": "全国社会工作硕士研究生案例大赛",
+  "kind": "official",
+  "label": "中山大学社会学与人类学学院·首届全国MSW研究生案例大赛举办通知（承办高校官方页面）",
+  "url": "https://ssa.sysu.edu.cn/article/3395"
+ },
+ {
+  "no": "173",
+  "cat": "B2",
+  "name": "全国社会工作硕士研究生案例大赛",
+  "kind": "host_page",
+  "label": "南昌大学公共政策与管理学院·第四届“全国MSW研究生案例大赛”决赛在南昌大学圆满落幕（第四届承办单位官方发布页）",
+  "url": "https://spm.ncu.edu.cn/xydt/xyxw/9c1b2f2face44429baaf7ba6cd866c76.htm"
+ },
+ {
+  "no": "173",
+  "cat": "B2",
+  "name": "全国社会工作硕士研究生案例大赛",
+  "kind": "host_page",
+  "label": "西南财经大学研究生院·关于举办第三届“全国MSW研究生案例大赛”的通知（第三届承办单位官方通知页）",
+  "url": "https://graduate.swufe.edu.cn/info/1003/1526.htm"
+ },
+ {
+  "no": "173",
+  "cat": "B2",
+  "name": "全国社会工作硕士研究生案例大赛",
+  "kind": "host_page",
+  "label": "第五届全国MSW研究生案例大赛举办通知",
+  "url": "https://mp.weixin.qq.com/s/bjjnUsX8GtiR7o5NGxdCeQ"
+ },
+ {
+  "no": "173",
+  "cat": "B2",
+  "name": "全国社会工作硕士研究生案例大赛",
+  "kind": "host_page",
+  "label": "全国MSW研究生案例大赛申报平台（第四届大赛页面）",
+  "url": "https://mswgcc.mytpr.net/mswgcc/view/home"
+ },
+ {
+  "no": "174",
+  "cat": "B2",
+  "name": "全国国际商务专业学位创新创业精英挑战赛",
+  "kind": "official",
+  "label": "全国国际商务专业学位研究生教育指导委员会官网·竞赛园地",
+  "url": "http://www.chinamib.org/html/xinxijianbao/"
+ },
+ {
+  "no": "174",
+  "cat": "B2",
+  "name": "全国国际商务专业学位创新创业精英挑战赛",
+  "kind": "official",
+  "label": "全国国际商务专业学位研究生教育指导委员会·通知公告（大赛通知发布栏目）",
+  "url": "http://www.chinamib.org/html/xinwendongtai/tongzhigonggao/"
+ },
+ {
+  "no": "174",
+  "cat": "B2",
+  "name": "全国国际商务专业学位创新创业精英挑战赛",
+  "kind": "host_page",
+  "label": "第六届全国国际商务专业学位研究生创新创业精英挑战赛获奖报道（福州大学经济与管理学院）",
+  "url": "https://jgxy.fzu.edu.cn/info/1111/24962.htm"
+ },
+ {
+  "no": "174",
+  "cat": "B2",
+  "name": "全国国际商务专业学位创新创业精英挑战赛",
+  "kind": "host_page",
+  "label": "第六届全国国际商务专业学位研究生创新创业精英挑战赛获奖报道（广西民族大学经济学院）",
+  "url": "https://sxy.gxmzu.edu.cn/info/1047/30743.htm"
+ },
+ {
+  "no": "174",
+  "cat": "B2",
+  "name": "全国国际商务专业学位创新创业精英挑战赛",
+  "kind": "host_page",
+  "label": "中国人民大学经济学院·第四届大赛举办通知",
+  "url": "https://econ.ruc.edu.cn/jxgl/gjswzyss/gjxwtz/6348e1ceed4c4b60b961720bae7696aa.htm"
+ },
+ {
+  "no": "174",
+  "cat": "B2",
+  "name": "全国国际商务专业学位创新创业精英挑战赛",
+  "kind": "host_page",
+  "label": "福州大学新闻网·第七届大赛决赛报道",
+  "url": "https://news.fzu.edu.cn/info/1011/124921.htm"
+ },
+ {
+  "no": "175",
+  "cat": "B2",
+  "name": "“华政杯”全国法律翻译大赛",
+  "kind": "official",
+  "label": "“华政杯”全国法律翻译大赛官方网站（华东政法大学）",
+  "url": "https://hzb.ecupl.edu.cn/"
+ },
+ {
+  "no": "175",
+  "cat": "B2",
+  "name": "“华政杯”全国法律翻译大赛",
+  "kind": "host_page",
+  "label": "华东政法大学外语学院（承办单位）",
+  "url": "https://wyxy.ecupl.edu.cn/main.htm"
+ },
+ {
+  "no": "176",
+  "cat": "B2",
+  "name": "韩素音国际翻译大赛",
+  "kind": "official",
+  "label": "中国翻译研究院官网（大赛专栏）",
+  "url": "http://www.catl.org.cn/"
+ },
+ {
+  "no": "176",
+  "cat": "B2",
+  "name": "韩素音国际翻译大赛",
+  "kind": "host_page",
+  "label": "苏州大学外国语学院（承办单位）",
+  "url": "https://sis.suda.edu.cn/6f/11/c11829a683793/page.htm"
+ },
+ {
+  "no": "177",
+  "cat": "B2",
+  "name": "“CATTI杯”全国翻译大赛",
+  "kind": "official",
+  "label": "全国翻译大赛官网（CATTI官网赛事专栏）",
+  "url": "https://www.catticenter.com/qgfyds"
+ },
+ {
+  "no": "177",
+  "cat": "B2",
+  "name": "“CATTI杯”全国翻译大赛",
+  "kind": "host_page",
+  "label": "中国外文局翻译院（主办单位）官方通知",
+  "url": "http://www.aticicg.org.cn/2022-01/27/content_42612364.html"
+ },
+ {
+  "no": "178",
+  "cat": "B2",
+  "name": "全国口译大赛",
+  "kind": "official",
+  "label": "全国口译大赛官方网站（LSCAT平台）",
+  "url": "https://www.lscat.cn/"
+ },
+ {
+  "no": "178",
+  "cat": "B2",
+  "name": "全国口译大赛",
+  "kind": "host_page",
+  "label": "中国翻译协会（主办单位）总决赛公告",
+  "url": "http://www.tac-online.org.cn/2023-12/12/content_42918951.html"
+ },
+ {
+  "no": "179",
+  "cat": "B2",
+  "name": "全国大学生金融挑战赛",
+  "kind": "official",
+  "label": "“东方财富杯”全国大学生金融素养提升活动官网",
+  "url": "https://young.eastmoney.com/"
+ },
+ {
+  "no": "180",
+  "cat": "B2",
+  "name": "全国大学生商科综合能力大赛",
+  "kind": "official",
+  "label": "全国大学生商科综合能力大赛官方网站",
+  "url": "http://www.xskds.com/"
+ },
+ {
+  "no": "181",
+  "cat": "B2",
+  "name": "全国管理案例精英赛",
+  "kind": "official",
+  "label": "中国管理案例共享中心（主办单位官网）",
+  "url": "https://www.cmcc-dlut.cn/"
+ },
+ {
+  "no": "181",
+  "cat": "B2",
+  "name": "全国管理案例精英赛",
+  "kind": "host_page",
+  "label": "湖南师范大学商学院（总决赛承办高校）通知",
+  "url": "https://sxy.hunnu.edu.cn/info/1141/10022.htm"
+ },
+ {
+  "no": "182",
+  "cat": "B2",
+  "name": "中国大学生人力资源创新实践大赛（HRU大赛）",
+  "kind": "official",
+  "label": "全国大学生人力资源创新实践大赛官网（HRU大赛组委会）",
+  "url": "http://www.cnhru.cn/"
+ },
+ {
+  "no": "182",
+  "cat": "B2",
+  "name": "中国大学生人力资源创新实践大赛（HRU大赛）",
+  "kind": "host_page",
+  "label": "中国劳动关系学院新闻网（总决赛主办承办单位）",
+  "url": "https://news.culr.edu.cn/xxxw/8efac7bcfc0345a79c02e51fd66f9b84.htm"
+ },
+ {
+  "no": "183",
+  "cat": "B2",
+  "name": "全国高校大学生讲思政课公开课展示",
+  "kind": "official",
+  "label": "青梨派（教育部“领航计划”系列活动平台）",
+  "url": "https://www.qinglipai.cn/"
+ },
+ {
+  "no": "183",
+  "cat": "B2",
+  "name": "全国高校大学生讲思政课公开课展示",
+  "kind": "official",
+  "label": "高校思想政治理论课资讯平台（历届公开课作品展示网站）",
+  "url": "http://www.bjcipt.com/"
+ },
+ {
+  "no": "183",
+  "cat": "B2",
+  "name": "全国高校大学生讲思政课公开课展示",
+  "kind": "host_page",
+  "label": "南开大学马克思主义学院（公开课展示活动承办单位通知）",
+  "url": "https://cz.nankai.edu.cn/2020/1125/c22701a320403/page.htm"
+ },
+ {
+  "no": "184",
+  "cat": "B2",
+  "name": "“我心中的思政课”全国高校大学生微电影展示",
+  "kind": "official",
+  "label": "“我心中的思政课”全国高校大学生微电影展示活动官网",
+  "url": "https://szk.whu.edu.cn/"
+ },
+ {
+  "no": "184",
+  "cat": "B2",
+  "name": "“我心中的思政课”全国高校大学生微电影展示",
+  "kind": "host_page",
+  "label": "武汉大学马克思主义学院（微电影展示活动承办单位通知）",
+  "url": "https://marx.whu.edu.cn/info/1221/6271.htm"
+ },
+ {
+  "no": "104",
+  "cat": "B1",
+  "name": "全国高校商业精英挑战赛－品牌策划竞赛、会展专业创新创业实践竞赛、国际贸易竞赛、创新创业竞赛、会计与商业管理案例竞赛",
+  "kind": "college",
+  "label": "管理学院·关于“商业精英挑战赛-创业模拟赛道-2025武汉科技大学校赛”的通知",
+  "url": "https://som.wust.edu.cn/info/1321/19642.htm"
+ },
+ {
+  "no": "11",
+  "cat": "A2",
+  "name": "全国大学生节能减排社会实践与科技竞赛",
+  "kind": "college",
+  "label": "冶金与能源学院·关于举办2026年“晋钢杯”武汉科技大学节能减排社会实践与科技竞赛的通知",
+  "url": "https://yn.wust.edu.cn/info/1321/7601.htm"
+ },
+ {
+  "no": "11",
+  "cat": "A2",
+  "name": "全国大学生节能减排社会实践与科技竞赛",
+  "kind": "college",
+  "label": "冶金与能源学院·关于公布2026年“晋钢杯”武汉科技大学节能减排社会实践与科技竞赛入围现场赛名单的通知",
+  "url": "https://yn.wust.edu.cn/info/1321/7811.htm"
+ },
+ {
+  "no": "11",
+  "cat": "A2",
+  "name": "全国大学生节能减排社会实践与科技竞赛",
+  "kind": "college",
+  "label": "冶金与能源学院·关于公布2026年“晋钢杯”武汉科技大学节能减排社会实践与科技竞赛结果的通知",
+  "url": "https://yn.wust.edu.cn/info/1321/7831.htm"
+ },
+ {
+  "no": "12",
+  "cat": "A2",
+  "name": "全国大学生数学建模竞赛",
+  "kind": "college",
+  "label": "研究生院·【竞赛】关于组织参加“华为杯”第二十二届中国研究生数学建模竞赛的通知",
+  "url": "https://ysxy.wust.edu.cn/info/1771/48152.htm"
+ },
+ {
+  "no": "123",
+  "cat": "B2",
+  "name": "全国大学生冶金科技竞赛",
+  "kind": "college",
+  "label": "冶金与能源学院·关于举办2026年“晋钢杯”武汉科技大学第九届冶金科技竞赛的通知",
+  "url": "https://yn.wust.edu.cn/info/1321/7571.htm"
+ },
+ {
+  "no": "181",
+  "cat": "B2",
+  "name": "全国管理案例精英赛",
+  "kind": "college",
+  "label": "研究生院·关于举办第一届武汉科技大学研究生公共管理案例大赛的通知",
+  "url": "https://ysxy.wust.edu.cn/info/1771/48822.htm"
+ },
+ {
+  "no": "23",
+  "cat": "A2",
+  "name": "全国大学生医学创新大赛暨“一带一路”国际竞赛",
+  "kind": "college",
+  "label": "医学部·关于举办第十二届全国大学生医学创新大赛暨\"一带一路”国际竞赛校赛的通知",
+  "url": "https://yxb.wust.edu.cn/info/1782/14351.htm"
+ },
+ {
+  "no": "31",
+  "cat": "B1",
+  "name": "睿抗机器人开发者大赛（RAICOM）",
+  "kind": "college",
+  "label": "工程实践创新中心·关于组织参加2025年睿抗机器人开发者大赛（RAICOM）湖北赛区比赛的通知[2025年05月20日]",
+  "url": "http://gcxlzx.wust.edu.cn/info/1371/9802.htm"
+ },
+ {
+  "no": "32",
+  "cat": "B1",
+  "name": "中国机器人及人工智能大赛",
+  "kind": "college",
+  "label": "工程实践创新中心·关于组织参加2025年中国机器人及人工智能大赛湖北赛区比赛的通知[2025年05月20日]",
+  "url": "http://gcxlzx.wust.edu.cn/info/1371/9812.htm"
+ },
+ {
+  "no": "42",
+  "cat": "B1",
+  "name": "全国大学生市场调查与分析大赛",
+  "kind": "college",
+  "label": "管理学院·关于举办武汉科技大学2026年全国大学生市场调查与分析大赛的通知",
+  "url": "https://som.wust.edu.cn/info/1321/21342.htm"
+ },
+ {
+  "no": "62",
+  "cat": "B1",
+  "name": "中国研究生网络安全创新大赛",
+  "kind": "college",
+  "label": "研究生院·关于举办武汉科技大学第四届中国研究生网络安全创新大赛暨第五届中国研究生网络安...",
+  "url": "https://ysxy.wust.edu.cn/info/1771/50162.htm"
+ },
+ {
+  "no": "63",
+  "cat": "B1",
+  "name": "中国研究生人工智能创新大赛",
+  "kind": "college",
+  "label": "管理学院·关于举办2025首届全国人工智能应用创新大赛校赛的通知",
+  "url": "https://som.wust.edu.cn/info/1321/18892.htm"
+ },
+ {
+  "no": "64",
+  "cat": "B1",
+  "name": "中国研究生操作系统开源创新大赛",
+  "kind": "college",
+  "label": "研究生院·关于举办武汉科技大学第三届中国研究生操作系统开源创新大赛暨第三届中国研究生操...",
+  "url": "https://ysxy.wust.edu.cn/info/1771/50182.htm"
+ },
+ {
+  "no": "8",
+  "cat": "A2",
+  "name": "中国大学生工程实践与创新能力大赛",
+  "kind": "college",
+  "label": "工程实践创新中心·中国大学生工程实践与创新能力大赛",
+  "url": "http://gcxlzx.wust.edu.cn/cxyjs/zgdxsgcsjycxnlds.htm"
+ },
+ {
+  "no": "8",
+  "cat": "A2",
+  "name": "中国大学生工程实践与创新能力大赛",
+  "kind": "college",
+  "label": "工程实践创新中心·关于2023年中国大学生工程实践与创新能力大赛武汉科技大学校赛新能源车赛道与智能+赛道...[2023年06月09日]",
+  "url": "http://gcxlzx.wust.edu.cn/info/1371/8431.htm"
+ },
+ {
+  "no": "8",
+  "cat": "A2",
+  "name": "中国大学生工程实践与创新能力大赛",
+  "kind": "college",
+  "label": "工程实践创新中心·关于举行2023年中国大学生工程实践与创新能力大赛虚拟赛道企业运营仿真赛项校赛的通知[2023年06月13日]",
+  "url": "http://gcxlzx.wust.edu.cn/info/1371/8441.htm"
+ },
+ {
+  "no": "8",
+  "cat": "A2",
+  "name": "中国大学生工程实践与创新能力大赛",
+  "kind": "college",
+  "label": "创新创业学院·关于举行2027年中国大学生工程实践与创新能力大赛武汉科技大学校赛的预通知[2026年06月08日]",
+  "url": "https://cxcy.wust.edu.cn/info/1371/12582.htm"
+ },
+ {
+  "no": "8",
+  "cat": "A2",
+  "name": "中国大学生工程实践与创新能力大赛",
+  "kind": "college",
+  "label": "创新创业学院·关于举办2026年武汉科技大学大学生工程实践与创新能力大赛暨2027年中国大学生工程...[2026年08月31日]",
+  "url": "https://cxcy.wust.edu.cn/info/1371/12752.htm"
+ },
+ {
+  "no": "8",
+  "cat": "A2",
+  "name": "中国大学生工程实践与创新能力大赛",
+  "kind": "college",
+  "label": "管理学院·全国大学生工程实践与创新能力大赛企业运营虚拟仿真比赛（EOVS）通知",
+  "url": "https://som.wust.edu.cn/info/1321/12791.htm"
+ },
+ {
+  "no": "97",
+  "cat": "B1",
+  "name": "“外研社国才杯”“理解当代中国”全国大学生外语能力大赛",
+  "kind": "college",
+  "label": "创新创业学院·2026年“外研社•国才杯”“理解当代中国”全国大学生“英语”能力大赛武汉科技大...[2026年09月11日]",
+  "url": "https://cxcy.wust.edu.cn/info/1371/12832.htm"
+ },
+ {
+  "no": "3",
+  "cat": "A1",
+  "name": "“挑战杯”中国大学生创业计划竞赛",
+  "kind": "extra",
+  "label": "挑战杯丨关于举办第十五届“挑战杯”建设银行中国大学生创业计划竞赛的通知",
+  "url": "https://www.tiaozhanbei.net/article/15842/"
+ },
+ {
+  "no": "3",
+  "cat": "A1",
+  "name": "“挑战杯”中国大学生创业计划竞赛",
+  "kind": "extra",
+  "label": "交通学院：举办学院第十四届“挑战杯”大学生创业计划竞赛-团委",
+  "url": "http://tw.wust.edu.cn/info/1391/184932.htm"
+ },
+ {
+  "no": "22",
+  "cat": "A2",
+  "name": "全国大学生物流设计大赛",
+  "kind": "extra",
+  "label": "关于举办武汉科技大学第九届物流设计大赛的通知-创新创业学院",
+  "url": "https://cxcy.wust.edu.cn/info/1482/10372.htm"
+ },
+ {
+  "no": "23",
+  "cat": "A2",
+  "name": "全国大学生医学创新大赛暨“一带一路”国际竞赛",
+  "kind": "extra",
+  "label": "第十二届全国大学生医学创新大赛暨“一带一路”国际竞赛武汉科技大学校赛结果公示-武汉科技大学医学部",
+  "url": "https://yxb.wust.edu.cn/info/1782/15041.htm"
+ },
+ {
+  "no": "24",
+  "cat": "A2",
+  "name": "全国大学生广告艺术大赛",
+  "kind": "extra",
+  "label": "关于举办第16届全国大学生广告艺术大赛校内选拔赛的通知-创新创业学院",
+  "url": "http://cxcy.wust.edu.cn/info/1371/8852.htm"
+ },
+ {
+  "no": "25",
+  "cat": "A2",
+  "name": "中国研究生“美丽中国”创新设计大赛",
+  "kind": "extra",
+  "label": "【竞赛】武汉科技大学第三届中国研究生“美丽中国”创新设计大赛开赛通知",
+  "url": "https://ysxy.wust.edu.cn/info/1771/47522.htm"
+ },
+ {
+  "no": "25",
+  "cat": "A2",
+  "name": "中国研究生“美丽中国”创新设计大赛",
+  "kind": "extra",
+  "label": "关于举办武汉科技大学第四届中国研究生“美丽中国”创新设计大赛暨第四届中国研究生“美丽中国”创新设计大赛预选赛的通知",
+  "url": "http://ysxy.wust.edu.cn/info/1961/50132.htm"
+ },
+ {
+  "no": "28",
+  "cat": "A2",
+  "name": "全国大学生生命科学竞赛（CULSC）－生命科学竞赛、生命科学创新创业大赛",
+  "kind": "extra",
+  "label": "全国大学生生命科学竞赛",
+  "url": "https://www.culsc.cn/#/Notice"
+ },
+ {
+  "no": "37",
+  "cat": "B1",
+  "name": "中国研究生乡村振兴科技强农+创新大赛",
+  "kind": "extra",
+  "label": "关于举办武汉科技大学第一届研究生乡村振兴志愿服务技能大赛暨中国研究生乡村振兴科技强农+创新大赛第二届乡村振兴志愿服务技能大赛预选赛的通知",
+  "url": "https://cree.wust.edu.cn/info/1401/23272.htm"
+ },
+ {
+  "no": "40",
+  "cat": "B1",
+  "name": "全国周培源大学生力学竞赛",
+  "kind": "extra",
+  "label": "最新动态-全国周培源大学生力学竞赛-官方网站",
+  "url": "http://zpy.cstam.org.cn/articles.aspx?PartNodeId=15"
+ },
+ {
+  "no": "45",
+  "cat": "B1",
+  "name": "米兰设计周-中国高校设计学科师生优秀作品展",
+  "kind": "extra",
+  "label": "2026第十届米兰设计周高校设计作品展官网",
+  "url": "https://www.milan-aap.org.cn/#/news"
+ },
+ {
+  "no": "53",
+  "cat": "B1",
+  "name": "蓝桥杯全国软件和信息技术专业人才大赛",
+  "kind": "extra",
+  "label": "关于“第十七届蓝桥杯全国软件和信息技术专业人才大赛”（软件赛、电子赛）的报名通知",
+  "url": "https://cxcy.wust.edu.cn/info/1371/11872.htm"
+ },
+ {
+  "no": "57",
+  "cat": "B1",
+  "name": "iCAN大学生创新创业大赛",
+  "kind": "extra",
+  "label": "关于举办2025年第十九届iCAN大学生创新创业大赛的预通知",
+  "url": "https://cxcy.wust.edu.cn/info/1371/11092.htm"
+ },
+ {
+  "no": "57",
+  "cat": "B1",
+  "name": "iCAN大学生创新创业大赛",
+  "kind": "extra",
+  "label": "关于举办2025年iCAN大学生创新创业大赛“金视线杯”AI视觉检测设计挑战赛的通知",
+  "url": "https://cxcy.wust.edu.cn/info/1371/11112.htm"
+ },
+ {
+  "no": "58",
+  "cat": "B1",
+  "name": "百度之星·程序设计大赛",
+  "kind": "extra",
+  "label": "关于组织参加2025年第二十一届百度之星程序设计大赛的通知",
+  "url": "https://cxcy.wust.edu.cn/info/1371/11192.htm"
+ },
+ {
+  "no": "60",
+  "cat": "B1",
+  "name": "全国大学生物联网设计竞赛",
+  "kind": "extra",
+  "label": "2026年全国大学生物联网设计竞赛通知",
+  "url": "https://iot.sjtu.edu.cn/show.aspx?info_lb=36&info_id=6061&flag=2"
+ },
+ {
+  "no": "62",
+  "cat": "B1",
+  "name": "中国研究生网络安全创新大赛",
+  "kind": "extra",
+  "label": "关于举办武汉科技大学第四届中国研究生网络安全创新大赛暨第五届中国研究生网络安全创新大赛预选赛的通知",
+  "url": "http://ysxy.wust.edu.cn/info/1771/50162.htm"
+ },
+ {
+  "no": "82",
+  "cat": "B1",
+  "name": "全国大学生机器人大赛-RoboCon",
+  "kind": "extra",
+  "label": "通知公告 - ROBOCON",
+  "url": "https://robocon.org.cn/sys-nr/?g=1"
+ },
+ {
+  "no": "82",
+  "cat": "B1",
+  "name": "全国大学生机器人大赛-RoboCon",
+  "kind": "extra",
+  "label": "ROBOCON 2026热身赛报名 - ROBOCON",
+  "url": "https://robocon.org.cn/sys-nd/90.html"
+ },
+ {
+  "no": "92",
+  "cat": "B1",
+  "name": "“工行杯”全国大学生金融科技创新大赛",
+  "kind": "extra",
+  "label": "关于举办2024年“工行杯”全国大学生金融科技创新大赛校内选拔赛的通知",
+  "url": "http://cxcy.wust.edu.cn/info/1371/9672.htm"
+ },
+ {
+  "no": "100",
+  "cat": "B1",
+  "name": "全国大学生英语竞赛",
+  "kind": "extra",
+  "label": "关于武汉科技大学2026年全国大学生英语竞赛报名的通知",
+  "url": "https://cxcy.wust.edu.cn/info/1371/11952.htm"
+ },
+ {
+  "no": "103",
+  "cat": "B1",
+  "name": "全国高校BIM毕业设计创新大赛",
+  "kind": "extra",
+  "label": "第十三届国际高校BIM毕业设计大赛-新闻公告",
+  "url": "https://gxbsxs.glodonedu.com/news"
+ },
+ {
+  "no": "105",
+  "cat": "B1",
+  "name": "“学创杯”全国大学生创业综合模拟大赛",
+  "kind": "extra",
+  "label": "关于举办2025年第十二届“学创杯”全国大学生创业综合模拟大赛武汉科技大学校赛的通知",
+  "url": "https://cxcy.wust.edu.cn/__local/0/33/DF/F216650A6EA126D19B9348FAA3D_5A0C672E_5A6F4.pdf"
+ },
+ {
+  "no": "105",
+  "cat": "B1",
+  "name": "“学创杯”全国大学生创业综合模拟大赛",
+  "kind": "extra",
+  "label": "通知公告-学创杯全国大学生创业综合模拟大赛",
+  "url": "http://www.xcbds.com/cyds/article/list_view?typeid=6"
+ },
+ {
+  "no": "105",
+  "cat": "B1",
+  "name": "“学创杯”全国大学生创业综合模拟大赛",
+  "kind": "extra",
+  "label": "关于举办第十三届“学创杯”全国大学生创业综合模拟演训活动中职院校选拔赛的通知",
+  "url": "http://www.xcbds.com/cyds/article/detail_view?id=2175"
+ },
+ {
+  "no": "111",
+  "cat": "B1",
+  "name": "中国研究生企业管理创新大赛",
+  "kind": "extra",
+  "label": "中国研究生企业管理创新大赛-赛程安排-中国研究生创新实践系列大赛管理平台",
+  "url": "https://cpipc.acge.org.cn/cw/hp/2c90801786cfa2b60186de4143390279"
+ },
+ {
+  "no": "121",
+  "cat": "B2",
+  "name": "高校大学生显微分析大赛",
+  "kind": "extra",
+  "label": "学会公告-中国体视学学会金相与显微分析分会",
+  "url": "http://www.tscss-metallography.neu.edu.cn/5917/list.htm"
+ },
+ {
+  "no": "121",
+  "cat": "B2",
+  "name": "高校大学生显微分析大赛",
+  "kind": "extra",
+  "label": "关于恢复第八届“蔡司·金相学会杯”全国高校大学生金相大赛暨第六届“莱州华银·金相学会杯”全国高校大学生材料综合技能大赛的通知",
+  "url": "http://www.tscss-metallography.neu.edu.cn/2024/0104/c5917a241769/page.htm"
+ },
+ {
+  "no": "121",
+  "cat": "B2",
+  "name": "高校大学生显微分析大赛",
+  "kind": "extra",
+  "label": "材料学部在高校大学生显微分析大赛暨材料综合技能大赛中获佳绩-武汉科技大学",
+  "url": "http://www.wust.edu.cn/info/1531/426382.htm"
+ },
+ {
+  "no": "126",
+  "cat": "B2",
+  "name": "全国钢铁材料扫描电镜图像竞赛",
+  "kind": "extra",
+  "label": "“钢研杯”2020全国钢铁材料扫描电镜图像竞赛通知",
+  "url": "https://www.csm.org.cn/col/col6291/art/2023/art_fe96c14cfb454dbba3e3bf4ea89101b0.html"
+ },
+ {
+  "no": "126",
+  "cat": "B2",
+  "name": "全国钢铁材料扫描电镜图像竞赛",
+  "kind": "extra",
+  "label": "“钢研杯”2022全国钢铁材料金相图像竞赛通知",
+  "url": "https://www.csm.org.cn/col/col6291/art/2023/art_059a5fbc36234510962bf0c8c92d362c.html"
+ },
+ {
+  "no": "126",
+  "cat": "B2",
+  "name": "全国钢铁材料扫描电镜图像竞赛",
+  "kind": "extra",
+  "label": "中国金属学会 活动通知（学术交流—活动通知栏目列表页）",
+  "url": "https://www.csm.org.cn/col/col6291/index.html"
+ },
+ {
+  "no": "129",
+  "cat": "B2",
+  "name": "全国大学生化学创新实验设计竞赛",
+  "kind": "extra",
+  "label": "关于举办武汉科技大学第五届大学生化学实验创新设计竞赛的通知 -化学与化工学院",
+  "url": "http://hxyhg.wust.edu.cn/info/1822/27652.htm"
+ },
+ {
+  "no": "129",
+  "cat": "B2",
+  "name": "全国大学生化学创新实验设计竞赛",
+  "kind": "extra",
+  "label": "第五届全国大学生化学实验创新设计大赛通知-化学与化工学院",
+  "url": "https://hxyhg.wust.edu.cn/info/1832/26532.htm"
+ },
+ {
+  "no": "131",
+  "cat": "B2",
+  "name": "全国大学生化工安全设计大赛",
+  "kind": "extra",
+  "label": "全国大学生化工安全设计大赛",
+  "url": "https://www2.scut.edu.cn/ce/qgdxshgaqsjds/list.htm"
+ },
+ {
+  "no": "133",
+  "cat": "B2",
+  "name": "国际遗传工程机器设计竞赛（IGEM）",
+  "kind": "extra",
+  "label": "iGEM Competition Calendar（iGEM竞赛日程与关键时间节点）",
+  "url": "https://competition.igem.org/calendar"
+ },
+ {
+  "no": "134",
+  "cat": "B2",
+  "name": "湖北省普通高校大学生化学实验技能竞赛",
+  "kind": "extra",
+  "label": "第十届湖北省普通高等学校大学生化学实验技能竞赛通知（第一轮）-化学学院",
+  "url": "https://chem.hzau.edu.cn/info/1055/3494.htm"
+ },
+ {
+  "no": "134",
+  "cat": "B2",
+  "name": "湖北省普通高校大学生化学实验技能竞赛",
+  "kind": "extra",
+  "label": "关于举办武汉科技大学第十四届化学实验技能竞赛的通知-化学与化工学院",
+  "url": "http://hxyhg.wust.edu.cn/info/1822/27662.htm"
+ },
+ {
+  "no": "145",
+  "cat": "B2",
+  "name": "红点设计大奖赛",
+  "kind": "extra",
+  "label": "日期与费用 | 红点设计概念大奖",
+  "url": "https://www.red-dot.org/zh/design-concept/dates-fees"
+ },
+ {
+  "no": "145",
+  "cat": "B2",
+  "name": "红点设计大奖赛",
+  "kind": "extra",
+  "label": "2026红点设计概念奖 作品征集",
+  "url": "https://www.red-dot.org/zh/magazine/red-dot-award-design-concept-2026-call-for-entries"
+ },
+ {
+  "no": "145",
+  "cat": "B2",
+  "name": "红点设计大奖赛",
+  "kind": "extra",
+  "label": "红点设计概念大奖",
+  "url": "https://www.red-dot.org/zh/design-concept"
+ },
+ {
+  "no": "152",
+  "cat": "B2",
+  "name": "合成生物学竞赛·创新赛",
+  "kind": "extra",
+  "label": "合成生物学创新赛（官方赛事日程）",
+  "url": "http://www.synbiochallenges.com/eventSchedule"
+ },
+ {
+  "no": "152",
+  "cat": "B2",
+  "name": "合成生物学竞赛·创新赛",
+  "kind": "extra",
+  "label": "合成生物学创新赛（官方新闻动态）",
+  "url": "http://www.synbiochallenges.com/news"
+ },
+ {
+  "no": "156",
+  "cat": "B2",
+  "name": "FIRA机器人世界杯",
+  "kind": "extra",
+  "label": "2025中国机器人大赛暨RoboCup机器人世界杯中国赛之FIRA小型组项目比赛通知",
+  "url": "https://cxcy.wust.edu.cn/__local/0/E6/F0/986E30A972C871E226760BE2DEA_AFCF6FBC_3929E.pdf"
+ },
+ {
+  "no": "156",
+  "cat": "B2",
+  "name": "FIRA机器人世界杯",
+  "kind": "extra",
+  "label": "通知公告-创新创业学院",
+  "url": "http://cxcy.wust.edu.cn/tzgg/39.htm"
+ },
+ {
+  "no": "157",
+  "cat": "B2",
+  "name": "中国计算机应用技术大赛－金山办公杯WPS办公软件能力大赛",
+  "kind": "extra",
+  "label": "关于举办2023年度中国计算机应用技术大赛——金山办公杯WPS办公软件能力大赛的通知",
+  "url": "https://conf.ccf.org.cn/web/html7/detail.html?channelId=915f92e5b3514ad3ad3b7d0d0ffde85c&CmsId=bbc50770cbf745939cc4a617e18b9dea&globalId=m1083875547773276160167845766802"
+ },
+ {
+  "no": "168",
+  "cat": "B2",
+  "name": "国际大学生建筑设计竞赛",
+  "kind": "extra",
+  "label": "霍普杯2026国际大学生建筑设计竞赛（截止日期）",
+  "url": "https://hypcup.uedmagazine.net/index.php?m=home&c=Lists&a=index&tid=45"
+ },
+ {
+  "no": "179",
+  "cat": "B2",
+  "name": "全国大学生金融挑战赛",
+  "kind": "extra",
+  "label": "关于举办第十二届“东方财富杯”全国大学生金融挑战赛的通知-创新创业学院",
+  "url": "https://cxcy.wust.edu.cn/info/1482/12292.htm"
+ },
+ {
+  "no": "14",
+  "cat": "A2",
+  "name": "中国研究生电子设计竞赛",
+  "kind": "extra",
+  "label": "中国研究生创新实践系列大赛管理平台 - 中国研究生电子设计竞赛（第二十一届）组委会发布页",
+  "url": "https://cpipc.acge.org.cn/cw/hp/6"
+ },
+ {
+  "no": "14",
+  "cat": "A2",
+  "name": "中国研究生电子设计竞赛",
+  "kind": "extra",
+  "label": "关于举办武汉科技大学第十二届研究生电子设计大赛暨“兆易创新杯”第二十一届中国研究生电子设计竞赛预选赛的通知-电子信息学院",
+  "url": "https://dx.wust.edu.cn/info/1952/6111.htm"
+ },
+ {
+  "no": "14",
+  "cat": "A2",
+  "name": "中国研究生电子设计竞赛",
+  "kind": "extra",
+  "label": "【竞赛】关于举办武汉科技大学第十一届研究生电子设计大赛暨“兆易创新杯”第二十届中国研究生电子设计竞赛预选赛的通知-研究生院",
+  "url": "https://ysxy.wust.edu.cn/info/2001/46852.htm"
+ },
+ {
+  "no": "16",
+  "cat": "A2",
+  "name": "全国大学生机械创新设计大赛",
+  "kind": "extra",
+  "label": "大赛通知-第十二届全国大学生机械创新设计大赛（哈尔滨工业大学承办）",
+  "url": "https://12umic.hit.edu.cn/20012/list.htm"
+ },
+ {
+  "no": "16",
+  "cat": "A2",
+  "name": "全国大学生机械创新设计大赛",
+  "kind": "extra",
+  "label": "关于第十二届全国大学生机械创新设计大赛常规赛预赛和决赛第一阶段评审相关工作安排的通知（第3号通知）",
+  "url": "https://12umic.hit.edu.cn/2026/0421/c20012a390387/page.htm"
+ },
+ {
+  "no": "16",
+  "cat": "A2",
+  "name": "全国大学生机械创新设计大赛",
+  "kind": "extra",
+  "label": "第十二届全国大学生机械创新设计大赛第3号通知 PDF 附件",
+  "url": "https://12umic.hit.edu.cn/_upload/article/files/1a/bf/a17e1bf64c3cbb16b8564dd9148e/d247fcf5-e545-4064-bc2a-090bae0068c6.pdf"
+ },
+ {
+  "no": "33",
+  "cat": "B1",
+  "name": "全国大学生化工实验大赛",
+  "kind": "extra",
+  "label": "全国大学生化工实验大赛 - 通知公告（中国化工教育协会官方赛事平台）",
+  "url": "http://edu.cteic.com/match/app/noticelist"
+ },
+ {
+  "no": "33",
+  "cat": "B1",
+  "name": "全国大学生化工实验大赛",
+  "kind": "extra",
+  "label": "关于举办第九届全国大学生化工实验大赛（官方赛事详情页）",
+  "url": "http://edu.cteic.com/match/app/detail/28"
+ },
+ {
+  "no": "51",
+  "cat": "B1",
+  "name": "中国大学生计算机设计大赛",
+  "kind": "extra",
+  "label": "大赛动态-中国大学生计算机设计大赛（组委会官方站）",
+  "url": "https://jsjds.blcu.edu.cn/dsdt.htm"
+ },
+ {
+  "no": "51",
+  "cat": "B1",
+  "name": "中国大学生计算机设计大赛",
+  "kind": "extra",
+  "label": "2026年（第19届）中国大学生计算机设计大赛官方站点",
+  "url": "https://2026.jsjds.com.cn/"
+ },
+ {
+  "no": "51",
+  "cat": "B1",
+  "name": "中国大学生计算机设计大赛",
+  "kind": "extra",
+  "label": "关于举办2026年武汉科技大学大学生计算机设计大赛的通知-创新创业学院",
+  "url": "https://cxcy.wust.edu.cn/info/1482/12122.htm"
+ },
+ {
+  "no": "59",
+  "cat": "B1",
+  "name": "全国大学生计算机系统能力大赛",
+  "kind": "extra",
+  "label": "通知 – NSCSCC 2026（全国大学生计算机系统能力大赛CPU设计赛/龙芯杯 官方通知栏目）",
+  "url": "https://www.nscscc.com/?cat=11"
+ },
+ {
+  "no": "59",
+  "cat": "B1",
+  "name": "全国大学生计算机系统能力大赛",
+  "kind": "extra",
+  "label": "2026年全国大学生计算机系统能力大赛CPU设计赛（龙芯杯）决赛预通知",
+  "url": "https://www.nscscc.com/?p=926"
+ },
+ {
+  "no": "59",
+  "cat": "B1",
+  "name": "全国大学生计算机系统能力大赛",
+  "kind": "extra",
+  "label": "2026年全国大学生计算机系统能力大赛CPU设计赛（龙芯杯）章程（PDF）",
+  "url": "https://www.nscscc.com/wp-content/uploads/2026/03/2026%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B5%9BCPU%E8%AE%BE%E8%AE%A1%E8%B5%9B%EF%BC%88%E9%BE%99%E8%8A%AF%E6%9D%AF%EF%BC%89-%E7%AB%A0%E7%A8%8B.pdf"
+ },
+ {
+  "no": "61",
+  "cat": "B1",
+  "name": "全国大学生信息安全与对抗技术竞赛",
+  "kind": "extra",
+  "label": "通知公告 | 信息系统及安全对抗实验中心（ISCC）",
+  "url": "https://www.isclab.org.cn/category/%e9%80%9a%e7%9f%a5%e5%85%ac%e5%91%8a/"
+ },
+ {
+  "no": "61",
+  "cat": "B1",
+  "name": "全国大学生信息安全与对抗技术竞赛",
+  "kind": "extra",
+  "label": "2026年第23届信息安全与对抗技术竞赛“智能安全赛”——赛项要求通知及报名入口",
+  "url": "https://www.isclab.org.cn/2026/09/10/2026%e5%b9%b4%e7%ac%ac23%e5%b1%8a%e4%bf%a1%e6%81%af%e5%ae%89%e5%85%a8%e4%b8%8e%e5%af%b9%e6%8a%97%e6%8a%80%e6%9c%af%e7%ab%9e%e8%b5%9b-%e6%99%ba%e8%83%bd%e5%ae%89%e5%85%a8%e8%b5%9b/"
+ },
+ {
+  "no": "61",
+  "cat": "B1",
+  "name": "全国大学生信息安全与对抗技术竞赛",
+  "kind": "extra",
+  "label": "2025年第22届信息安全与对抗技术竞赛通知（PDF）",
+  "url": "https://www.isclab.org.cn/wp-content/uploads/2025/03/2025%E5%B9%B4%E7%AC%AC22%E5%B1%8A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E4%B8%8E%E5%AF%B9%E6%8A%97%E6%8A%80%E6%9C%AF%E7%AB%9E%E8%B5%9B%E9%80%9A%E7%9F%A5.pdf"
+ },
+ {
+  "no": "68",
+  "cat": "B1",
+  "name": "全国大学生嵌入式芯片与系统设计大赛",
+  "kind": "extra",
+  "label": "关于举办第八届（2025）全国大学生嵌入式芯片与系统设计竞赛芯片应用赛道的通知-四川大学教务处",
+  "url": "https://jwc.scu.edu.cn/info/1069/9738.htm"
+ },
+ {
+  "no": "70",
+  "cat": "B1",
+  "name": "“西门子杯”中国智能制造挑战赛",
+  "kind": "extra",
+  "label": "赛事通知 - “西门子杯”中国智能制造挑战赛官网",
+  "url": "https://www.siemenscup-cimc.org.cn/competition/index"
+ },
+ {
+  "no": "70",
+  "cat": "B1",
+  "name": "“西门子杯”中国智能制造挑战赛",
+  "kind": "extra",
+  "label": "2025年第十九届CIMC“西门子杯”中国智能制造挑战赛初赛竞赛手册（PDF）",
+  "url": "http://www.siemenscup-cimc.org.cn/uploadEditor/202507_23627/file/20250704/2025%e5%b9%b4CIMC%e5%88%9d%e8%b5%9b%e7%ab%9e%e8%b5%9b%e6%89%8b%e5%86%8c6388723188587720837697630.pdf"
+ },
+ {
+  "no": "71",
+  "cat": "B1",
+  "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+  "kind": "extra",
+  "label": "通知公告 - 中国自动化学会机器人竞赛与培训部（中国机器人大赛暨RoboCup中国赛）",
+  "url": "https://rcccaa.drct-caa.org.cn/race_category.php?cat_small=39"
+ },
+ {
+  "no": "71",
+  "cat": "B1",
+  "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+  "kind": "extra",
+  "label": "2025中国机器人大赛暨RoboCup机器人世界杯中国赛之FIRA小型组项目比赛通知-创新创业学院",
+  "url": "https://cxcy.wust.edu.cn/info/1482/11472.htm"
+ },
+ {
+  "no": "71",
+  "cat": "B1",
+  "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+  "kind": "extra",
+  "label": "中国自动化学会：2026中国机器人大赛暨RoboCup机器人世界杯中国赛（中国机器人大赛赛区）新疆区域赛比赛通知（PDF）",
+  "url": "https://rcccaa.drct-caa.org.cn/image/file/20260630/1782779490686284.pdf"
+ },
+ {
+  "no": "80",
+  "cat": "B1",
+  "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+  "kind": "extra",
+  "label": "大赛通知 - 全国大学生先进成图技术与产品信息建模创新大赛【官网】",
+  "url": "http://www.chengtudasai.com/index/ctongzhi/lst.html"
+ },
+ {
+  "no": "80",
+  "cat": "B1",
+  "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+  "kind": "extra",
+  "label": "第十九届“高教杯”全国大学生先进成图技术与产品信息建模创新大赛第一轮通知",
+  "url": "http://www.chengtudasai.com/index/news/show/id/314.html"
+ },
+ {
+  "no": "80",
+  "cat": "B1",
+  "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+  "kind": "extra",
+  "label": "第十九届“高教杯”成图大赛第一轮通知（PDF 原文）",
+  "url": "http://www.chengtudasai.com/ctds/public/static/upload/file/20260622/1782117519439268.pdf"
+ },
+ {
+  "no": "80",
+  "cat": "B1",
+  "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+  "kind": "extra",
+  "label": "关于举办第十七届全国大学生先进成图技术与产品信息建模创新大赛（建筑、道桥类）校级选拔赛的通知-创新创业学院",
+  "url": "http://cxcy.wust.edu.cn/info/1482/8712.htm"
+ },
+ {
+  "no": "81",
+  "cat": "B1",
+  "name": "中国研究生机器人创新设计大赛",
+  "kind": "extra",
+  "label": "中国研究生机器人创新设计大赛 - 大赛通知列表（研创网官方）",
+  "url": "https://cpipc.acge.org.cn/cw/contestNews/list/2c9088a5696cbf370169a3f8934810be/1"
+ },
+ {
+  "no": "81",
+  "cat": "B1",
+  "name": "中国研究生机器人创新设计大赛",
+  "kind": "extra",
+  "label": "【竞赛】关于举办武汉科技大学第六届研究生机器人创新设计大赛暨“申昊杯”第七届中国研究生机器人创新设计大赛预选赛的通知-研究生院",
+  "url": "https://ysxy.wust.edu.cn/info/1771/47862.htm"
+ },
+ {
+  "no": "81",
+  "cat": "B1",
+  "name": "中国研究生机器人创新设计大赛",
+  "kind": "extra",
+  "label": "关于举办武汉科技大学第二届研究生机器人创新设计大赛暨…（PDF 通知）",
+  "url": "http://jxzdh.wust.edu.cn/_mediafile/jxzdhxy/_upload/article/files/37/20/be583d7247a88475619c40c97c43/375e6e35-c9bb-4002-8d0a-a61be6aef568.pdf"
+ },
+ {
+  "no": "85",
+  "cat": "B1",
+  "name": "全国大学生水利创新设计大赛",
+  "kind": "extra",
+  "label": "关于举办第九届全国大学生水利创新设计大赛的通知",
+  "url": "https://sljzw.hhu.edu.cn/2025/0331/c11808a300361/page.htm"
+ },
+ {
+  "no": "89",
+  "cat": "B1",
+  "name": "全国大学生结构设计信息技术大赛",
+  "kind": "extra",
+  "label": "广厦教育网（全国大学生结构设计信息技术大赛官方平台）- 最新资讯",
+  "url": "http://gseducation.com.cn/Home/NewsInfo"
+ },
+ {
+  "no": "89",
+  "cat": "B1",
+  "name": "全国大学生结构设计信息技术大赛",
+  "kind": "extra",
+  "label": "第八届全国大学生结构设计信息技术大赛一号通知",
+  "url": "http://gseducation.com.cn/Home/NewsInfoDetails?id=90"
+ },
+ {
+  "no": "89",
+  "cat": "B1",
+  "name": "全国大学生结构设计信息技术大赛",
+  "kind": "extra",
+  "label": "第八届全国大学生结构设计信息技术大赛附件一：赛制与细则（PDF）",
+  "url": "http://gseducation.com.cn/upload/202509/30/202509301732036585.pdf"
+ },
+ {
+  "no": "90",
+  "cat": "B1",
+  "name": "中国研究生智能建造创新大赛",
+  "kind": "extra",
+  "label": "中国研究生智能建造创新大赛 - 中国研究生创新实践系列大赛管理平台",
+  "url": "https://cpipc.acge.org.cn/cw/hp/2c90801795a92a850195d03b537b1bac"
+ },
+ {
+  "no": "90",
+  "cat": "B1",
+  "name": "中国研究生智能建造创新大赛",
+  "kind": "extra",
+  "label": "关于举办武汉科技大学第二届研究生智能建造创新大赛暨第二届中国研究生智能建造创新大赛预选赛的通知-创新创业学院",
+  "url": "http://cxcy.wust.edu.cn/info/1371/12482.htm"
+ },
+ {
+  "no": "97",
+  "cat": "B1",
+  "name": "“外研社国才杯”“理解当代中国”全国大学生外语能力大赛",
+  "kind": "extra",
+  "label": "2026“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛通知（大赛官网 ucc.fltrp.com）",
+  "url": "https://ucc.fltrp.com/c/2026-04-15/517928.shtml"
+ },
+ {
+  "no": "97",
+  "cat": "B1",
+  "name": "“外研社国才杯”“理解当代中国”全国大学生外语能力大赛",
+  "kind": "extra",
+  "label": "2025年“外研社•国才杯”“理解当代中国”全国大学生外语能力大赛武汉科技大学英语短视频大赛校赛通知（PDF原文）",
+  "url": "https://cxcy.wust.edu.cn/__local/5/4F/95/1028D30B430012B655037C6E7C5_1E680F26_4D4FF.pdf"
+ },
+ {
+  "no": "106",
+  "cat": "B1",
+  "name": "全国本科院校税收风险管控案例大赛",
+  "kind": "extra",
+  "label": "2026年全国本科院校税收风险管控案例大赛江苏省分区赛竞赛规程（PDF）",
+  "url": "https://sem.ntu.edu.cn/_upload/article/files/62/bc/f632799d43fa9326d775648afae7/92e91a2d-141d-450d-a945-2662414727a2.pdf"
+ },
+ {
+  "no": "109",
+  "cat": "B1",
+  "name": "“科云杯”全国大学生财会职业能力大赛",
+  "kind": "extra",
+  "label": "大赛通知-中国商业会计学会考评中心-官网",
+  "url": "http://www.kjcyryks.cn/Article/Category/75"
+ },
+ {
+  "no": "110",
+  "cat": "B1",
+  "name": "中国研究生工程管理案例大赛",
+  "kind": "extra",
+  "label": "【竞赛】关于举办武汉科技大学第三届研究生工程管理案例大赛暨第四届中国研究生工程管理案例大赛预选赛的通知",
+  "url": "https://ysxy.wust.edu.cn/info/1921/47782.htm"
+ },
+ {
+  "no": "120",
+  "cat": "B2",
+  "name": "高校大学生材料综合技能大赛",
+  "kind": "extra",
+  "label": "材料学部在高校大学生显微分析大赛暨材料综合技能大赛中获佳绩",
+  "url": "https://cl.wust.edu.cn/info/1311/48102.htm"
+ },
+ {
+  "no": "121",
+  "cat": "B2",
+  "name": "高校大学生显微分析大赛",
+  "kind": "extra",
+  "label": "中国体视学学会金相与显微分析分会 - 通知公告列表",
+  "url": "http://www.tscss-metallography.neu.edu.cn/5909/list.htm"
+ },
+ {
+  "no": "124",
+  "cat": "B2",
+  "name": "世界网络炼钢挑战赛",
+  "kind": "extra",
+  "label": "steelChallenge-21 - steeluniversity（世界钢铁协会官方赛事页）",
+  "url": "https://steeluniversity.org/zh-hans/steelchallenge-21zh/"
+ },
+ {
+  "no": "124",
+  "cat": "B2",
+  "name": "世界网络炼钢挑战赛",
+  "kind": "extra",
+  "label": "报名 - steelChallenge-21 - steeluniversity",
+  "url": "https://steeluniversity.org/zh-hans/steelchallenge-21zh/registration/"
+ },
+ {
+  "no": "124",
+  "cat": "B2",
+  "name": "世界网络炼钢挑战赛",
+  "kind": "extra",
+  "label": "steelChallenge-21 报名现已开放 - steeluniversity",
+  "url": "https://steeluniversity.org/zh-hans/2026/09/steelchallenge-21-registration-open/"
+ },
+ {
+  "no": "124",
+  "cat": "B2",
+  "name": "世界网络炼钢挑战赛",
+  "kind": "extra",
+  "label": "steelChallenge-21 - steeluniversity（英文原版）",
+  "url": "https://steeluniversity.org/steelchallenge-21/"
+ },
+ {
+  "no": "128",
+  "cat": "B2",
+  "name": "全国“互联网+化学反应工程”课模设计大赛",
+  "kind": "extra",
+  "label": "2026年第九届全国“互联网+化学反应工程”课模设计大赛报名情况公示（华南理工大学承办方官网）",
+  "url": "http://i-chemreaeng.scu.edu.cn/info/1012/1574.htm"
+ },
+ {
+  "no": "128",
+  "cat": "B2",
+  "name": "全国“互联网+化学反应工程”课模设计大赛",
+  "kind": "extra",
+  "label": "竞赛通知-全国“互联网+化学反应工程”课模设计大赛",
+  "url": "http://i-chemreaeng.scu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1012"
+ },
+ {
+  "no": "131",
+  "cat": "B2",
+  "name": "全国大学生化工安全设计大赛",
+  "kind": "extra",
+  "label": "关于举办2025年度第十二届全国大学生化工安全设计大赛的通知（中国化工学会）",
+  "url": "https://www.ciesc.cn/site/content/4139.html"
+ },
+ {
+  "no": "143",
+  "cat": "B2",
+  "name": "美国国际大学生数学建模竞赛",
+  "kind": "extra",
+  "label": "MCM/ICM - Mathematical Contest in Modeling - COMAP",
+  "url": "https://www.contest.comap.com/undergraduate/contests/mcm/"
+ },
+ {
+  "no": "143",
+  "cat": "B2",
+  "name": "美国国际大学生数学建模竞赛",
+  "kind": "extra",
+  "label": "2024年《美国大学生数学建模竞赛》参赛通知-武汉科技大学物理与力学学院（原理学院）",
+  "url": "http://wlylx.wust.edu.cn/info/1521/32932.htm"
+ },
+ {
+  "no": "145",
+  "cat": "B2",
+  "name": "红点设计大奖赛",
+  "kind": "extra",
+  "label": "参赛方法 | 红点设计概念大奖",
+  "url": "https://www.red-dot.org/zh/design-concept/%E5%8F%82%E8%B5%9B%E6%96%B9%E6%B3%95"
+ },
+ {
+  "no": "145",
+  "cat": "B2",
+  "name": "红点设计大奖赛",
+  "kind": "extra",
+  "label": "Red Dot Award: Design Concept 2025 征集公告",
+  "url": "https://www.red-dot.org/zh/magazine/red-dot-award-design-concept-2025-call-for-entries-de"
+ },
+ {
+  "no": "160",
+  "cat": "B2",
+  "name": "全国大学生“西门子杯”工业自动化挑战赛",
+  "kind": "extra",
+  "label": "CIMC“西门子杯”中国智能制造挑战赛 大赛通知（官方通知动态栏目）",
+  "url": "http://www.siemenscup-cimc.org.cn/competition/index"
+ },
+ {
+  "no": "162",
+  "cat": "B2",
+  "name": "中国工程机器人大赛暨国际公开赛",
+  "kind": "extra",
+  "label": "中国工程机器人大赛暨国际公开赛 | 2026年通知（官方赛事通知栏目）",
+  "url": "http://robotmatch.cn/Channels/Announcements/2026-7-7-17-15-33-1035.htm"
+ },
+ {
+  "no": "162",
+  "cat": "B2",
+  "name": "中国工程机器人大赛暨国际公开赛",
+  "kind": "extra",
+  "label": "中国工程机器人大赛暨国际公开赛 | 2025年通知（官方赛事通知栏目）",
+  "url": "http://robotmatch.cn/Channels/Announcements/2025-5-19-14-31-36-968.htm"
+ },
+ {
+  "no": "162",
+  "cat": "B2",
+  "name": "中国工程机器人大赛暨国际公开赛",
+  "kind": "extra",
+  "label": "关于举办2026中国工程机器人大赛暨国际公开赛校内选拔赛的通知-重庆科技大学本科教育信息网",
+  "url": "https://jw.cqust.edu.cn/info/1064/3136.htm"
+ },
+ {
+  "no": "176",
+  "cat": "B2",
+  "name": "韩素音国际翻译大赛",
+  "kind": "extra",
+  "label": "第三十八届韩素音国际翻译大赛开始报名_中国翻译研究院",
+  "url": "http://www.catl.org.cn/2026-01/16/content_118283668.html"
+ },
+ {
+  "no": "176",
+  "cat": "B2",
+  "name": "韩素音国际翻译大赛",
+  "kind": "extra",
+  "label": "第三十八届韩素音国际翻译大赛竞赛规则",
+  "url": "http://service.catl.org.cn/hsy/user/detail?cid=b2jet7sf9&vid=k1kiex6te"
+ },
+ {
+  "no": "77",
+  "cat": "B1",
+  "name": "中国大学生机械工程创新创意大赛",
+  "kind": "extra",
+  "label": "2026年中国大学生机械工程创新创意大赛——第一届增材制造创新创意大赛（第五轮通知）",
+  "url": "http://am-cmes.org.cn/message/94.php"
+ },
+ {
+  "no": "94",
+  "cat": "B1",
+  "name": "全国大学生能源经济学术创意大赛",
+  "kind": "extra",
+  "label": "第十二届全国大学生能源经济学术创意大赛绿色低碳经营实战赛道比赛通知-中国优选法统筹法与经济数学研究会",
+  "url": "http://scope.org.cn/newsMes.aspx?id=13081&t=64"
+ }
+]

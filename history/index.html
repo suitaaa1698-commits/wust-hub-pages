@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light"><title>历年情况 · 武科大资源汇总</title><meta name="description" content="查往届竞赛节点，也能按赛事对照历届安排。"><link rel="icon" href="data:,"><link rel="stylesheet" href="../hub.css"><link rel="stylesheet" href="../resources.css">
+<link rel="stylesheet" href="../site-shell.css">
+<link rel="stylesheet" href="../site-pages.css">
+<script src="../site-shell.js" defer></script>
+</head>
+<body class="resource-page site-page" data-page="history">
+<!-- site-header:start -->
+<div data-site-header data-site-mounted="true">
+  <header class="site-masthead">
+    <div class="site-wrap site-masthead-inner">
+      <a class="site-brand" href="../index.html" aria-label="武科大资源汇总站首页 · 学生共建，非官方">
+        <img class="site-university-logo" src="../demo/assets/logo.png" width="456" height="103" alt="武汉科技大学 Wuhan University of Science and Technology">
+        <span class="site-brand-divider" aria-hidden="true"></span>
+        <span class="site-brand-title"><strong class="site-brand-name">资源汇总站</strong><span class="site-brand-identity">学生共建 · 非官方</span></span>
+      </a>
+    </div>
+  </header>
+  <nav class="site-nav" aria-label="主导航">
+    <div class="site-wrap site-nav-inner">
+      <a class="site-nav-link" href="../index.html">网站首页</a>
+      <a class="site-nav-link" href="../calendar/index.html">竞赛日历</a>
+      <a class="site-nav-link" href="../competitions/index.html">赛事总览</a>
+      <a class="site-nav-link" href="../history/index.html" aria-current="page">历年情况</a>
+      <a class="site-nav-link" href="../policy/index.html">官网政策</a>
+      <a class="site-nav-link" href="../qq/index.html">QQ群与频道</a>
+    </div>
+  </nav>
+</div>
+<!-- site-header:end -->
+<header class="hub-top page-heading"><div class="hub-top-inner"><div class="hub-brand"><div class="hub-brand-text"><h1>历年情况</h1><p class="hub-sub">查往届竞赛节点，也能按赛事对照历届安排。</p></div></div></div></header>
+<main class="resource-wrap">
+
+<section class="resource-intro"><h2>往届时间，备赛参考</h2><p>从已有通知记录中查找报名、比赛和结果公布的时间，点击来源核对详情。</p></section>
+<p class="resource-note">默认展示最近一个有记录的往年。历史日期不能替代当年通知；“待核实”来自现有采集数据，不代表人工确认。当前年度及未来日期会单独标注。</p>
+<section class="resource-controls history-controls" id="resourceControls" aria-label="筛选竞赛记录">
+<div class="view-switch" id="viewSwitch" aria-label="查看方式"><button type="button" data-view="year" aria-pressed="true">按年份查看</button><button type="button" data-view="comp" aria-pressed="false">按赛事看历届</button></div>
+<div class="filter-grid">
+<label class="filter-field">年份<select id="yearFilter"><option value="">全部年份</option></select></label>
+<label class="filter-field filter-search">搜索记录<input type="search" id="searchInput" placeholder="赛事名称、学院、节点或原文" autocomplete="off"></label>
+<label class="filter-field">节点类型<select id="typeFilter"><option value="">全部类型</option></select></label>
+<button type="button" id="resetFilters" class="resource-btn filter-reset">重置筛选</button></div>
+<label class="filter-field history-comp-select" id="compField" hidden>选择赛事<select id="compFilter"><option value="">请选择赛事</option></select></label>
+<div class="history-secondary"><label><input type="checkbox" id="hideUnverified">隐藏待核实记录</label><span id="dataSummary"></span></div>
+</section>
+<div class="history-overview" id="compOverview" hidden></div>
+<div class="resource-results-head"><h2 id="resultCount" role="status" aria-live="polite">正在加载记录…</h2><span id="pageRange"></span></div>
+<div id="historyList" class="history-list"></div>
+<section id="emptyState" class="empty-panel" hidden><h3 id="emptyTitle">没有符合条件的记录</h3><p id="emptyText">本站可能尚未收录相关通知，可以减少筛选条件后重试。</p><button id="emptyReset" type="button" class="resource-btn">重置筛选</button></section>
+<nav class="history-paging" id="paging" aria-label="记录分页" hidden><button type="button" class="resource-btn" id="prevPage">上一页</button><span id="pageNumber"></span><button type="button" class="resource-btn" id="nextPage">下一页</button></nav>
+<noscript><p class="resource-note">请启用浏览器 JavaScript，以加载资料和使用筛选功能。</p></noscript></main>
+<aside class="hub-foot page-footnote" aria-label="数据说明"><span class="foot-note">非官方资源汇总站 · 信息以学校与赛事官网原文为准</span><span class="foot-build" id="checkedDate"></span></aside>
+<script src="../data/events.js"></script><script src="../data/competitions.js"></script><script src="../data/coverage.js"></script><script src="../hub-data.js"></script><script src="../resource-core.js"></script><script src="app.js"></script>
+<!-- site-footer:start -->
+<div data-site-footer data-site-mounted="true">
+  <footer class="site-footer">
+    <div class="site-wrap site-footer-inner">
+      <div class="site-footer-copy">
+        <p class="site-footer-title">武科大资源汇总站 · 学生共建 · 非官方</p>
+        <p class="site-footer-note">汇集公开赛事与学校资源；报名、认定及后续变更，请以学校和主办方原文为准。</p>
+      </div>
+      <div class="site-footer-links">
+        <a class="site-footer-link" href="https://www.wust.edu.cn/" target="_blank" rel="noopener noreferrer">学校官网</a>
+        <a class="site-footer-link" href="https://cxcy.wust.edu.cn/" target="_blank" rel="noopener noreferrer">创新创业学院</a>
+        <a class="site-footer-link" href="../index.html">网站首页</a>
+      </div>
+    </div>
+  </footer>
+</div>
+<!-- site-footer:end -->
+</body></html>

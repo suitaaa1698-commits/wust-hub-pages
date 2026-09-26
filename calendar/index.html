@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<title>武汉科技大学学生学科和科技竞赛日历</title>
+<!-- 内联 SVG 图标：不引入任何外部资源 -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231a4fbf'/%3E%3Ctext x='16' y='23' font-size='17' text-anchor='middle' fill='%23ffffff' font-family='sans-serif'%3E%E7%AB%9E%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet" href="../site-shell.css">
+<link rel="stylesheet" href="../site-pages.css">
+<script src="../site-shell.js" defer></script>
+</head>
+<body class="site-page" data-page="calendar">
+<!-- site-header:start -->
+<div data-site-header data-site-mounted="true">
+  <header class="site-masthead">
+    <div class="site-wrap site-masthead-inner">
+      <a class="site-brand" href="../index.html" aria-label="武科大资源汇总站首页 · 学生共建，非官方">
+        <img class="site-university-logo" src="../demo/assets/logo.png" width="456" height="103" alt="武汉科技大学 Wuhan University of Science and Technology">
+        <span class="site-brand-divider" aria-hidden="true"></span>
+        <span class="site-brand-title"><strong class="site-brand-name">资源汇总站</strong><span class="site-brand-identity">学生共建 · 非官方</span></span>
+      </a>
+    </div>
+  </header>
+  <nav class="site-nav" aria-label="主导航">
+    <div class="site-wrap site-nav-inner">
+      <a class="site-nav-link" href="../index.html">网站首页</a>
+      <a class="site-nav-link" href="../calendar/index.html" aria-current="page">竞赛日历</a>
+      <a class="site-nav-link" href="../competitions/index.html">赛事总览</a>
+      <a class="site-nav-link" href="../history/index.html">历年情况</a>
+      <a class="site-nav-link" href="../policy/index.html">官网政策</a>
+      <a class="site-nav-link" href="../qq/index.html">QQ群与频道</a>
+    </div>
+  </nav>
+</div>
+<!-- site-header:end -->
+
+<header class="topbar page-heading">
+  <div class="topbar-row">
+    <div class="brand">
+      <div class="brand-text">
+        <h1>学生学科和科技竞赛日历</h1>
+        <p class="sub">武汉科技大学 · 竞赛关键时间点（报名 / 提交 / 校赛 / 省赛 / 国赛 / 结果）</p>
+      </div>
+    </div>
+    <div class="stats" id="statsBar" aria-live="polite">
+      <span class="stat"><span class="stat-k">数据更新于</span><b id="statGenerated">—</b></span>
+      <span class="stat"><span class="stat-k">已抓取来源</span><b id="statSources">—</b></span>
+      <span class="stat"><span class="stat-k">事件总数</span><b id="statEvents">—</b></span>
+      <span class="stat" title="当前筛选已选中的校内组织单位（学院）数量"><span class="stat-k">已选学院</span><b id="statOrgs">全部</b></span>
+    </div>
+  </div>
+</header>
+
+<!-- 深链提示条：只有当 URL 带 ?no=<赛事编号>（可叠加 year / type）时才显示 -->
+<div class="deeplink-bar" id="deepLinkBar" hidden></div>
+
+<div class="deadline-bar" id="deadlineBar" aria-live="polite"></div>
+
+<section class="filters" aria-label="筛选条件">
+  <div class="filter-row">
+    <div class="filter-group">
+      <span class="filter-label">类别</span>
+      <div class="pick-row" id="catFilters">
+        <label class="pick cat-A1"><input type="checkbox" value="A1" checked><span class="dot"></span><span>A1</span></label>
+        <label class="pick cat-A2"><input type="checkbox" value="A2" checked><span class="dot"></span><span>A2</span></label>
+        <label class="pick cat-B1"><input type="checkbox" value="B1" checked><span class="dot"></span><span>B1</span></label>
+        <label class="pick cat-B2"><input type="checkbox" value="B2" checked><span class="dot"></span><span>B2</span></label>
+      </div>
+      <button type="button" class="core-pill" id="btnCoreOnly" aria-pressed="false"
+        title="A1 = 教育部 / 共青团中央等牵头的顶级赛事；A2 = 学科竞赛排行榜及研究生创新实践系列大赛中的重大赛事。开启后类别只保留 A1+A2，可与其他筛选叠加；再点一次恢复全选类别">
+        <span class="core-star" aria-hidden="true">★</span><span>只看核心（A1+A2）</span>
+      </button>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">面向对象</span>
+      <div class="pick-row" id="audienceFilters"></div>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">年份</span>
+      <select id="yearSelect" class="select">
+        <option value="all">全部年份</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">开关</span>
+      <label class="switch"><input type="checkbox" id="signupOnly"><span class="switch-track"><span class="switch-thumb"></span></span><span>只看报名相关</span></label>
+    </div>
+    <div class="filter-group grow">
+      <span class="filter-label">搜索</span>
+      <div class="search-wrap">
+        <span class="search-icon" aria-hidden="true">🔍</span>
+        <input type="search" id="searchInput" class="search" placeholder="搜索赛事名 / 标题 / 原文引用 / 单位" autocomplete="off">
+      </div>
+    </div>
+  </div>
+
+  <div class="filter-row">
+    <div class="filter-group grow">
+      <span class="filter-label">事件类型</span>
+      <div class="pick-row wrap" id="typeFilters"></div>
+    </div>
+  </div>
+
+  <div class="filter-row">
+    <div class="filter-group grow">
+      <span class="filter-label">校内单位<span class="label-badge" id="orgSelectedBadge">全部</span></span>
+      <div class="org-filter">
+        <div class="org-head">
+          <button type="button" class="btn ghost" id="orgToggle" aria-expanded="false" aria-controls="orgFilters">展开学院筛选<span class="caret">▾</span></button>
+          <div class="search-wrap org-search">
+            <span class="search-icon" aria-hidden="true">🔍</span>
+            <input type="search" id="orgSearch" class="search" placeholder="搜索学院 / 单位…" autocomplete="off">
+          </div>
+          <button type="button" class="btn ghost" id="btnAllOrgs">全选</button>
+          <button type="button" class="btn ghost" id="btnClearOrgs">清空</button>
+          <span class="org-hint" id="orgHint">未选择 = 全部单位（多选，命中任一即算命中）</span>
+        </div>
+        <div class="pick-row wrap org-picks" id="orgFilters" hidden></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="filter-row filter-foot">
+    <div class="result-count" id="resultCount">—</div>
+    <div class="filter-actions">
+      <button type="button" class="btn ghost" id="btnAllCats">全选类别</button>
+      <button type="button" class="btn ghost" id="btnAllTypes">全选类型</button>
+      <button type="button" class="btn" id="btnReset">重置筛选</button>
+    </div>
+  </div>
+</section>
+
+<main class="main">
+  <div class="viewbar">
+    <div class="nav-group">
+      <button type="button" class="btn nav" id="btnPrev" title="上一月">‹ 上月</button>
+      <button type="button" class="btn nav" id="btnToday">今天</button>
+      <button type="button" class="btn nav" id="btnNext" title="下一月">下月 ›</button>
+      <span class="period" id="periodLabel">—</span>
+    </div>
+    <div class="view-switch" role="tablist" aria-label="视图切换">
+      <button type="button" class="btn seg is-active" id="btnMonthView" role="tab" aria-selected="true">月视图</button>
+      <button type="button" class="btn seg" id="btnAgendaView" role="tab" aria-selected="false">议程列表</button>
+    </div>
+  </div>
+
+  <section class="month-view" id="monthView" aria-label="月视图">
+    <details class="legend" id="legend" open>
+      <summary>
+        <span class="legend-title">图例</span>
+        <span class="legend-hint">两套颜色：类别（政策档位）= chip 背景浅色 + 字母徽章；事件类型 = chip 左侧 4px 色条 + 图标颜色</span>
+        <span class="legend-caret" aria-hidden="true">▾</span>
+      </summary>
+      <div class="legend-body" id="legendBody"></div>
+    </details>
+    <div class="weekdays" aria-hidden="true">
+      <span>周一</span><span>周二</span><span>周三</span><span>周四</span><span>周五</span><span class="wk">周六</span><span class="wk">周日</span>
+    </div>
+    <div class="month-grid" id="monthGrid"></div>
+  </section>
+
+  <section class="agenda-view" id="agendaView" aria-label="议程列表" hidden>
+    <div class="agenda-toolbar">
+      <label class="switch small"><input type="checkbox" id="agendaFromToday" checked><span class="switch-track"><span class="switch-thumb"></span></span><span>只看今天及以后</span></label>
+      <span class="hint">按日期升序；跨天事件只在起始日列出，正在进行的事件显示在今天</span>
+    </div>
+    <div class="agenda-list" id="agendaList"></div>
+  </section>
+
+  <section class="day-panel" id="dayPanel" aria-label="当日事件" hidden></section>
+</main>
+
+<div class="empty-state" id="emptyState" hidden>
+  <div class="empty-box">
+    <div class="empty-icon" id="emptyIcon" aria-hidden="true">📭</div>
+    <h2 id="emptyTitle">暂无数据</h2>
+    <p class="empty-msg" id="emptyMsg">暂无数据，请先运行 crawler/pipeline.py</p>
+    <div class="empty-diag" id="emptyDiag" hidden></div>
+    <p class="empty-path" id="emptyPath">数据文件：data/events.json</p>
+    <div class="empty-actions">
+      <button type="button" class="btn primary" id="emptyRetry">🔄 重试加载</button>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" id="overlay" hidden></div>
+<aside class="drawer" id="detailDrawer" role="dialog" aria-modal="true" aria-labelledby="drawerTitle" hidden></aside>
+
+<aside class="foot page-footnote" aria-label="数据说明">
+  <span>纯前端离线页面 · 数据由本地爬虫每日生成</span>
+  <span id="footMeta"></span>
+</aside>
+
+<!--
+  内嵌数据通道：这两份文件由抓取管线额外产出（内容分别是 window.__EVENTS__ / window.__COMPETITIONS__）。
+  必须放在 app.js 之前：这样用 file:// 直接双击打开时也能拿到数据（fetch 本地 json 会被 CORS 拦掉）。
+  文件不存在时用 onerror 记下原因后静默跳过，由 app.js 回退到 fetch，不会中断后面的脚本。
+-->
+<script src="../data/events.js" onerror="window.__EVENTS_LOAD_ERROR__='../data/events.js 加载失败（文件不存在 / 404 / 路径不对）'"></script>
+<script src="../data/competitions.js" onerror="window.__COMPETITIONS_LOAD_ERROR__='../data/competitions.js 加载失败（文件不存在 / 404 / 路径不对）'"></script>
+<script src="app.js"></script>
+
+<!-- site-footer:start -->
+<div data-site-footer data-site-mounted="true">
+  <footer class="site-footer">
+    <div class="site-wrap site-footer-inner">
+      <div class="site-footer-copy">
+        <p class="site-footer-title">武科大资源汇总站 · 学生共建 · 非官方</p>
+        <p class="site-footer-note">汇集公开赛事与学校资源；报名、认定及后续变更，请以学校和主办方原文为准。</p>
+      </div>
+      <div class="site-footer-links">
+        <a class="site-footer-link" href="https://www.wust.edu.cn/" target="_blank" rel="noopener noreferrer">学校官网</a>
+        <a class="site-footer-link" href="https://cxcy.wust.edu.cn/" target="_blank" rel="noopener noreferrer">创新创业学院</a>
+        <a class="site-footer-link" href="../index.html">网站首页</a>
+      </div>
+    </div>
+  </footer>
+</div>
+<!-- site-footer:end -->
+</body>
+</html>

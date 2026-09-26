@@ -1,0 +1,333 @@
+/* Shared shell only: no generic page reset, main-content rules or external fonts.
+ * Include after the page's own styles. All classes and custom properties use site-.
+ */
+.site-masthead,
+.site-nav,
+.site-footer,
+.site-home {
+  --site-navy: #033e83;
+  --site-blue: #005ca2;
+  --site-pale: #edf5fa;
+  --site-line: #dae4ee;
+  --site-font: "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", sans-serif;
+}
+
+.site-masthead,
+.site-nav,
+.site-footer {
+  box-sizing: border-box;
+  font-family: var(--site-font);
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.site-masthead *,
+.site-nav *,
+.site-footer * {
+  box-sizing: border-box;
+}
+
+.site-wrap {
+  width: min(1240px, calc(100% - 80px));
+  margin-inline: auto;
+}
+
+.site-masthead {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  background: #054b80 url('./assets/headbg.jpg') center / cover;
+  border: 0;
+}
+
+.site-masthead-inner {
+  min-height: 100px;
+  display: flex;
+  align-items: center;
+  padding-block: 16px;
+}
+
+.site-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 22px;
+  max-width: 100%;
+  color: #fff;
+  text-decoration: none;
+  touch-action: manipulation;
+}
+
+.site-brand:hover {
+  color: #fff;
+}
+
+.site-university-logo {
+  display: block;
+  width: 270px;
+  height: auto;
+  max-width: 100%;
+}
+
+.site-brand-divider {
+  flex: 0 0 1px;
+  height: 46px;
+  background: #ffffff55;
+}
+
+.site-brand-title {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.site-brand-name {
+  font-size: 26px;
+  line-height: 1.3;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+.site-brand-identity {
+  color: #e0edf3;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.site-nav {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  border: 0;
+  border-bottom: 1px solid var(--site-line);
+}
+
+.site-nav-inner {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.site-nav-link {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50px;
+  padding: 8px 10px;
+  color: var(--site-navy);
+  background: transparent;
+  text-decoration: none;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  touch-action: manipulation;
+}
+
+.site-nav-link:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  width: 1px;
+  height: 15px;
+  background: #c8d9e8;
+}
+
+.site-nav-link[aria-current="page"]::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 42px;
+  height: 3px;
+  background: var(--site-blue);
+}
+
+.site-nav-link:hover,
+.site-nav-link:focus-visible {
+  color: var(--site-blue);
+  background: var(--site-pale);
+}
+
+.site-brand:focus-visible,
+.site-nav-link:focus-visible,
+.site-footer-link:focus-visible,
+.site-action:focus-visible {
+  outline: 3px solid var(--site-blue, #005ca2);
+  outline-offset: 3px;
+}
+
+.site-nav-link:focus-visible {
+  outline-offset: -3px;
+}
+
+.site-footer {
+  margin: 0;
+  padding: 25px 0;
+  color: #fff;
+  background: #034276 url('./assets/headbg.jpg') left center / cover;
+  border: 0;
+}
+
+.site-footer-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px 36px;
+}
+
+.site-footer-copy {
+  min-width: 0;
+}
+
+.site-footer-title {
+  margin: 0 0 5px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.site-footer-note {
+  margin: 0;
+  color: #e1ecf4;
+  font-size: 12px;
+}
+
+.site-footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 20px;
+  flex-shrink: 0;
+}
+
+.site-footer-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: #e7f0f7;
+  text-decoration: none;
+  font-size: 12px;
+  touch-action: manipulation;
+}
+
+.site-footer-link:hover,
+.site-footer-link:focus-visible {
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+/* Optional class for subpage actions; does not restyle existing page controls. */
+.site-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 8px 18px;
+  border: 1px solid var(--site-blue, #005ca2);
+  border-radius: 8px;
+  background: var(--site-blue, #005ca2);
+  color: #fff;
+  font: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+.site-action:hover {
+  border-color: var(--site-navy, #033e83);
+  background: var(--site-navy, #033e83);
+  color: #fff;
+}
+
+/* Keep the approved demo intact; only the formal homepage opts into blue focus. */
+.site-home :where(a, button, input):focus-visible {
+  outline-color: var(--site-blue);
+}
+
+@media (max-width: 1100px) {
+  .site-wrap {
+    width: calc(100% - 48px);
+  }
+
+  .site-footer-inner {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 600px) {
+  .site-wrap {
+    width: calc(100% - 36px);
+  }
+
+  .site-masthead-inner {
+    min-height: 100px;
+  }
+
+  .site-brand {
+    width: 100%;
+    gap: 12px;
+  }
+
+  .site-university-logo {
+    width: 49%;
+    max-width: 218px;
+  }
+
+  .site-brand-divider {
+    height: 39px;
+  }
+
+  .site-brand-name {
+    font-size: clamp(17px, 4.4vw, 22px);
+    letter-spacing: 1px;
+  }
+
+  .site-brand-identity {
+    font-size: 10px;
+    letter-spacing: 1px;
+  }
+
+  .site-nav-inner {
+    width: 100%;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .site-nav-link {
+    min-height: 47px;
+    padding-inline: 4px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .site-nav-link:nth-child(3)::after {
+    display: none;
+  }
+
+  .site-nav-link:nth-child(-n+3) {
+    border-bottom: 1px solid var(--site-pale);
+  }
+
+  .site-nav-link[aria-current="page"]::before {
+    width: 32px;
+    height: 2px;
+  }
+
+  .site-footer {
+    padding-block: 22px;
+  }
+
+  .site-footer-inner {
+    display: block;
+  }
+
+  .site-footer-title {
+    font-size: 13px;
+  }
+
+  .site-footer-note {
+    font-size: 11px;
+  }
+
+  .site-footer-links {
+    margin-top: 10px;
+    gap: 4px 18px;
+  }
+}

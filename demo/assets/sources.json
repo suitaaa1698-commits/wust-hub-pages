@@ -1,0 +1,59 @@
+{
+  "purpose": "Local homepage design preview based on the user-specified college website",
+  "assets": [
+    {
+      "source": "https://cxcy.wust.edu.cn/img/headbg.png",
+      "file": "web\\demo\\assets\\headbg.png",
+      "size": 302439,
+      "dimensions": [
+        1920,
+        227
+      ]
+    },
+    {
+      "source": "https://cxcy.wust.edu.cn/img/logo.png",
+      "file": "web\\demo\\assets\\logo.png",
+      "size": 19746,
+      "dimensions": [
+        456,
+        103
+      ]
+    },
+    {
+      "source": "https://cxcy.wust.edu.cn/333.jpg",
+      "file": "web\\demo\\assets\\333.jpg",
+      "size": 2792638,
+      "dimensions": [
+        7680,
+        3840
+      ]
+    },
+    {
+      "source": "https://cxcy.wust.edu.cn/111.jpg",
+      "file": "web\\demo\\assets\\111.jpg",
+      "size": 1676572,
+      "dimensions": [
+        7680,
+        3840
+      ]
+    },
+    {
+      "source": "https://cxcy.wust.edu.cn/123.jpg",
+      "file": "web\\demo\\assets\\123.jpg",
+      "size": 2995457,
+      "dimensions": [
+        7680,
+        3840
+      ]
+    },
+    {
+      "source": "https://cxcy.wust.edu.cn/img/con_bg.png",
+      "file": "web\\demo\\assets\\con_bg.png",
+      "size": 126704,
+      "dimensions": [
+        1920,
+        450
+      ]
+    }
+  ]
+}

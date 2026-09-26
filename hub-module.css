@@ -1,0 +1,347 @@
+/* ==========================================================================
+   武科大资源汇总站 — 模块页共用样式（赛事总览 / 历年情况）
+   在 hub.css 之后加载：复用 hub.css 的 :root 变量、顶栏、卡片、页脚与色板，
+   这里只补充「模块页」的通用骨架（面包屑 / KPI / 工具栏 / 开关 / 空状态 / 标签）。
+   纯 CSS，零依赖 / 零外链资源 / 零 CDN。
+   ========================================================================== */
+
+/* ---------- 页面骨架 ------------------------------------------------------ */
+
+.mod-main {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 22px 18px 10px;
+}
+
+.mod-crumbs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+  margin-bottom: 14px;
+}
+
+.mod-hero h2 {
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: .3px;
+}
+
+.mod-hero .mod-lead {
+  margin-top: 8px;
+  max-width: 78ch;
+  color: var(--text-2);
+  font-size: 14.5px;
+}
+
+.mod-hero .mod-lead code {
+  font-family: var(--mono);
+  font-size: 12.5px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 0 4px;
+}
+
+/* ---------- KPI 数字条 ---------------------------------------------------- */
+
+.mod-kpis {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(148px, 1fr));
+  gap: 10px;
+  margin: 16px 0 14px;
+}
+
+.kpi {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-sm);
+  padding: 10px 12px;
+}
+
+.kpi .kpi-k {
+  display: block;
+  font-size: 12px;
+  color: var(--text-3);
+}
+
+.kpi .kpi-v {
+  display: block;
+  margin-top: 2px;
+  font-size: 21px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+}
+
+.kpi .kpi-sub {
+  display: block;
+  margin-top: 2px;
+  font-size: 11.5px;
+  color: var(--text-3);
+}
+
+.kpi.kpi-accent .kpi-v { color: var(--accent); }
+.kpi.kpi-none .kpi-v { color: #8b94a3; }
+.kpi.kpi-warn .kpi-v { color: var(--warn); }
+
+/* ---------- 工具栏 -------------------------------------------------------- */
+
+.toolbar {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  padding: 12px 14px;
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.tb-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 14px;
+}
+
+.tb-label {
+  font-size: 12.5px;
+  font-weight: 700;
+  color: var(--text-2);
+  white-space: nowrap;
+}
+
+.tb-grow { flex: 1 1 240px; min-width: 200px; }
+
+.tb-hint {
+  font-size: 12.5px;
+  color: var(--text-3);
+}
+
+.tb-right { margin-left: auto; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+
+/* 搜索框 */
+.input,
+.select {
+  font-family: inherit;
+  font-size: 13.5px;
+  color: var(--text);
+  background: var(--panel-2);
+  border: 1px solid var(--line-strong);
+  border-radius: 8px;
+  padding: 7px 11px;
+  outline: none;
+}
+
+.input:focus,
+.select:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+
+.input[type="search"] { appearance: none; }
+.select { padding-right: 26px; }
+
+.search-wrap { position: relative; display: flex; align-items: center; flex: 1 1 220px; }
+.search-wrap .search-icon { position: absolute; left: 10px; font-size: 13px; opacity: .6; pointer-events: none; }
+.search-wrap .input { padding-left: 30px; width: 100%; }
+
+/* 分段按钮（类别 / 状态 / 视图切换） */
+.seg {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0;
+  border: 1px solid var(--line-strong);
+  border-radius: 999px;
+  overflow: hidden;
+  background: var(--panel-2);
+}
+
+.seg > button {
+  border: 0;
+  border-right: 1px solid var(--line);
+  background: transparent;
+  color: var(--text-2);
+  font-family: inherit;
+  font-size: 13px;
+  padding: 6px 13px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.seg > button:last-child { border-right: 0; }
+.seg > button:hover { background: var(--accent-soft); color: var(--accent); }
+.seg > button.is-active { background: var(--accent); color: #fff; font-weight: 600; }
+.seg > button.is-active:hover { background: var(--accent-dark); color: #fff; }
+
+/* 类别色点按钮（A1/A2/B1/B2） */
+.seg > button.cat-btn { border-left: 0; }
+.seg > button.cat-btn .cdot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 5px;
+  vertical-align: 1px;
+  background: var(--cdot, #9aa3b2);
+}
+.seg > button.cat-btn.is-active { background: var(--cdot, var(--accent)); }
+
+/* 开关 */
+.switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--text-2);
+  cursor: pointer;
+  user-select: none;
+}
+
+.switch input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+
+.switch .switch-track {
+  flex: none;
+  width: 38px;
+  height: 21px;
+  border-radius: 999px;
+  background: #cfd6e4;
+  border: 1px solid var(--line-strong);
+  position: relative;
+  transition: background .16s ease;
+}
+
+.switch .switch-thumb {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, .25);
+  transition: transform .16s ease;
+}
+
+.switch input:checked + .switch-track { background: var(--accent); border-color: var(--accent); }
+.switch input:checked + .switch-track .switch-thumb { transform: translateX(17px); }
+.switch input:focus-visible + .switch-track { box-shadow: 0 0 0 3px var(--accent-soft); }
+
+/* 按钮 */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 7px 14px;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  background: var(--accent);
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn:hover { background: var(--accent-dark); color: #fff; }
+
+.btn.ghost {
+  background: var(--panel);
+  color: var(--text-2);
+  border-color: var(--line-strong);
+  box-shadow: none;
+}
+
+.btn.ghost:hover { background: var(--panel-2); color: var(--text); }
+
+/* ---------- 分类徽章 / 状态标签 ------------------------------------------- */
+
+.cat-badge {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 30px;
+  padding: 1px 7px;
+  border-radius: 6px;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: .4px;
+  color: #fff;
+  background: #9aa3b2;
+}
+
+.cat-A1 { background: #d93025; }
+.cat-A2 { background: #e8710a; }
+.cat-B1 { background: #1a73e8; }
+.cat-B2 { background: #188038; }
+.cat-other { background: #9aa3b2; }
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  font-size: 11.5px;
+  font-weight: 600;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+
+.tag-live { background: #e7f6ec; color: #14682f; border-color: #bfe3cb; }
+.tag-soft { background: var(--panel-2); color: var(--text-2); border-color: var(--line); }
+.tag-rank { background: #fdf1e3; color: #9a5b00; border-color: #f0d49a; }
+.tag-none { background: #eef0f4; color: #6b7482; border-color: #d8dde6; }
+.tag-none::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #98a1ae;
+}
+.tag-warn { background: var(--warn-bg); color: var(--warn); border-color: var(--warn-line); }
+
+/* ---------- 空状态 -------------------------------------------------------- */
+
+.mod-empty {
+  background: var(--panel);
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--radius);
+  padding: 26px 18px;
+  text-align: center;
+  color: var(--text-3);
+  font-size: 14px;
+}
+
+.mod-empty .me-icon { display: block; font-size: 26px; margin-bottom: 6px; }
+.mod-empty b { color: var(--text-2); }
+
+/* ---------- 数据来源诊断（读不到数据时显示，方便定位） -------------------- */
+.mod-diag {
+  margin: 12px 0 0;
+  padding: 10px 12px;
+  border-radius: var(--radius-sm);
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  font-size: 12px;
+  color: var(--text-3);
+  font-family: var(--mono);
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+/* ---------- 模块页页脚 ---------------------------------------------------- */
+
+/* 模块页页脚信息比首页长：窄屏允许换行（hub.css 里的 nowrap 是给首页短文案用的） */
+.hub-foot .foot-build { white-space: normal; }
+
+/* ---------- 响应式 -------------------------------------------------------- */
+
+@media (max-width: 720px) {
+  .mod-main { padding: 18px 14px 8px; }
+  .mod-hero h2 { font-size: 20px; }
+  .tb-right { margin-left: 0; }
+}

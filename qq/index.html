@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light"><title>QQ群与频道 · 武科大资源汇总</title><meta name="description" content="找到对应赛事与学院的通知群，复制群号后在 QQ 中搜索。"><link rel="icon" href="data:,"><link rel="stylesheet" href="../hub.css"><link rel="stylesheet" href="../resources.css">
+<link rel="stylesheet" href="../site-shell.css">
+<link rel="stylesheet" href="../site-pages.css">
+<script src="../site-shell.js" defer></script>
+</head>
+<body class="resource-page site-page" data-catalog="groups" data-page="qq">
+<!-- site-header:start -->
+<div data-site-header data-site-mounted="true">
+  <header class="site-masthead">
+    <div class="site-wrap site-masthead-inner">
+      <a class="site-brand" href="../index.html" aria-label="武科大资源汇总站首页 · 学生共建，非官方">
+        <img class="site-university-logo" src="../demo/assets/logo.png" width="456" height="103" alt="武汉科技大学 Wuhan University of Science and Technology">
+        <span class="site-brand-divider" aria-hidden="true"></span>
+        <span class="site-brand-title"><strong class="site-brand-name">资源汇总站</strong><span class="site-brand-identity">学生共建 · 非官方</span></span>
+      </a>
+    </div>
+  </header>
+  <nav class="site-nav" aria-label="主导航">
+    <div class="site-wrap site-nav-inner">
+      <a class="site-nav-link" href="../index.html">网站首页</a>
+      <a class="site-nav-link" href="../calendar/index.html">竞赛日历</a>
+      <a class="site-nav-link" href="../competitions/index.html">赛事总览</a>
+      <a class="site-nav-link" href="../history/index.html">历年情况</a>
+      <a class="site-nav-link" href="../policy/index.html">官网政策</a>
+      <a class="site-nav-link" href="../qq/index.html" aria-current="page">QQ群与频道</a>
+    </div>
+  </nav>
+</div>
+<!-- site-header:end -->
+<header class="hub-top page-heading"><div class="hub-top-inner"><div class="hub-brand"><div class="hub-brand-text"><h1>QQ群与频道</h1><p class="hub-sub">找到对应赛事与学院的通知群，复制群号后在 QQ 中搜索。</p></div></div></div></header>
+<main class="resource-wrap">
+
+<section class="resource-intro"><h2>通知入口，集中在这里</h2><p>先选负责单位或搜索赛事，再核对群号所属届次。</p></section>
+<p class="resource-note">群号来自学校与学院公开通知，仅核对了发布来源。是否仍可加入、是否已满或停用，请以负责单位确认为准；收录群号不表示赛事仍在报名。</p>
+<section class="resource-controls" id="resourceControls" aria-label="筛选资料"><div class="filter-grid">
+<label class="filter-field filter-search">搜索群与赛事<input id="searchInput" type="search" placeholder="输入赛事、学院或群号" autocomplete="off"></label>
+<label class="filter-field">负责单位<select id="orgFilter"><option value="">全部单位</option></select></label>
+<label class="filter-field">排序<select id="sortFilter"><option value="date">最近发布优先</option><option value="name">按名称排序</option></select></label>
+<button class="resource-btn filter-reset" id="resetFilters" type="button">重置筛选</button></div><div class="filter-chips" id="categoryChips" aria-label="入口类型"></div></section>
+<div class="resource-results-head"><h2 id="resultCount" role="status" aria-live="polite">正在加载资料…</h2><span>按通知所属届次收录</span></div>
+<div id="catalogList" class="group-grid"></div>
+<section id="emptyState" class="empty-panel" hidden><h3 id="emptyTitle">没有找到匹配的内容</h3><p id="emptyText">可以减少筛选条件后重试。</p><button class="resource-btn" id="emptyReset" type="button">查看全部资料</button></section>
+<section class="manual-copy" id="manualCopy" hidden><p>浏览器未允许自动复制，请选中群号后手动复制：</p><label for="copyValue">群号 </label><input id="copyValue" readonly></section>
+<div class="resource-feedback" id="feedback" role="status" aria-live="polite" hidden></div>
+<noscript><p class="resource-note">请启用浏览器 JavaScript，以加载资料和使用筛选功能。</p></noscript></main>
+<aside class="hub-foot page-footnote" aria-label="数据说明"><span class="foot-note">非官方资源汇总站 · 信息以学校与赛事官网原文为准</span><span class="foot-build" id="checkedDate"></span></aside>
+<script src="../resources-data.js"></script><script src="../resource-core.js"></script><script src="../catalog.js"></script>
+<!-- site-footer:start -->
+<div data-site-footer data-site-mounted="true">
+  <footer class="site-footer">
+    <div class="site-wrap site-footer-inner">
+      <div class="site-footer-copy">
+        <p class="site-footer-title">武科大资源汇总站 · 学生共建 · 非官方</p>
+        <p class="site-footer-note">汇集公开赛事与学校资源；报名、认定及后续变更，请以学校和主办方原文为准。</p>
+      </div>
+      <div class="site-footer-links">
+        <a class="site-footer-link" href="https://www.wust.edu.cn/" target="_blank" rel="noopener noreferrer">学校官网</a>
+        <a class="site-footer-link" href="https://cxcy.wust.edu.cn/" target="_blank" rel="noopener noreferrer">创新创业学院</a>
+        <a class="site-footer-link" href="../index.html">网站首页</a>
+      </div>
+    </div>
+  </footer>
+</div>
+<!-- site-footer:end -->
+</body></html>

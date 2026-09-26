@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<title>赛事总览 · 武科大资源汇总</title>
+<meta name="description" content="武汉科技大学 A1/A2/B1/B2/C 学生学科和科技竞赛全清单：按学校官方名录收录全部 224 项，展示名称、分级、时间（报名 / 举办评比）与面向对象，并提供官方入口。">
+<!-- 内联 SVG 图标：不引入任何外部资源 -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231a4fbf'/%3E%3Ctext x='16' y='23' font-size='16' text-anchor='middle' fill='%23ffffff' font-family='sans-serif'%3E%E8%B5%9B%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="../hub.css">
+<link rel="stylesheet" href="../hub-module.css">
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet" href="../site-shell.css">
+<link rel="stylesheet" href="../site-pages.css">
+<script src="../site-shell.js" defer></script>
+</head>
+<body class="site-page" data-page="competitions">
+<!-- site-header:start -->
+<div data-site-header data-site-mounted="true">
+  <header class="site-masthead">
+    <div class="site-wrap site-masthead-inner">
+      <a class="site-brand" href="../index.html" aria-label="武科大资源汇总站首页 · 学生共建，非官方">
+        <img class="site-university-logo" src="../demo/assets/logo.png" width="456" height="103" alt="武汉科技大学 Wuhan University of Science and Technology">
+        <span class="site-brand-divider" aria-hidden="true"></span>
+        <span class="site-brand-title"><strong class="site-brand-name">资源汇总站</strong><span class="site-brand-identity">学生共建 · 非官方</span></span>
+      </a>
+    </div>
+  </header>
+  <nav class="site-nav" aria-label="主导航">
+    <div class="site-wrap site-nav-inner">
+      <a class="site-nav-link" href="../index.html">网站首页</a>
+      <a class="site-nav-link" href="../calendar/index.html">竞赛日历</a>
+      <a class="site-nav-link" href="../competitions/index.html" aria-current="page">赛事总览</a>
+      <a class="site-nav-link" href="../history/index.html">历年情况</a>
+      <a class="site-nav-link" href="../policy/index.html">官网政策</a>
+      <a class="site-nav-link" href="../qq/index.html">QQ群与频道</a>
+    </div>
+  </nav>
+</div>
+<!-- site-header:end -->
+
+<header class="hub-top page-heading">
+  <div class="hub-top-inner">
+    <div class="hub-brand">
+      <div class="hub-brand-text">
+        <h1>赛事总览</h1>
+        <p class="hub-sub">A1 / A2 / B1 / B2 / C 学生学科和科技竞赛全清单：按学校官方名录收录全部 224 项，展示名称、分级、报名与举办评比时间、面向对象，并提供官方入口。</p>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="mod-main">
+
+  <div class="mod-crumbs">
+    <a class="ph-back" href="../index.html"><span aria-hidden="true">←</span> 返回资源汇总</a>
+    <a class="btn ghost" href="../calendar/index.html">📅 竞赛日历</a>
+  </div>
+
+  <div class="mod-hero">
+    <h2>一共有哪些竞赛？</h2>
+    <p class="mod-lead">
+      这里按学校官方名录（2025 年更新，武科大学〔2025〕6 号）收录 <b>A1–C 全部 224 项</b>竞赛，
+      展示赛事名称、分级、报名与举办评比时间、面向对象，以及可用的官方入口链接；
+      奖项认定口径与后续变化以学校文件和主办方原文为准。
+      标着「暂无报名信息」的，是<b>已经抓过来源、但还没发现时间信息</b>的赛事；
+      <b>C 类</b>为省级 / 其他认定赛事，本轮尚未抓取时间信息，行内显示「暂未收录时间信息」。
+    </p>
+  </div>
+
+  <div class="mod-kpis" id="kpis" aria-live="polite"></div>
+
+  <div class="comp-layout">
+    <aside class="cc-panel" id="catPanel" aria-labelledby="catPanelTitle">
+      <div class="cc-head">
+        <h2 class="cc-title" id="catPanelTitle">竞赛类别</h2>
+        <p class="cc-summary" id="catSummary" aria-live="polite"></p>
+      </div>
+      <div class="cc-groups" id="catGroups"></div>
+    </aside>
+
+    <div class="comp-content">
+  <div class="toolbar" aria-label="筛选与排序">
+    <div class="tb-row">
+      <div class="search-wrap tb-grow">
+        <span class="search-icon" aria-hidden="true">🔍</span>
+        <input type="search" id="q" class="input" placeholder="搜索赛事名称 / 校内单位 / 主办单位…" autocomplete="off">
+      </div>
+      <div class="tb-right">
+        <label class="tb-label" for="sortSel">排序</label>
+        <select id="sortSel" class="select">
+          <option value="no">按序号</option>
+          <option value="events">按事件数（多 → 少）</option>
+          <option value="last">按最近事件（新 → 旧）</option>
+          <option value="name">按名称</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="tb-row">
+      <span class="tb-label">类别</span>
+      <div class="seg" id="catSeg" role="group" aria-label="按类别筛选">
+        <button type="button" data-cat="" class="is-active" aria-pressed="true">全部</button>
+        <button type="button" data-cat="A1" class="cat-btn" aria-pressed="false" style="--cdot:#d93025"><span class="cdot"></span>A1</button>
+        <button type="button" data-cat="A2" class="cat-btn" aria-pressed="false" style="--cdot:#e8710a"><span class="cdot"></span>A2</button>
+        <button type="button" data-cat="B1" class="cat-btn" aria-pressed="false" style="--cdot:#1a73e8"><span class="cdot"></span>B1</button>
+        <button type="button" data-cat="B2" class="cat-btn" aria-pressed="false" style="--cdot:#188038"><span class="cdot"></span>B2</button>
+        <button type="button" data-cat="C" class="cat-btn" aria-pressed="false" style="--cdot:#5f7a95"><span class="cdot"></span>C</button>
+      </div>
+      <span class="tb-label">校内单位</span>
+      <select id="orgSel" class="select"><option value="">全部单位</option></select>
+      <span class="tb-label">面向对象</span>
+      <select id="audSel" class="select"><option value="">全部对象</option></select>
+    </div>
+
+    <div class="tb-row">
+      <span class="tb-label">事件信息</span>
+      <div class="seg" id="statusSeg" role="group" aria-label="按是否有事件筛选">
+        <button type="button" data-status="" class="is-active" aria-pressed="true">全部</button>
+        <button type="button" data-status="ok" aria-pressed="false">有事件</button>
+        <button type="button" data-status="none" aria-pressed="false">暂无信息</button>
+      </div>
+      <label class="switch" title="打开后只显示已经抓到事件时间信息的赛事">
+        <input type="checkbox" id="onlyInfo">
+        <span class="switch-track"><span class="switch-thumb"></span></span>
+        <span>只看有信息的</span>
+      </label>
+      <label class="switch" title="打开后只显示中国高等教育学会排行榜内的赛事">
+        <input type="checkbox" id="rankOnly">
+        <span class="switch-track"><span class="switch-thumb"></span></span>
+        <span>只看排行榜赛事</span>
+      </label>
+      <div class="tb-right">
+        <button type="button" class="btn ghost" id="btnReset">重置筛选</button>
+      </div>
+    </div>
+
+    <div class="tb-row">
+      <span class="result-line" id="resultLine">—</span>
+      <span class="tb-hint" id="coverageHint"></span>
+    </div>
+  </div>
+
+  <div class="comp-list" id="compList" role="list"></div>
+
+  <div class="mod-empty" id="emptyState" hidden>
+    <span class="me-icon" aria-hidden="true">🔍</span>
+    <b>没有符合条件的赛事。</b>试试放宽筛选，或点「重置筛选」看全部赛事。
+  </div>
+
+  <div class="mod-diag" id="diag" hidden></div>
+    </div>
+  </div>
+
+</main>
+
+<aside class="hub-foot page-footnote" aria-label="数据说明">
+  <span class="foot-note">数据来自学校公开名录（2025 年更新，武科大学〔2025〕6 号）与赛事官方页面，仅供参考；非官方发布渠道。「暂无报名信息」表示已抓取来源但尚未抽出时间信息，「暂未收录时间信息」表示尚未抓取该赛事（主要为 C 类），均不代表赛事未举办。</span>
+  <span class="foot-build" id="footMeta">—</span>
+</aside>
+
+<!--
+  内嵌数据通道：这些文件由抓取管线产出（分别是 window.__EVENTS__ / __COMPETITIONS__ / __COVERAGE__）。
+  必须放在 app.js 之前：这样用 file:// 直接双击打开时也能拿到数据（fetch 本地 json 会被 CORS 拦掉）。
+  文件不存在时用 onerror 记下原因后静默跳过，由 hub-data.js 决定回退策略：
+  coverage 缺失时改用 sources.json + events.json 本地推导，「已抓 N 个来源」照常显示。
+-->
+<script src="../data/events.js" onerror="window.__EVENTS_LOAD_ERROR__='../data/events.js 加载失败（文件不存在 / 404 / 路径不对）'"></script>
+<script src="../data/competitions.js" onerror="window.__COMPETITIONS_LOAD_ERROR__='../data/competitions.js 加载失败（文件不存在 / 404 / 路径不对）'"></script>
+<script src="../data/coverage.js" onerror="window.__COVERAGE_LOAD_ERROR__='../data/coverage.js 加载失败（尚无 coverage 数据，改用 sources.json 本地推导）'"></script>
+<script src="../hub-data.js"></script>
+<script src="categories.js"></script>
+<script src="app.js"></script>
+
+<!-- 行点击 → 右侧详情抽屉（结构与交互对齐竞赛日历页：overlay + aside.drawer，先于页脚） -->
+<div class="overlay" id="compOverlay" hidden></div>
+<aside class="drawer" id="compDrawer" role="dialog" aria-modal="true" aria-labelledby="compDrawerTitle" hidden></aside>
+
+<!-- site-footer:start -->
+<div data-site-footer data-site-mounted="true">
+  <footer class="site-footer">
+    <div class="site-wrap site-footer-inner">
+      <div class="site-footer-copy">
+        <p class="site-footer-title">武科大资源汇总站 · 学生共建 · 非官方</p>
+        <p class="site-footer-note">汇集公开赛事与学校资源；报名、认定及后续变更，请以学校和主办方原文为准。</p>
+      </div>
+      <div class="site-footer-links">
+        <a class="site-footer-link" href="https://www.wust.edu.cn/" target="_blank" rel="noopener noreferrer">学校官网</a>
+        <a class="site-footer-link" href="https://cxcy.wust.edu.cn/" target="_blank" rel="noopener noreferrer">创新创业学院</a>
+        <a class="site-footer-link" href="../index.html">网站首页</a>
+      </div>
+    </div>
+  </footer>
+</div>
+<!-- site-footer:end -->
+</body>
+</html>

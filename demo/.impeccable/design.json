@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-23T03:26:53.000Z",
+  "title": "Design System: 武科大资源汇总站 · 首页 Demo",
+  "extensions": {
+    "colorMeta": {
+      "navy": {
+        "role": "primary",
+        "displayName": "校园深蓝",
+        "tonalRamp": [
+          "oklch(15.00% 0.12873 256.81)",
+          "oklch(26.43% 0.12873 256.81)",
+          "oklch(37.86% 0.12873 256.81)",
+          "oklch(49.29% 0.12873 256.81)",
+          "oklch(60.71% 0.12873 256.81)",
+          "oklch(72.14% 0.12873 256.81)",
+          "oklch(83.57% 0.12873 256.81)",
+          "oklch(95.00% 0.12873 256.81)"
+        ]
+      },
+      "blue": {
+        "role": "primary",
+        "displayName": "功能蓝",
+        "tonalRamp": [
+          "oklch(15.00% 0.13446 250.50)",
+          "oklch(26.43% 0.13446 250.50)",
+          "oklch(37.86% 0.13446 250.50)",
+          "oklch(49.29% 0.13446 250.50)",
+          "oklch(60.71% 0.13446 250.50)",
+          "oklch(72.14% 0.13446 250.50)",
+          "oklch(83.57% 0.13446 250.50)",
+          "oklch(95.00% 0.13446 250.50)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "正文墨色",
+        "tonalRamp": [
+          "oklch(15.00% 0.03823 247.62)",
+          "oklch(26.43% 0.03823 247.62)",
+          "oklch(37.86% 0.03823 247.62)",
+          "oklch(49.29% 0.03823 247.62)",
+          "oklch(60.71% 0.03823 247.62)",
+          "oklch(72.14% 0.03823 247.62)",
+          "oklch(83.57% 0.03823 247.62)",
+          "oklch(95.00% 0.03823 247.62)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "辅助灰蓝",
+        "tonalRamp": [
+          "oklch(15.00% 0.03952 245.99)",
+          "oklch(26.43% 0.03952 245.99)",
+          "oklch(37.86% 0.03952 245.99)",
+          "oklch(49.29% 0.03952 245.99)",
+          "oklch(60.71% 0.03952 245.99)",
+          "oklch(72.14% 0.03952 245.99)",
+          "oklch(83.57% 0.03952 245.99)",
+          "oklch(95.00% 0.03952 245.99)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "浅线蓝",
+        "tonalRamp": [
+          "oklch(15.00% 0.01738 248.02)",
+          "oklch(26.43% 0.01738 248.02)",
+          "oklch(37.86% 0.01738 248.02)",
+          "oklch(49.29% 0.01738 248.02)",
+          "oklch(60.71% 0.01738 248.02)",
+          "oklch(72.14% 0.01738 248.02)",
+          "oklch(83.57% 0.01738 248.02)",
+          "oklch(95.00% 0.01738 248.02)"
+        ]
+      },
+      "pale": {
+        "role": "neutral",
+        "displayName": "浅蓝底",
+        "tonalRamp": [
+          "oklch(15.00% 0.01345 240.95)",
+          "oklch(26.43% 0.01345 240.95)",
+          "oklch(37.86% 0.01345 240.95)",
+          "oklch(49.29% 0.01345 240.95)",
+          "oklch(60.71% 0.01345 240.95)",
+          "oklch(72.14% 0.01345 240.95)",
+          "oklch(83.57% 0.01345 240.95)",
+          "oklch(95.00% 0.01345 240.95)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "白纸",
+        "tonalRamp": [
+          "oklch(15.00% 0.00000 89.88)",
+          "oklch(26.43% 0.00000 89.88)",
+          "oklch(37.86% 0.00000 89.88)",
+          "oklch(49.29% 0.00000 89.88)",
+          "oklch(60.71% 0.00000 89.88)",
+          "oklch(72.14% 0.00000 89.88)",
+          "oklch(83.57% 0.00000 89.88)",
+          "oklch(95.00% 0.00000 89.88)"
+        ]
+      },
+      "subheading": {
+        "role": "neutral",
+        "displayName": "栏目灰蓝",
+        "tonalRamp": [
+          "oklch(15.00% 0.04962 248.81)",
+          "oklch(26.43% 0.04962 248.81)",
+          "oklch(37.86% 0.04962 248.81)",
+          "oklch(49.29% 0.04962 248.81)",
+          "oklch(60.71% 0.04962 248.81)",
+          "oklch(72.14% 0.04962 248.81)",
+          "oklch(83.57% 0.04962 248.81)",
+          "oklch(95.00% 0.04962 248.81)"
+        ]
+      },
+      "focus": {
+        "role": "secondary",
+        "displayName": "焦点琥珀",
+        "tonalRamp": [
+          "oklch(15.00% 0.13814 67.78)",
+          "oklch(26.43% 0.13814 67.78)",
+          "oklch(37.86% 0.13814 67.78)",
+          "oklch(49.29% 0.13814 67.78)",
+          "oklch(60.71% 0.13814 67.78)",
+          "oklch(72.14% 0.13814 67.78)",
+          "oklch(83.57% 0.13814 67.78)",
+          "oklch(95.00% 0.13814 67.78)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "横幅宋体标题",
+        "purpose": "仅描述当前校园横幅的大标题；小屏变体见 DESIGN.md Layout / Typography。"
+      },
+      "headline": {
+        "displayName": "栏目标题",
+        "purpose": "信息区中文主标题。"
+      },
+      "title": {
+        "displayName": "条目标题",
+        "purpose": "通知和政策标题先于元数据。"
+      },
+      "body": {
+        "displayName": "界面正文",
+        "purpose": "系统中文字体的页面基准。"
+      },
+      "label": {
+        "displayName": "辅助入口文字",
+        "purpose": "更多、来源等次级入口；不建立通用装饰性标签规范。"
+      },
+      "navigation": {
+        "displayName": "主导航",
+        "purpose": "桌面六个可见模块入口。"
+      },
+      "action": {
+        "displayName": "横幅操作",
+        "purpose": "摄影上的白底入口。"
+      }
+    },
+    "shadows": [
+      {
+        "name": "toast",
+        "value": "0 4px 22px #07284522",
+        "purpose": "仅用于短暂显示的复制反馈。"
+      },
+      {
+        "name": "hero-heading-text",
+        "value": "0 2px 10px #001c3345",
+        "purpose": "横幅标题的 text-shadow，不是容器投影。"
+      },
+      {
+        "name": "photo-caption-text",
+        "value": "0 1px 4px #001c33",
+        "purpose": "照片说明的 text-shadow。"
+      }
+    ],
+    "motion": [
+      {
+        "name": "hero-button-background",
+        "value": "background .16s",
+        "purpose": "横幅按钮悬停底色。"
+      },
+      {
+        "name": "service-icon-background",
+        "value": "background .15s",
+        "purpose": "服务图标悬停底色。"
+      },
+      {
+        "name": "scroll",
+        "value": "smooth",
+        "purpose": "HTML 默认平滑滚动；减少动态效果时为 auto。"
+      },
+      {
+        "name": "reduced-motion",
+        "value": "@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}",
+        "purpose": "尊重用户减少动态效果设置。"
+      },
+      {
+        "name": "carousel",
+        "value": "auto 5000ms loop + pause control",
+        "purpose": "三幅横幅每 5 秒自动切换并循环；手动选图后重新计时，横幅右下角暂停按钮可停止或恢复，减少动态效果时默认暂停。"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "1600px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1100px"
+      },
+      {
+        "name": "tablet",
+        "value": "820px"
+      },
+      {
+        "name": "mobile",
+        "value": "540px"
+      }
+    ],
+    "focus": {
+      "value": "3px solid #c37a0d",
+      "offset": "4px",
+      "purpose": "按钮、链接与输入的 focus-visible 轮廓。"
+    },
+    "overlays": [
+      {
+        "name": "hero-desktop",
+        "value": "linear-gradient(90deg,rgba(4,34,58,.76),rgba(5,36,59,.38) 44%,rgba(4,30,48,.06) 76%),linear-gradient(0deg,rgba(3,25,45,.32),transparent 30%)"
+      },
+      {
+        "name": "hero-mobile",
+        "value": "linear-gradient(90deg,rgba(4,34,58,.81),rgba(5,36,59,.43) 78%,rgba(4,30,48,.2)),linear-gradient(0deg,rgba(3,25,45,.3),transparent 30%)"
+      }
+    ],
+    "scope": {
+      "root": "web/demo/",
+      "status": "homepage-ui-approved-2026-09-22-full-site-rollout-undecided",
+      "sourceFiles": [
+        "index.html",
+        "style.css",
+        "app.js"
+      ],
+      "sourceManifest": "assets/sources.json",
+      "reference": "https://cxcy.wust.edu.cn/",
+      "approvedGlobalReplacement": false,
+      "tonalRampNote": "色阶为 sidecar 展示合成的同色相、同彩度 OKLCH 8 级样本，未加入 CSS，也不构成已实现的调色板。"
+    }
+  },
+  "components": [
+    {
+      "name": "横幅主入口",
+      "kind": "button",
+      "refersTo": "button-hero",
+      "description": "摄影上的白底入口；桌面最小高度 44px，手机缩小横向间距。",
+      "html": "<a class=\"ds-hero-button\" href=\"#calendar\">查看竞赛日历 <svg class=\"ds-icon\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M4 12h15m-6-6 6 6-6 6\"/></svg></a>",
+      "css": ".ds-icon{display:inline-block;width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle;flex-shrink:0}.ds-hero-button{display:inline-flex;align-items:center;gap:28px;min-height:44px;border-radius:8px;padding:8px 19px;background:var(--paper,#fff);color:var(--navy,#033e83);font:600 14px/1.7 \"Microsoft YaHei\",\"PingFang SC\",\"Noto Sans CJK SC\",sans-serif;text-decoration:none;transition:background .16s}.ds-hero-button:hover{background:#dfeef7;color:var(--navy,#033e83)}.ds-hero-button:focus-visible{outline:3px solid #c37a0d;outline-offset:4px}@media(max-width:540px){.ds-hero-button{font-size:13px;padding:8px 15px;gap:22px}}@media(prefers-reduced-motion:reduce){.ds-hero-button{transition:none}}"
+    },
+    {
+      "name": "群号复制按钮",
+      "kind": "button",
+      "refersTo": "button-copy",
+      "description": "显示可复制的群号；完整复制逻辑和手动后备在 app.js，样本展示默认与指针/焦点状态。",
+      "html": "<button class=\"ds-copy-group\" type=\"button\" aria-label=\"复制群号1090920713\"><span>1090920713</span><svg class=\"ds-icon\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><rect x=\"8\" y=\"8\" width=\"12\" height=\"13\" rx=\"1\"/><path d=\"M16 8V3H3v13h5\"/></svg></button>",
+      "css": ".ds-icon{display:inline-block;width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle;flex-shrink:0}.ds-copy-group{border:1px solid var(--line,#dae4ee);border-radius:0;background:#f8fafc;color:var(--blue,#005ca2);min-height:44px;padding:4px 10px;display:flex;align-items:center;gap:12px;font:14px/1.7 Arial,\"Microsoft YaHei\",\"PingFang SC\",\"Noto Sans CJK SC\",sans-serif;font-variant-numeric:tabular-nums;letter-spacing:.6px;cursor:pointer}.ds-copy-group .ds-icon{width:15px;height:15px}.ds-copy-group:hover{background:var(--pale,#eaf3fa);border-color:#9bbbd8}.ds-copy-group:focus-visible{outline:3px solid #c37a0d;outline-offset:4px}@media(max-width:540px){.ds-copy-group{gap:22px;padding:6px 12px}}"
+    },
+    {
+      "name": "关闭搜索",
+      "kind": "button",
+      "refersTo": "button-text",
+      "description": "透明底文字操作；当前实现保持底色，焦点轮廓提示键盘状态。",
+      "html": "<button class=\"ds-text-button\" type=\"button\">关闭搜索 <svg class=\"ds-icon\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"m6 6 12 12M6 18 18 6\"/></svg></button>",
+      "css": ".ds-icon{display:inline-block;width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle;flex-shrink:0}.ds-text-button{border:0;background:transparent;font:13px/1.7 \"Microsoft YaHei\",\"PingFang SC\",\"Noto Sans CJK SC\",sans-serif;display:flex;align-items:center;gap:8px;min-height:44px;color:var(--blue,#005ca2);cursor:pointer}.ds-text-button:hover{background:transparent;color:var(--blue,#005ca2)}.ds-text-button:focus-visible{outline:3px solid #c37a0d;outline-offset:4px}"
+    },
+    {
+      "name": "页头搜索框",
+      "kind": "input",
+      "refersTo": "search-input",
+      "description": "桌面高 40px、手机 42px 的搜索框；提交逻辑由页面脚本提供。",
+      "html": "<form class=\"ds-search-form\" role=\"search\"><input class=\"ds-search-input\" type=\"search\" aria-label=\"搜索赛事、政策、通知群\" placeholder=\"搜索赛事、政策、通知群\" autocomplete=\"off\" maxlength=\"100\"><button class=\"ds-search-submit\" type=\"submit\" aria-label=\"搜索\"><svg class=\"ds-icon\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><circle cx=\"10.5\" cy=\"10.5\" r=\"6.5\"/><path d=\"m16 16 5 5\"/></svg></button></form>",
+      "css": ".ds-icon{display:inline-block;width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle;flex-shrink:0}.ds-search-form{display:flex;background:#ffffffed;height:40px;border:1px solid #ffffff80;width:308px;max-width:100%}.ds-search-input{width:100%;min-width:0;border:0;border-radius:0;background:transparent;padding:0 13px;color:var(--ink,#263849);font:13px/1.7 \"Microsoft YaHei\",\"PingFang SC\",\"Noto Sans CJK SC\",sans-serif}.ds-search-input::placeholder{color:#617485}.ds-search-submit{width:45px;min-width:45px;border:0;background:transparent;color:var(--blue,#005ca2);cursor:pointer}.ds-search-submit:hover{background:#dbeaf2}.ds-search-input:focus,.ds-search-submit:focus-visible{outline:none}.ds-search-form:focus-within{border-color:var(--blue,#005ca2)}@media(max-width:540px){.ds-search-form{height:42px}.ds-search-submit{min-height:42px}}"
+    },
+    {
+      "name": "可见文字导航",
+      "kind": "nav",
+      "refersTo": "navigation-link",
+      "description": "六个入口保持可见；桌面六列、手机三列两行，当前页使用底部短线。",
+      "html": "<nav class=\"ds-main-nav\" aria-label=\"主导航\"><a class=\"ds-nav-link\" href=\"#home\" aria-current=\"page\">网站首页</a><a class=\"ds-nav-link\" href=\"#calendar\">竞赛日历</a><a class=\"ds-nav-link\" href=\"#competitions\">赛事总览</a><a class=\"ds-nav-link\" href=\"#history\">历年情况</a><a class=\"ds-nav-link\" href=\"#policy\">官网政策</a><a class=\"ds-nav-link\" href=\"#groups\">QQ群与频道</a></nav>",
+      "css": ".ds-main-nav{display:grid;grid-template-columns:repeat(6,1fr);background:#fff;border-bottom:1px solid #e3e9ef}.ds-nav-link{position:relative;display:flex;align-items:center;justify-content:center;min-height:62px;font:600 17px/1.7 \"Microsoft YaHei\",\"PingFang SC\",\"Noto Sans CJK SC\",sans-serif;color:var(--navy,#033e83);text-decoration:none}.ds-nav-link:not(:last-child)::after{content:\"\";height:15px;width:1px;background:#c8d9e8;position:absolute;right:0}.ds-nav-link[aria-current=\"page\"]::before{content:\"\";position:absolute;bottom:0;width:48px;height:3px;background:var(--blue,#005ca2)}.ds-nav-link:hover{background:#edf5fa}.ds-nav-link:focus-visible{outline:3px solid #c37a0d;outline-offset:4px}@media(max-width:820px){.ds-nav-link{font-size:15px;min-height:56px}}@media(max-width:540px){.ds-main-nav{grid-template-columns:repeat(3,1fr)}.ds-nav-link{min-height:47px;font-size:14px;font-weight:500}.ds-nav-link:nth-child(3)::after{display:none}.ds-nav-link:nth-child(-n+3){border-bottom:1px solid #edf2f6}.ds-nav-link[aria-current=\"page\"]::before{width:32px;height:2px}}"
+    },
+    {
+      "name": "政策文件行",
+      "kind": "card",
+      "refersTo": "policy-row",
+      "description": "标题先于分类、日期和来源的平面列表行，无独立卡片边框或类别竖条。",
+      "html": "<a class=\"ds-policy-item\" href=\"#policy\"><h3 class=\"ds-policy-title\">学生学科和科技竞赛管理办法（修订）</h3><div class=\"ds-policy-meta\"><span class=\"ds-policy-category\">竞赛认定</span><time class=\"ds-policy-date\" datetime=\"2025-09-18\">2025-09-18</time></div><p class=\"ds-policy-source\">创新创业学院 · 查看原文 <svg class=\"ds-icon\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M14 3h7v7M21 3 10 14m0-9H3v16h16v-7\"/></svg></p></a>",
+      "css": ".ds-icon{display:inline-block;width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle;flex-shrink:0}.ds-policy-item{display:block;padding:18px 0;border-bottom:1px dashed var(--line,#dae4ee);color:var(--ink,#263849);font-family:\"Microsoft YaHei\",\"PingFang SC\",\"Noto Sans CJK SC\",sans-serif;text-decoration:none}.ds-policy-title{font-size:15px;font-weight:500;line-height:1.7;margin:0}.ds-policy-meta{display:flex;align-items:center;gap:10px;margin-top:9px;font-size:11px;color:var(--muted,#52677a)}.ds-policy-category{color:var(--blue,#005ca2);line-height:1.1}.ds-policy-date{margin-left:auto;font-variant-numeric:tabular-nums}.ds-policy-source{font-size:11px;color:var(--muted,#52677a);margin:6px 0 0;line-height:1.7}.ds-policy-source .ds-icon{width:12px;height:12px;margin-left:4px}.ds-policy-item:hover,.ds-policy-item:focus-visible{background:#edf5fa;color:var(--blue,#005ca2)}.ds-policy-item:hover .ds-policy-title,.ds-policy-item:focus-visible .ds-policy-title{color:var(--blue,#005ca2)}.ds-policy-item:focus-visible{outline:3px solid #c37a0d;outline-offset:4px}@media(max-width:540px){.ds-policy-item{padding:17px 0}.ds-policy-title{font-size:14px}}"
+    },
+    {
+      "name": "学院政策提示入口",
+      "kind": "card",
+      "refersTo": "policy-callout",
+      "description": "浅蓝矩形提示，引导核对学院与届次适用范围。",
+      "html": "<a class=\"ds-policy-callout\" href=\"#policy-scope\"><svg class=\"ds-icon\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M14 2H5v20h14V7l-5-5Zm0 0v6h5M8 12h8m-8 4h8\"/></svg><span class=\"ds-callout-copy\"><strong class=\"ds-callout-title\">查找本学院推免细则</strong><small class=\"ds-callout-detail\">按学院、届次核对适用范围</small></span><svg class=\"ds-icon\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M4 12h15m-6-6 6 6-6 6\"/></svg></a>",
+      "css": ".ds-icon{display:inline-block;width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle;flex-shrink:0}.ds-policy-callout{background:var(--pale,#eaf3fa);display:flex;align-items:center;gap:12px;padding:19px 15px;color:var(--blue,#005ca2);font-family:\"Microsoft YaHei\",\"PingFang SC\",\"Noto Sans CJK SC\",sans-serif;line-height:1.7;text-decoration:none}.ds-callout-copy{flex:1}.ds-callout-title{display:block;font-size:14px;font-weight:600}.ds-callout-detail{font-size:11px;color:var(--muted,#52677a);display:block;margin-top:3px}.ds-policy-callout:hover{background:#e0edf6}.ds-policy-callout>.ds-icon:last-child{width:18px}.ds-policy-callout:focus-visible{outline:3px solid #c37a0d;outline-offset:4px}@media(max-width:540px){.ds-policy-callout{padding:17px 13px}}"
+    },
+    {
+      "name": "快捷服务入口",
+      "kind": "custom",
+      "refersTo": "service-icon",
+      "description": "圆形蓝底线描图标与文字组合，是页面的局部服务入口。",
+      "html": "<a class=\"ds-service-link\" href=\"#calendar\"><span class=\"ds-service-icon\"><svg class=\"ds-icon\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"16\" rx=\"1\"/><path d=\"M7 2v6m10-6v6M3 11h18m-14 4h3m4 0h3m-10 3h3\"/></svg></span><span>竞赛日历</span></a>",
+      "css": ".ds-icon{display:inline-block;width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle;flex-shrink:0}.ds-service-link{display:flex;flex-direction:column;align-items:center;gap:12px;font:500 14px/1.7 \"Microsoft YaHei\",\"PingFang SC\",\"Noto Sans CJK SC\",sans-serif;color:var(--navy,#033e83);text-align:center;text-decoration:none}.ds-service-icon{width:62px;height:62px;border-radius:50%;background:var(--blue,#005ca2);color:white;display:flex;align-items:center;justify-content:center;transition:background .15s}.ds-service-icon .ds-icon{width:29px;height:29px;stroke-width:1.35}.ds-service-link:hover .ds-service-icon{background:var(--navy,#033e83)}.ds-service-link:focus-visible{outline:3px solid #c37a0d;outline-offset:4px}@media(max-width:820px){.ds-service-link{font-size:12px}.ds-service-icon{width:54px;height:54px}}@media(max-width:540px){.ds-service-link{gap:9px}.ds-service-icon{width:52px;height:52px}.ds-service-icon .ds-icon{width:26px;height:26px}}@media(prefers-reduced-motion:reduce){.ds-service-icon{transition:none}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "校园资源门户",
+    "overview": "这是对 `web/demo/index.html`、`style.css`、`app.js` 当前实现的提取，作用域仅为 `web/demo/`。以上名称是对已实现气质的描述。首页视觉已于 2026-09-22 经用户查看实际页面后认可；本文件仍不代表已批准替换正式首页或统一各子页面，也不继承无关父目录产品的视觉权威。\n\n用户指定的[武汉科技大学创新创业学院官网](https://cxcy.wust.edu.cn/)决定了校园纹理页头、校标、白底导航、校园摄影与蓝色栏目标题的组合。页面以密度适中的文字列表连接现有资源，保留“学生共建 · 非官方”身份。具体栏目编排属于本次首页方案，不作为所有未来页面的固定模板。",
+    "keyCharacteristics": [
+      "校园摄影、蓝绿纹理与浅色建筑线描提供地域识别。",
+      "深蓝标题、功能蓝链接、细分隔线形成清晰层级。",
+      "文字列表和平面矩形为主，圆形仅用于快捷服务图标。",
+      "手机保留全部导航入口，并将主体内容改为单列。",
+      "预览独立、来源可查，现有功能页保留其当前界面。"
+    ],
+    "rules": [],
+    "dos": [
+      "**Do** 将本文件用于独立首页 Demo 的维护；首页视觉已获用户认可，但替换原首页与推广到子页面仍待决定。",
+      "**Do** 保留校内素材的逐项来源和学生共建、非官方身份说明。",
+      "**Do** 让标题先于元数据，使用可读的辅助灰蓝，保留键盘焦点与手机导航入口。",
+      "**Do** 保留真实数据、原文链接、缺失状态和手动复制后备操作。"
+    ],
+    "donts": [
+      "**Don't** 将此预览自动提升为正式站点或父目录项目的设计权威。",
+      "**Don't** 把截图数字、通知快照或群号届次包装成实时状态。",
+      "**Don't** 把本次首页的栏目顺序、英文副标题和图文构图规定为所有未来页面的模板。",
+      "**Don't** 因文档已记录素材而视为已经完成公开部署准备；当前仍保留原始高分辨率照片，发布前的资源压缩尚未实施。"
+    ]
+  }
+}
